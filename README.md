@@ -27,6 +27,11 @@
 ## Honorable mentions
 🌙 [Hoyolab Resin Counter](https://github.com/seriaati/hoyolab-resin-counter): My first project on GitHub with Python, this is where everything started.
 
+## Stuff related to stocks
+[CB Auto Trade](https://github.com/seriaati/cb-auto-trade): A script that trades convertible bonds automatically using [Shioaji](https://github.com/Sinotrade/Shioaji).  
+[Stock Crawl](https://github.com/seriaati/stock_crawl): A package for fetching stock data, either through public APIs or website crawling.  
+[Stock Fast API](https://github.com/seriaati/stock_fast_api): An API for fetching historical stock prices.  
+
 # Some stats
 [![seriaati's GitHub stats](https://github-readme-stats.vercel.app/api?username=seriaati&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriaati&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
