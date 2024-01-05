@@ -7,7 +7,7 @@
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): My largest and most sucessful project so far (discontinued).  
 🚧 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): The rewrite of Shenhe that is in-progress.  
 💙 [Layla](https://github.com/seriaati/layla): A small bot with anime image searching features derived from Shenhe.  
-📅 [Schedule Bot](https://github.com/seriaati/ScheduleBot): A collab project with other people.
+📅 [Schedule Bot](https://github.com/seriaati/ScheduleBot): A collab project with other people.  
 🛝 [Sugari](https://github.com/Sugari-Bot): A multi-purpose Discord bot that I contributed a small part of.
 
 ## API wrappers
