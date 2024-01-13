@@ -20,6 +20,7 @@
 ## Web apps (with [Flet](https://github.com/flet-dev/flet))
 ➡️ [Enka to GO](https://github.com/seriaati/enka-to-go): A website that converts your showcase on [Enka](https://enka.network/) to [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/) for damage calculations.  
 🧑‍🤝‍🧑 [Tuan Tuan](https://github.com/chatmind-studio/tuan-tuan): A web app + LINE bot combo that assists tasks related to group buying.  
+🔔 [Hoyo Update Notifier](https://github.com/seriaati/hoyo-update-notifier): A website that lets you setup Discord Webhook notifications when a Hoyoverse game updates.
 
 ## LINE bots
 💬 [ChatMind Studio](https://github.com/chatmind-studio): A two-people studio (just me and my dad, although he didn't contribute a single line of code 😂), you can find all of my LINE bots here, some of them are private repos because I use them to make some money.  
