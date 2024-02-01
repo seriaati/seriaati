@@ -14,6 +14,7 @@
 🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [ambr.top](https://ambr.top/)  
 🌸 [yatta.py](https://github.com/seriaati/yatta): Async API wrapper for [hsr.yatta.top](https://hsr.yatta.top/)  
 🟢 [line.py](https://github.com/seriaati/line.py): Async LINE messaging API wrapper based on [line-bot-sdk](https://github.com/line/line-bot-sdk-python) for me to code the LINE bots.  
+🔼 [enka.py](https://github.com/seriaati/enka-py): Async API wrapper for [api.enka.network](http://api.enka.network/)  
 💵 [ecpay.py](https://github.com/seriaati/ecpay.py): Technically not an API wrapper, it just contains some stuff I figured out with ecpay (it's quite complicated).  
 😳 [hmtai](https://github.com/seriaati/hmtai_async): Async API wrapper for hmtai (discontinued).  
 
