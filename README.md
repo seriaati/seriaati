@@ -23,6 +23,11 @@
 ➡️ [Enka to GO](https://github.com/seriaati/enka-to-go): A website that converts your showcase on [Enka](https://enka.network/) to [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/) for damage calculations.  
 🔔 [Hoyo Update Notifier](https://github.com/seriaati/hoyo-update-notifier): A website that lets you setup Discord Webhook notifications when a Hoyoverse game updates.
 
+## Python APIs
+🎁 [Hoyo Codes](https://github.com/seriaati/hoyo-codes): API to get gift codes from Hoyoverse games.  
+📈 [Stock Fast API](https://github.com/seriaati/stock_fast_api): API to get historical stock trades.  
+🃏 [Enka Card API](https://github.com/seriaati/enka-card-api): API to generate Enka cards.
+
 ## Honorable mentions
 🌙 [Hoyolab Resin Counter](https://github.com/seriaati/hoyolab-resin-counter): My first project on GitHub with Python, this is where everything started.  
 🧹 [Clean Discord](https://github.com/seriaati/cleandiscord): Actual first GitHub repo.
