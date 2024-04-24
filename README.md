@@ -51,6 +51,5 @@
 [Stock Fast API](https://github.com/seriaati/stock_fast_api): An API for fetching historical stock prices.  
 
 # Some Stats
-[![seriaati's GitHub stats](https://github-readme-stats.vercel.app/api?username=seriaati&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seriaati&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-![Visitor Counter](https://komarev.com/ghpvc/?username=seriaati)
+![Visitor Counter](https://komarev.com/ghpvc/?username=seriaati)  
+<a href="https://gitroll.io/profile/utJyuUPxZXMgUqz3TJUFMbwHLuBp2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utJyuUPxZXMgUqz3TJUFMbwHLuBp2" alt="GitRoll Profile Badge" width=600 height=337.5/></a>
