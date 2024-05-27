@@ -2,9 +2,9 @@
 🍕 If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by buying me a pizza on [BuyMeACoffee](https://buymeacoffee.com/seria) (I don't drink coffee!). Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.
 
 # About Me
-👋 Hi, I'm an international student from Taiwan, currently studying CS in [Waseda University](https://www.waseda.jp/top/en/).  
+👋 Hi, I'm an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
 🌍 I speak Chinese and English.  
-🐍 My most used and most loved programming languages is Python, and I use it to code things like:  
+🐍 My most used and most loved programming language is Python, and I use it to code things like:  
 
 ## Discord Bots
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): My largest and most sucessful project so far (discontinued).  
@@ -12,7 +12,8 @@
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A Discord bot that fixes social media embeds.  
 💙 [Layla](https://github.com/seriaati/layla): A small bot with anime image searching features derived from Shenhe.  
 📅 [Schedule Bot](https://github.com/seriaati/ScheduleBot): A collab project with other people.  
-🛝 [Sugari](https://github.com/Sugari-Bot): A multi-purpose Discord bot that I contributed a small part of.
+🛝 [Sugari](https://github.com/Sugari-Bot): A multi-purpose Discord bot that I contributed a small part of.  
+🖤 [Wuthery](https://github.com/Wuthery): A big project that I collab with other devs, it is a service for the game Wuthering Waves.  
 
 ## API Wrappers
 🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [ambr.top](https://ambr.top/)  
