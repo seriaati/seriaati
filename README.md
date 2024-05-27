@@ -55,4 +55,3 @@
 ![Visitor Counter](https://komarev.com/ghpvc/?username=seriaati)  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=seriaati&theme=dark)](https://git.io/streak-stats)
-<a href="https://gitroll.io/profile/utJyuUPxZXMgUqz3TJUFMbwHLuBp2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utJyuUPxZXMgUqz3TJUFMbwHLuBp2" alt="GitRoll Profile Badge"/></a>
