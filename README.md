@@ -4,6 +4,7 @@
 # About Me
 👋 Hi, I'm an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
 🌍 I speak Chinese and English.  
+💬 You con contact me on [Discord](<https://discord.com/users/410036441129943050>)  
 🐍 My most used and most loved programming language is Python, and I use it to code things like:  
 
 ## Discord Bots
