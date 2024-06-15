@@ -22,8 +22,7 @@
 🟢 [line.py](https://github.com/seriaati/line.py): Async LINE messaging API wrapper based on [line-bot-sdk](https://github.com/line/line-bot-sdk-python) for me to code the LINE bots.  
 🔼 [enka.py](https://github.com/seriaati/enka-py): Async API wrapper for [api.enka.network](http://api.enka.network/)  
 👺 [hakushin.py](https://github.com/seriaati/hakushin-py): Async API wrapper for [hakush.in](https://hakush.in)  
-💵 [ecpay.py](https://github.com/seriaati/ecpay.py): Technically not an API wrapper, it just contains some stuff I figured out with ecpay (it's quite complicated).  
-😳 [hmtai](https://github.com/seriaati/hmtai_async): Async API wrapper for hmtai (discontinued).  
+🤺 [akasha.py](https://github.com/seriaati/akasha-py): Async API wrapper for [akasha.cv](https://akasha.cv)  
 
 ## Web Apps (With [Flet](https://github.com/flet-dev/flet))
 ➡️ [Enka to GO](https://github.com/seriaati/enka-to-go): A website that converts your showcase on [Enka](https://enka.network/) to [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/) for damage calculations.  
