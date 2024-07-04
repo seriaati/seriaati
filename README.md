@@ -8,7 +8,7 @@
 🐍 My most used and most loved programming language is Python, and I use it to code things like:  
 
 ## Discord Bots
-🚧 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
+🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): My largest and most sucessful project so far (discontinued).  
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A Discord bot that fixes social media embeds.  
 💙 [Layla](https://github.com/seriaati/layla): A small bot with anime image searching features derived from Shenhe.  
