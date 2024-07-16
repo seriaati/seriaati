@@ -4,17 +4,18 @@
 # About Me
 👋 Hi, I'm an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
 🌍 I speak Chinese and English.  
-💬 You con contact me on [Discord](<https://discord.com/users/410036441129943050>)  
+💬 You con contact me on [Discord](<https://discord.com/users/410036441129943050>).  
 🐍 My most used and most loved programming language is Python, and I use it to code things like:  
 
 ## Discord Bots
 🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): My largest and most sucessful project so far (discontinued).  
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A Discord bot that fixes social media embeds.  
+🖤 [Wuthery](https://github.com/Wuthery): A big project that I collab with other devs, it is a service for the game Wuthering Waves.  
 💙 [Layla](https://github.com/seriaati/layla): A small bot with anime image searching features derived from Shenhe.  
 📅 [Schedule Bot](https://github.com/seriaati/ScheduleBot): A collab project with other people.  
 🛝 [Sugari](https://github.com/Sugari-Bot): A multi-purpose Discord bot that I contributed a small part of.  
-🖤 [Wuthery](https://github.com/Wuthery): A big project that I collab with other devs, it is a service for the game Wuthering Waves.  
+
 
 ## API Wrappers
 🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [ambr.top](https://ambr.top/)  
@@ -23,10 +24,12 @@
 🔼 [enka.py](https://github.com/seriaati/enka-py): Async API wrapper for [api.enka.network](http://api.enka.network/)  
 👺 [hakushin.py](https://github.com/seriaati/hakushin-py): Async API wrapper for [hakush.in](https://hakush.in)  
 🤺 [akasha.py](https://github.com/seriaati/akasha-py): Async API wrapper for [akasha.cv](https://akasha.cv)  
+🎈 [genshin.py](https://github.com/thesadru/genshin.py): Async API wrapper for HoYoLAB/Miyoushe API, I am a main contributor   
 
 ## Web Apps (With [Flet](https://github.com/flet-dev/flet))
 ➡️ [Enka to GO](https://github.com/seriaati/enka-to-go): A website that converts your showcase on [Enka](https://enka.network/) to [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/) for damage calculations.  
-🔔 [Hoyo Update Notifier](https://github.com/seriaati/hoyo-update-notifier): A website that lets you setup Discord Webhook notifications when a Hoyoverse game updates.
+🔔 [Hoyo Update Notifier](https://github.com/seriaati/hoyo-update-notifier): A website that lets you get notified when a Hoyoverse game updates.  
+⌨️ [Hoyo Buddy Web App(https://github.com/seriaati/hoyo-buddy-web-app): A website that displays Hoyo Buddy's commands in real-time.  
 
 ## Python APIs
 🎁 [Hoyo Codes](https://github.com/seriaati/hoyo-codes): API to get gift codes from Hoyoverse games.  
