@@ -1,5 +1,9 @@
 # Support My Work
-☕ If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation on [Ko-Fi](https://ko-fi.com/seriaati). Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.
+☕ If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation. Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.  
+You can donate through the following services:
+- [Ko-Fi](https://ko-fi.com/seriaati): Most preferred because 0% fee, supports PayPal only.
+- [BuyMeACoffee](https://buymeacoffee.com/seria): 5% fee but supports much more payment methods.
+- [Patreon](https://www.patreon.com/seriaati): It just works I guess, also 10% fee :(
 
 # About Me
 👋 Hi, I'm an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
