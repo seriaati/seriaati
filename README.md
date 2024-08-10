@@ -1,3 +1,5 @@
+English | [中文](https://github.com/seriaati/seriaati/blob/main/README_ZH.md)
+
 # Support My Work
 ☕ If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation. Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.  
 You can donate through the following services:
