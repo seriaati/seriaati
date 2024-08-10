@@ -14,7 +14,9 @@ You can donate through the following services:
 🐍 My most used and most loved programming language is Python, and I use it to code things like:  
 
 ## Discord Bots
-🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
+Most of my Discord bots have image generation funationalities, this means I have decent experience on using [Pillow](https://github.com/python-pillow/Pillow) and [Figma](https://www.figma.com/).  
+  
+🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): [**CURRENT MAJOR PROJECT**] Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): My largest and most sucessful project so far (discontinued).  
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A Discord bot that fixes social media embeds.  
 🖤 [Wuthery](https://github.com/Wuthery): A big project that I collab with other devs, it is a service for the game Wuthering Waves.  
@@ -47,6 +49,7 @@ You can donate through the following services:
 🧹 [Clean Discord](https://github.com/seriaati/cleandiscord): Actual first GitHub repo.
 
 ## LINE Bots
+LINE bots are all written using the [line.py](https://github.com/seriaati/line.py) wrapper.  
 *All of the LINE bots are no longer maintained! (You can't invite them anyways lol)*  
   
 [News Notify](https://github.com/chatmind-studio/news-notify): A LINE bot that notifies you when a company makes an announcement.  
