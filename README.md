@@ -26,7 +26,7 @@ Image generation is done by [Pillow](https://github.com/python-pillow/Pillow) an
 
 
 ## API Wrappers
-Using [Pydantic V2](https://github.com/pydantic/pydantic).  
+Using [Pydantic](https://github.com/pydantic/pydantic).  
   
 🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [ambr.top](https://ambr.top/)  
 🌸 [yatta.py](https://github.com/seriaati/yatta): Async API wrapper for [hsr.yatta.top](https://hsr.yatta.top/)  
@@ -37,7 +37,7 @@ Using [Pydantic V2](https://github.com/pydantic/pydantic).
 🎈 [genshin.py](https://github.com/thesadru/genshin.py): Async API wrapper for HoYoLAB/Miyoushe API, I am a main contributor   
 
 ## Web Apps
-Using [Flet (flutter in Python)](https://github.com/flet-dev/flet).  
+Using [Flet](https://github.com/flet-dev/flet).  
   
 ➡️ [Enka to GO](https://github.com/seriaati/enka-to-go): A website that converts your showcase on [Enka](https://enka.network/) to [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/) for damage calculations.  
 🔔 [Hoyo Update Notifier](https://github.com/seriaati/hoyo-update-notifier): A website that lets you get notified when a Hoyoverse game updates.  
@@ -51,7 +51,7 @@ Using [fastapi](https://github.com/fastapi/fastapi).
 🃏 [Enka Card API](https://github.com/seriaati/enka-card-api): API to generate Enka cards.
 
 ## Web Scraping
-Using beautifulsoup or playwright (better selenium).  
+Using beautifulsoup4 or [Playwright](https://github.com/microsoft/playwright).  
   
 - [Mobile01 Scrape](https://github.com/seriaati/mobile01-scrape)
 - [666form Scrape](https://github.com/seriaati/666forum-scrape)
