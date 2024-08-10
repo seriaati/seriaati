@@ -1,8 +1,8 @@
 English | [中文](https://github.com/seriaati/seriaati/blob/main/README_ZH.md)
 
 # Support My Work
-☕ If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation. Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.  
-You can donate through the following services:
+If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation. Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.  
+I currently accept donations from the following services:
 - [Ko-Fi](https://ko-fi.com/seriaati): Most preferred because 0% fee, supports PayPal only.
 - [BuyMeACoffee](https://buymeacoffee.com/seria): 5% fee but supports much more payment methods.
 - [Patreon](https://www.patreon.com/seriaati): It just works I guess, also 10% fee :(
@@ -11,12 +11,12 @@ You can donate through the following services:
 👋 Hi, I'm an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
 🌍 I speak Chinese and English.  
 💬 You can contact me on [Discord](<https://discord.com/users/410036441129943050>).  
-🐍 My most used and most loved programming language is Python, and I use it to code things like:  
+🐍 The programming language I am best at is Python, and I use it to code things like:  
 
 ## Discord Bots
-Most of my Discord bots have image generation funationalities, this means I have decent experience on using [Pillow](https://github.com/python-pillow/Pillow) and [Figma](https://www.figma.com/).  
+Image generation is done by [Pillow](https://github.com/python-pillow/Pillow) and designed with [Figma](https://www.figma.com/).  
   
-🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): [**CURRENT MAJOR PROJECT**] Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
+🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): [**CURRENT MAIN PROJECT**] Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): My largest and most sucessful project so far (discontinued).  
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A Discord bot that fixes social media embeds.  
 🖤 [Wuthery](https://github.com/Wuthery): A big project that I collab with other devs, it is a service for the game Wuthering Waves.  
@@ -26,6 +26,8 @@ Most of my Discord bots have image generation funationalities, this means I have
 
 
 ## API Wrappers
+Using [Pydantic V2](https://github.com/pydantic/pydantic).  
+  
 🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [ambr.top](https://ambr.top/)  
 🌸 [yatta.py](https://github.com/seriaati/yatta): Async API wrapper for [hsr.yatta.top](https://hsr.yatta.top/)  
 🟢 [line.py](https://github.com/seriaati/line.py): Async LINE messaging API wrapper based on [line-bot-sdk](https://github.com/line/line-bot-sdk-python) for me to code the LINE bots.  
@@ -34,22 +36,34 @@ Most of my Discord bots have image generation funationalities, this means I have
 🤺 [akasha.py](https://github.com/seriaati/akasha-py): Async API wrapper for [akasha.cv](https://akasha.cv)  
 🎈 [genshin.py](https://github.com/thesadru/genshin.py): Async API wrapper for HoYoLAB/Miyoushe API, I am a main contributor   
 
-## Web Apps (With [Flet](https://github.com/flet-dev/flet))
+## Web Apps
+Using [Flet (flutter in Python)](https://github.com/flet-dev/flet).  
+  
 ➡️ [Enka to GO](https://github.com/seriaati/enka-to-go): A website that converts your showcase on [Enka](https://enka.network/) to [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/) for damage calculations.  
 🔔 [Hoyo Update Notifier](https://github.com/seriaati/hoyo-update-notifier): A website that lets you get notified when a Hoyoverse game updates.  
 ⌨️ [Hoyo Buddy Web App](https://github.com/seriaati/hoyo-buddy-web-app): A website that displays Hoyo Buddy's commands in real-time.  
 
 ## Python APIs
+Using [fastapi](https://github.com/fastapi/fastapi).  
+  
 🎁 [Hoyo Codes](https://github.com/seriaati/hoyo-codes): API to get gift codes from Hoyoverse games.  
 📈 [Stock Fast API](https://github.com/seriaati/stock_fast_api): API to get historical stock trades.  
 🃏 [Enka Card API](https://github.com/seriaati/enka-card-api): API to generate Enka cards.
+
+## Web Scraping
+Using beautifulsoup or playwright (better selenium).  
+  
+- [Mobile01 Scrape](https://github.com/seriaati/mobile01-scrape)
+- [666form Scrape](https://github.com/seriaati/666forum-scrape)
+- [Zenless Asset Scrape](https://github.com/seriaati/ZenlessAssetScrape)
+- [Swelldom Scrape](https://github.com/seriaati/swelldom-scrape)
 
 ## Honorable Mentions
 🌙 [Hoyolab Resin Counter](https://github.com/seriaati/hoyolab-resin-counter): My first project on GitHub with Python, this is where everything started.  
 🧹 [Clean Discord](https://github.com/seriaati/cleandiscord): Actual first GitHub repo.
 
 ## LINE Bots
-LINE bots are all written using the [line.py](https://github.com/seriaati/line.py) wrapper.  
+Using [line.py](https://github.com/seriaati/line.py).  
 *All of the LINE bots are no longer maintained! (You can't invite them anyways lol)*  
   
 [News Notify](https://github.com/chatmind-studio/news-notify): A LINE bot that notifies you when a company makes an announcement.  
