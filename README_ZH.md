@@ -1,8 +1,8 @@
-[English](https://github.com/seriaati) | 中文
+[English](https://github.com/seriaati/seriaati/blob/main/README.md) | 中文
 
 # 支持我
-☕ 如果我的開源項目對你有所幫助，能收到你的捐贈將讓我非常高興。你的支持不僅激勵了我對程式設計的熱情，還幫助我繼續作為一名學生和開發者的旅程。  
-你可以通過以下服務進行捐贈：
+☕ 如果我的開源項目對你有所幫助，能收到你的捐款將讓我非常高興。你的支持不僅激勵了我對程式設計的熱情，還將幫助我繼續作為一名學生和開發者的旅程。  
+你可以通過以下服務進行捐款：
 - [Ko-Fi](https://ko-fi.com/seriaati)：最推薦，因為0% 手續費，但僅支持PayPal。
 - [BuyMeACoffee](https://buymeacoffee.com/seria)：5% 手續費，但支持更多的支付方式。
 - [Patreon](https://www.patreon.com/seriaati)：應該算是好用吧，但是有10% 手續費 :(
