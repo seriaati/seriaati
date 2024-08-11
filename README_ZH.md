@@ -11,7 +11,7 @@
 👋 你好，我是一名來自台灣的國際學生，目前在[早稻田大學](https://www.waseda.jp/top/en/)學習 Computer Science。  
 🌍 我會說中文和英文。  
 💬 你可以通過[Discord](<https://discord.com/users/410036441129943050>)聯繫我。  
-🐍 我最擅長且最喜愛的程式語言是Python，我用它來編寫以下內容：
+🐍 我最擅長的程式語言是Python，我用它來編寫以下內容：
 
 ## Discord 機器人
 圖片生成使用 [Pillow](https://github.com/python-pillow/Pillow) 完成, 在 [Figma](https://www.figma.com) 中進行平面設計。  
