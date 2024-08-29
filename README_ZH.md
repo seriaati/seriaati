@@ -8,9 +8,18 @@
 - [Patreon](https://www.patreon.com/seriaati)：應該算是好用吧，但是有10% 手續費 :(
 
 # 關於我
-👋 你好，我是一名來自台灣的國際學生，目前在[早稻田大學](https://www.waseda.jp/top/en/)學習 Computer Science。  
+👋 你好，我是一名來自台灣的國際學生，目前在[早稻田大學](https://www.waseda.jp/top/en/)修讀資工系。  
 🌍 我會說中文和英文。  
 💬 你可以通過[Discord](<https://discord.com/users/410036441129943050>)聯繫我。  
+
+## 聯絡我
+你可以在下列地方找到我:  
+- [我的 Discord 伺服器](https://discord.com/invite/ryfamUykRw)
+- [Discord](https://discord.com/users/410036441129943050) (透過加好友的形式)
+- [Email](mailto:seria.ati@gmail.com)
+- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
+
+# 我的專案
 🐍 我最擅長的程式語言是Python，我用它來編寫以下內容：
 
 ## Discord 機器人
