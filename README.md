@@ -10,7 +10,7 @@ I currently accept donations from the following services:
 # About Me
 👋 Hi, I'm an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
 🌍 I speak Chinese and English.  
-💬 You can contact me on [Discord](<https://discord.com/users/410036441129943050>).  
+🎂 My birthday is 2005/6/19.
 
 ## Contact Information
 You can find me in the following places:  
