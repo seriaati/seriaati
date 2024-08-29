@@ -11,7 +11,16 @@ I currently accept donations from the following services:
 👋 Hi, I'm an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
 🌍 I speak Chinese and English.  
 💬 You can contact me on [Discord](<https://discord.com/users/410036441129943050>).  
-🐍 The programming language I am best at is Python, and I use it to code things like:  
+
+## Contact Information
+You can find me in the following places:  
+- [My Discord server](https://discord.com/invite/ryfamUykRw)
+- [Discord](https://discord.com/users/410036441129943050) (adding me as friend)
+- [Email](mailto:seria.ati@gmail.com)
+- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
+
+# My Projects
+🐍 The programming language I am best at is Python, and I use it to code things like:
 
 ## Discord Bots
 Image generation is done by [Pillow](https://github.com/python-pillow/Pillow) and designed with [Figma](https://www.figma.com/).  
