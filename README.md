@@ -25,9 +25,10 @@ You can find me in the following places:
 ## Discord Bots
 Image generation is done by [Pillow](https://github.com/python-pillow/Pillow) and designed with [Figma](https://www.figma.com/).  
   
-🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): [**CURRENT MAIN PROJECT**] Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
-🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): My largest and most sucessful project so far (discontinued).  
+▶️ [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): [**CURRENT MAIN PROJECT**] Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
+🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): A Genshin Imapct Discord bot, my largest and most sucessful project so far (discontinued), Hoyo Buddy is a rewrite of it.  
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A Discord bot that fixes social media embeds.  
+📅 [Lumina](https://github.com/seriaati/lumina): Your life organizer on Discord.  
 🖤 [Wuthery](https://github.com/Wuthery): A big project that I collab with other devs, it is a service for the game Wuthering Waves.  
 💙 [Layla](https://github.com/seriaati/layla): A small bot with anime image searching features derived from Shenhe.  
 📅 [Schedule Bot](https://github.com/seriaati/ScheduleBot): A collab project with other people.  
@@ -39,11 +40,11 @@ Using [Pydantic](https://github.com/pydantic/pydantic).
   
 🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [ambr.top](https://ambr.top/)  
 🌸 [yatta.py](https://github.com/seriaati/yatta): Async API wrapper for [hsr.yatta.top](https://hsr.yatta.top/)  
-🟢 [line.py](https://github.com/seriaati/line.py): Async LINE messaging API wrapper based on [line-bot-sdk](https://github.com/line/line-bot-sdk-python) for me to code the LINE bots.  
 🔼 [enka.py](https://github.com/seriaati/enka-py): Async API wrapper for [api.enka.network](http://api.enka.network/)  
 👺 [hakushin.py](https://github.com/seriaati/hakushin-py): Async API wrapper for [hakush.in](https://hakush.in)  
 🤺 [akasha.py](https://github.com/seriaati/akasha-py): Async API wrapper for [akasha.cv](https://akasha.cv)  
-🎈 [genshin.py](https://github.com/thesadru/genshin.py): Async API wrapper for HoYoLAB/Miyoushe API, I am a main contributor   
+🎈 [genshin.py](https://github.com/thesadru/genshin.py): Async API wrapper for HoYoLAB/Miyoushe API, I am a main contributor.   
+🟢 [line.py](https://github.com/seriaati/line.py): Async LINE messaging API wrapper based on [line-bot-sdk](https://github.com/line/line-bot-sdk-python) for me to code the LINE bots.  
 
 ## Web Apps
 Using [Flet](https://github.com/flet-dev/flet).  
@@ -57,7 +58,9 @@ Using [fastapi](https://github.com/fastapi/fastapi).
   
 🎁 [Hoyo Codes](https://github.com/seriaati/hoyo-codes): API to get gift codes from Hoyoverse games.  
 📈 [Stock Fast API](https://github.com/seriaati/stock_fast_api): API to get historical stock trades.  
-🃏 [Enka Card API](https://github.com/seriaati/enka-card-api): API to generate Enka cards.
+🃏 [Enka Card API](https://github.com/seriaati/enka-card-api): API to generate Enka cards.  
+🔧 [fxtwitch](https://github.com/seriaati/fxtwitch): Fixes Twitch clip embeds on Discord.  
+🔧 [fxiwara](https://github.com/seriaati/fxiwara): Fixes Iwara embeds on Discord.  
 
 ## Web Scraping
 Using beautifulsoup4 or [Playwright](https://github.com/microsoft/playwright).  
