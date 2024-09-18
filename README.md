@@ -38,8 +38,8 @@ Image generation is done by [Pillow](https://github.com/python-pillow/Pillow) an
 ## API Wrappers
 Using [Pydantic](https://github.com/pydantic/pydantic).  
   
-🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [ambr.top](https://ambr.top/)  
-🌸 [yatta.py](https://github.com/seriaati/yatta): Async API wrapper for [hsr.yatta.top](https://hsr.yatta.top/)  
+🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [ambr.top](https://gi.yatta.moe/)  
+🌸 [yatta.py](https://github.com/seriaati/yatta): Async API wrapper for [hsr.yatta.top](https://sr.yatta.moe/)  
 🔼 [enka.py](https://github.com/seriaati/enka-py): Async API wrapper for [api.enka.network](http://api.enka.network/)  
 👺 [hakushin.py](https://github.com/seriaati/hakushin-py): Async API wrapper for [hakush.in](https://hakush.in)  
 🤺 [akasha.py](https://github.com/seriaati/akasha-py): Async API wrapper for [akasha.cv](https://akasha.cv)  
