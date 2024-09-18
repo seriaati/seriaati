@@ -36,8 +36,8 @@
 ## API 封裝
 使用 [Pydantic](https://github.com/pydantic/pydantic)。  
   
-🔥 [ambr.py](https://github.com/seriaati/ambr)：[ambr.top](https://ambr.top/)的異步 API 封裝。  
-🌸 [yatta.py](https://github.com/seriaati/yatta)：[hsr.yatta.top](https://hsr.yatta.top/)的異步 API 封裝。  
+🔥 [ambr.py](https://github.com/seriaati/ambr)：[ambr.top](https://gi.yatta.moe/)的異步 API 封裝。  
+🌸 [yatta.py](https://github.com/seriaati/yatta)：[hsr.yatta.top](https://sr.yatta.moe/)的異步 API 封裝。  
 🟢 [line.py](https://github.com/seriaati/line.py)：基於[line-bot-sdk](https://github.com/line/line-bot-sdk-python)的異步 LINE Message API 封裝，用於編寫 LINE 機器人。  
 🔼 [enka.py](https://github.com/seriaati/enka-py)：[api.enka.network](http://api.enka.network/)的異步 API 封裝。  
 👺 [hakushin.py](https://github.com/seriaati/hakushin-py)：[hakush.in](https://hakush.in)的異步 API 封裝。  
