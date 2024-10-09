@@ -31,18 +31,17 @@ Image generation is done by [Pillow](https://github.com/python-pillow/Pillow) an
 📅 [Lumina](https://github.com/seriaati/lumina): Your life organizer on Discord.  
 🖤 [Wuthery](https://github.com/Wuthery): A big project that I collab with other devs, it is a service for the game Wuthering Waves.  
 💙 [Layla](https://github.com/seriaati/layla): A small bot with anime image searching features derived from Shenhe.  
-📅 [Schedule Bot](https://github.com/seriaati/ScheduleBot): A collab project with other people.  
 🛝 [Sugari](https://github.com/Sugari-Bot): A multi-purpose Discord bot that I contributed a small part of.  
 
 
 ## API Wrappers
 Using [Pydantic](https://github.com/pydantic/pydantic).  
   
-🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [ambr.top](https://gi.yatta.moe/)  
-🌸 [yatta.py](https://github.com/seriaati/yatta): Async API wrapper for [hsr.yatta.top](https://sr.yatta.moe/)  
-🔼 [enka.py](https://github.com/seriaati/enka-py): Async API wrapper for [api.enka.network](http://api.enka.network/)  
+🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [Project Amber](https://gi.yatta.moe/)  
+🌸 [yatta.py](https://github.com/seriaati/yatta): Async API wrapper for [Project Yatta](https://sr.yatta.moe/)  
+🔼 [enka.py](https://github.com/seriaati/enka-py): Async API wrapper for [Enka Network](http://api.enka.network/)  
 👺 [hakushin.py](https://github.com/seriaati/hakushin-py): Async API wrapper for [hakush.in](https://hakush.in)  
-🤺 [akasha.py](https://github.com/seriaati/akasha-py): Async API wrapper for [akasha.cv](https://akasha.cv)  
+🤺 [akasha.py](https://github.com/seriaati/akasha-py): Async API wrapper for [Akasha System](https://akasha.cv)  
 🎈 [genshin.py](https://github.com/thesadru/genshin.py): Async API wrapper for HoYoLAB/Miyoushe API, I am a main contributor.   
 🟢 [line.py](https://github.com/seriaati/line.py): Async LINE messaging API wrapper based on [line-bot-sdk](https://github.com/line/line-bot-sdk-python) for me to code the LINE bots.  
 
