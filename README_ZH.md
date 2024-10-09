@@ -26,23 +26,23 @@
 圖片生成使用 [Pillow](https://github.com/python-pillow/Pillow) 完成, 在 [Figma](https://www.figma.com) 中進行平面設計。  
   
 🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy)：[**當前主要項目**] 為米哈游玩家設計的功能豐富且美觀的 Discord 機器人。  
-🦢 [Shenhe](https://github.com/seriaati/shenhe_bot)：我迄今為止最大型且最成功的項目（已停止維護）。  
+🦢 [Shenhe](https://github.com/seriaati/shenhe_bot)：原神 Discord 機器人，我迄今為止最大型且最成功的項目（已停止維護）  
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer)：修復社交媒體 Embed 的 Discord 機器人。  
+📅 [Lumina](https://github.com/seriaati/lumina): Discord 小秘書，提供設置提醒、作筆記等功能。    
 🖤 [Wuthery](https://github.com/Wuthery)：與其他開發者合作的一個大型項目，這是一個為遊戲《鳴潮》設計的服務。  
 💙 [Layla](https://github.com/seriaati/layla)：一個衍生自 Shenhe 的小型機器人，具有動漫圖片搜索功能。  
-📅 [Schedule Bot](https://github.com/seriaati/ScheduleBot)：與他人合作的項目。  
 🛝 [Sugari](https://github.com/Sugari-Bot)：一個多功能的 Discord 機器人，我貢獻了一小部分。
 
 ## API 封裝
 使用 [Pydantic](https://github.com/pydantic/pydantic)。  
   
-🔥 [ambr.py](https://github.com/seriaati/ambr)：[ambr.top](https://gi.yatta.moe/)的異步 API 封裝。  
-🌸 [yatta.py](https://github.com/seriaati/yatta)：[hsr.yatta.top](https://sr.yatta.moe/)的異步 API 封裝。  
-🟢 [line.py](https://github.com/seriaati/line.py)：基於[line-bot-sdk](https://github.com/line/line-bot-sdk-python)的異步 LINE Message API 封裝，用於編寫 LINE 機器人。  
-🔼 [enka.py](https://github.com/seriaati/enka-py)：[api.enka.network](http://api.enka.network/)的異步 API 封裝。  
+🔥 [ambr.py](https://github.com/seriaati/ambr)：[Project Amber](https://gi.yatta.moe/)的異步 API 封裝。  
+🌸 [yatta.py](https://github.com/seriaati/yatta)：[Project Yatta](https://sr.yatta.moe/)的異步 API 封裝。  
+🔼 [enka.py](https://github.com/seriaati/enka-py)：[Enka Network](http://api.enka.network/)的異步 API 封裝。  
 👺 [hakushin.py](https://github.com/seriaati/hakushin-py)：[hakush.in](https://hakush.in)的異步 API 封裝。  
-🤺 [akasha.py](https://github.com/seriaati/akasha-py)：[akasha.cv](https://akasha.cv)的異步 API 封裝。  
-🎈 [genshin.py](https://github.com/thesadru/genshin.py)：HoYoLAB/米游社 API 的異步封裝，我是主要貢獻者。
+🤺 [akasha.py](https://github.com/seriaati/akasha-py)：[Akasha System](https://akasha.cv)的異步 API 封裝。  
+🎈 [genshin.py](https://github.com/thesadru/genshin.py)：HoYoLAB/米游社 API 的異步封裝，我是主要貢獻者。  
+🟢 [line.py](https://github.com/seriaati/line.py)：基於[line-bot-sdk](https://github.com/line/line-bot-sdk-python)的異步 LINE Message API 封裝，用於編寫 LINE 機器人。  
 
 ## 網頁應用
 使用 [Flet](https://github.com/flet-dev/flet)。  
