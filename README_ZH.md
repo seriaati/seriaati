@@ -8,7 +8,8 @@
 - [Patreon](https://www.patreon.com/seriaati)：應該算是好用吧，但是有10% 手續費 :(
 
 # 關於我
-👋 你好，我是一名來自台灣的國際學生，目前在[早稻田大學](https://www.waseda.jp/top/en/)修讀資工系。  
+👋 你好，我是 Seria，一名來自台灣的國際學生，目前在[早稻田大學](https://www.waseda.jp/top/en/)修讀資工系。  
+❤️ 我同時也是一位充滿熱情的開發者，致力於使用 Python 編寫開源且高品質的軟體。  
 🌍 我會說中文和英文。  
 🎂 我的生日是 6 月 19 日。
 
