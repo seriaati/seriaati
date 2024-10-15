@@ -8,7 +8,8 @@ I currently accept donations from the following services:
 - [Patreon](https://www.patreon.com/seriaati): It just works I guess, also 10% fee :(
 
 # About Me
-👋 Hi, I'm an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
+👋 Hi, I'm Seria, an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
+❤️ I'm a passionate developer who loves to make open source and high quality software with Python.  
 🌍 I speak Chinese and English.  
 🎂 My birthday is June 19th.
 
