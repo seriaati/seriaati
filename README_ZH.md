@@ -50,7 +50,8 @@
   
 ➡️ [Enka to GO](https://github.com/seriaati/enka-to-go)：一個將[Enka](https://enka.network/)上的展示櫃轉換為 [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/) 格式進行傷害計算的網站。  
 🔔 [Hoyo Update Notifier](https://github.com/seriaati/hoyo-update-notifier)：讓你在米哈游遊戲更新時收到通知的網站。  
-⌨️ [Hoyo Buddy Web App](https://github.com/seriaati/hoyo-buddy-web-app)：實時顯示 Hoyo Buddy 指令的網站。
+⌨️ [Hoyo Buddy Web App](https://github.com/seriaati/hoyo-buddy-web-app)：實時顯示 Hoyo Buddy 指令的網站。  
+🪝 [Transifex -> Discord Webhook](https://github.com/seriaati/transifex-discord-webhook): 生成 webhook 網址的網站, 用於創造 Transifex 至 Discord 通知整合.  
 
 ## API
 使用 [fastapi](https://github.com/fastapi/fastapi)。  
