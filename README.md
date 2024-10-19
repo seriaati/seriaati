@@ -52,7 +52,7 @@ Using [Flet](https://github.com/flet-dev/flet) or plain HTML+CSS+JS.
 ➡️ [Enka to GO](https://github.com/seriaati/enka-to-go): A website that converts your showcase on [Enka](https://enka.network/) to [Genshin Optimizer](https://frzyc.github.io/genshin-optimizer/#/) for damage calculations.  
 🔔 [Hoyo Update Notifier](https://github.com/seriaati/hoyo-update-notifier): A website that lets you get notified when a Hoyoverse game updates.  
 ⌨️ [Hoyo Buddy Web App](https://github.com/seriaati/hoyo-buddy-web-app): A website that displays Hoyo Buddy's commands in real-time.  
-🪝 [Transifex -> Discord Webhook](github.com/seriaati/transifex-discord-webhook): A website that generates webhook URLs from Discord ones for Transifex -> Discord webhook integration.  
+🪝 [Transifex -> Discord Webhook](https://github.com/seriaati/transifex-discord-webhook): A website that generates webhook URLs from Discord ones for Transifex -> Discord webhook integration.  
 
 ## Python APIs
 Using [fastapi](https://github.com/fastapi/fastapi).  
