@@ -93,5 +93,5 @@ Using [line.py](https://github.com/seriaati/line.py).
 
 # Some Stats
 ![Visitor Counter](https://komarev.com/ghpvc/?username=seriaati)  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=seriaati&theme=dark)](https://git.io/streak-stats)
