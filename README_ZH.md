@@ -82,5 +82,5 @@
 
 # 一些統計數據
 ![訪問計數器](https://komarev.com/ghpvc/?username=seriaati)  
-![GitHub 統計](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark)  
+![GitHub 統計](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)  
 [![GitHub 連續貢獻](https://streak-stats.demolab.com/?user=seriaati&theme=dark)](https://git.io/streak-stats)
