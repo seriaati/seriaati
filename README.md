@@ -26,7 +26,7 @@ You can find me in the following places:
 ## Discord Bots
 Image generation is done by [Pillow](https://github.com/python-pillow/Pillow) and designed with [Figma](https://www.figma.com/).  
   
-▶️ [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): [**CURRENT MAIN PROJECT**] Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
+🚩 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): [**CURRENT MAIN PROJECT**] Feature rich, beautifully designed Discord bot for Hoyoverse gamers.    
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): A Genshin Imapct Discord bot, my largest and most sucessful project so far (discontinued), Hoyo Buddy is a rewrite of it.  
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A Discord bot that fixes social media embeds.  
 📅 [Lumina](https://github.com/seriaati/lumina): Your life organizer on Discord.  
