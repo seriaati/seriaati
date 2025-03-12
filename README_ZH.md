@@ -26,13 +26,14 @@
 ## Discord 機器人
 圖片生成使用 [Pillow](https://github.com/python-pillow/Pillow) 完成, 在 [Figma](https://www.figma.com) 中進行平面設計。  
   
-🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy)：[**當前主要項目**] 為米哈游玩家設計的功能豐富且美觀的 Discord 機器人。  
-🦢 [Shenhe](https://github.com/seriaati/shenhe_bot)：原神 Discord 機器人，我迄今為止最大型且最成功的項目（已停止維護）  
+🔺 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy)：為米哈游玩家設計的功能豐富且美觀的 Discord 機器人。  
+🦢 [Shenhe](https://github.com/seriaati/shenhe_bot)：原神 Discord 機器人，Hoyo Buddy 是它的重寫版。 
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer)：修復社交媒體 Embed 的 Discord 機器人。  
 📅 [Lumina](https://github.com/seriaati/lumina): Discord 小秘書，提供設置提醒、作筆記等功能。    
 🖤 [Wuthery](https://github.com/Wuthery)：與其他開發者合作的一個大型項目，這是一個為遊戲《鳴潮》設計的服務。  
 💙 [Layla](https://github.com/seriaati/layla)：一個衍生自 Shenhe 的小型機器人，具有動漫圖片搜索功能。  
-🛝 [Sugari](https://github.com/Sugari-Bot)：一個多功能的 Discord 機器人，我貢獻了一小部分。
+🛝 [Sugari](https://github.com/Sugari-Bot)：一個多功能的 Discord 機器人，我貢獻了一小部分。  
+🐻 [Guoba Network](https://github.com/seriaati/guoba-network): 為一位朋友製作基於 Discord 機器人實現的圖片分享網路。  
 
 ## API 封裝
 使用 [Pydantic](https://github.com/pydantic/pydantic)。  
@@ -44,6 +45,7 @@
 🤺 [akasha.py](https://github.com/seriaati/akasha-py)：[Akasha System](https://akasha.cv)的異步 API 封裝。  
 🎈 [genshin.py](https://github.com/thesadru/genshin.py)：HoYoLAB/米游社 API 的異步封裝，我是主要貢獻者。  
 🟢 [line.py](https://github.com/seriaati/line.py)：基於[line-bot-sdk](https://github.com/line/line-bot-sdk-python)的異步 LINE Message API 封裝，用於編寫 LINE 機器人。  
+📈 [Stock Crawl](https://github.com/seriaati/stock_crawl): 用於獲取和爬取不同台股資料的包。  
 
 ## 網頁應用
 使用 [Flet](https://github.com/flet-dev/flet)。  
@@ -58,7 +60,22 @@
   
 🎁 [Hoyo Codes](https://github.com/seriaati/hoyo-codes)：用於獲取米哈游遊戲兌換碼的 API。  
 📈 [Stock Fast API](https://github.com/seriaati/stock_fast_api)：用於獲取歷史股票交易記錄的 API。  
-🃏 [Enka Card API](https://github.com/seriaati/enka-card-api)：用於生成 Enka 卡片的 API。
+🃏 [Enka Card API](https://github.com/seriaati/enka-card-api)：用於生成 Enka 卡片的 API。  
+⬆️ [Image Host](https://github.com/seriaati/image-host): 像 imgur 一樣上傳並存取圖片。  
+
+## 連結預覽修復
+🔧 [fxtwitch](https://github.com/seriaati/fxtwitch): 修復 Discord 上的 Twitch 切片連結預覽。  
+🔧 [fxiwara](https://github.com/seriaati/fxiwara): 修復 Discord 上的 Iwara 連結預覽。  
+🔧 [fxfacebook](https://github.com/seriaati/fxfacebook): 修復 Discord 上的 Facebook Reels 連結預覽（不穩定）。
+
+## 網頁爬蟲
+使用 beautifulsoup4 或 [Playwright](https://github.com/microsoft/playwright).  
+
+- [Mobile01 Scrape](https://github.com/seriaati/mobile01-scrape)
+- [666forum Scrape](https://github.com/seriaati/666forum-scrape)
+- [Zenless Asset Scrape](https://github.com/seriaati/ZenlessAssetScrape)
+- [Swelldom Scrape](https://github.com/seriaati/swelldom-scrape)
+- [PTT Scrape](https://github.com/seriaati/ptt-scrape)
 
 ## 值得一提
 🌙 [Hoyolab Resin Counter](https://github.com/seriaati/hoyolab-resin-counter)：我在 GitHub 上的第一個 Python 項目，這是一切的起點。  
