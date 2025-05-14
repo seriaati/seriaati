@@ -8,7 +8,7 @@
 - [Patreon](https://www.patreon.com/seriaati)：10% 手續費。
 
 # 關於我
-👋 你好，我是 Seria，一名來自台灣的國際學生，目前在[早稻田大學](https://www.waseda.jp/top/en/)修讀資工系。  
+👋 你好，我是 Seria，一名來自台灣的國際學生，目前在[早稻田大學](https://www.waseda.jp/top/en/)修讀基幹理工系。  
 ❤️ 我同時也是一位充滿熱情的開發者，致力於使用 Python 編寫開源且高品質的軟體。  
 🌍 我會說中文和英文。  
 🎂 我的生日是 6 月 19 日。
@@ -98,6 +98,7 @@
 [Stock Fast API](https://github.com/seriaati/stock_fast_api)：用於獲取歷史股價的 API。
 
 # 一些統計數據
-![訪問計數器](https://komarev.com/ghpvc/?username=seriaati)  
-![GitHub 統計](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)  
-[![GitHub 連續貢獻](https://streak-stats.demolab.com/?user=seriaati&theme=dark)](https://git.io/streak-stats)
+![訪問數](https://komarev.com/ghpvc/?username=seriaati)  
+![Github 數據](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
+![GitHub 連勝](https://streak-stats.demolab.com/?user=seriaati&theme=dark)
+<a href="https://gitroll.io/profile/utJyuUPxZXMgUqz3TJUFMbwHLuBp2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utJyuUPxZXMgUqz3TJUFMbwHLuBp2?theme=tokyoNight" alt="GitRoll Profile Badge" width="600" height="338"/></a>
