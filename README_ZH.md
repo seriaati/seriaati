@@ -83,7 +83,7 @@
 
 ## LINE 機器人
 使用 [line.py](https://github.com/seriaati/line.py) 。  
-*所有的LINE機器人都不再維護！（反正你也不能邀請他們了哈哈）*  
+*所有的LINE機器人都不再維護！（反正你也不能邀請他們哈哈）*  
 
 [News Notify](https://github.com/chatmind-studio/news-notify)：當公司發布重大訊息時通知你的 LINE 機器人。  
 [Revenue Notifier](https://github.com/chatmind-studio/company-revenue-notifier)：當公司發布營收報告時通知你的 LINE 機器人。  
@@ -101,4 +101,4 @@
 ![訪問數](https://komarev.com/ghpvc/?username=seriaati)  
 ![Github 數據](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
 ![GitHub 連勝](https://streak-stats.demolab.com/?user=seriaati&theme=dark)
-<a href="https://gitroll.io/profile/utJyuUPxZXMgUqz3TJUFMbwHLuBp2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utJyuUPxZXMgUqz3TJUFMbwHLuBp2?theme=tokyoNight" alt="GitRoll Profile Badge" width="600" height="338"/></a>
+<a href="https://gitroll.io/profile/utJyuUPxZXMgUqz3TJUFMbwHLuBp2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/utJyuUPxZXMgUqz3TJUFMbwHLuBp2?theme=midnight" alt="GitRoll Profile Badge" width="600" height="338"/></a>
