@@ -1,11 +1,14 @@
 English | [中文](https://github.com/seriaati/seriaati/blob/main/README_ZH.md)
 
 # Support My Work
-If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation. Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.  
-I currently accept donations from the following services:
-- [Ko-Fi](https://ko-fi.com/seriaati): Most preferred because 0% fee, supports PayPal, VISA, mastercard.
-- [BuyMeACoffee](https://buymeacoffee.com/seria): 5% fee, supports credit cards.
-- [Patreon](https://www.patreon.com/seriaati): 10% fee.
+If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation.  
+Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.
+
+You can donate with these services:
+- [GitHub Sponsors](https://github.com/sponsors/seriaati): Most preferred because 0% fee.
+- [Ko-Fi](https://ko-fi.com/seriaati): 3% fee.
+- [BuyMeACoffee](https://buymeacoffee.com/seria): 8% fee.
+- [Patreon](https://www.patreon.com/seriaati): 10%+ fee.
 
 # About Me
 👋 Hi, I'm Seria, an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
