@@ -4,7 +4,7 @@ English | [中文](https://github.com/seriaati/seriaati/blob/main/README_ZH.md)
 If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation.  
 Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.
 
-You can donate with these services:
+You can support me via the follwoing services, different services have different payment methods:
 - [GitHub Sponsors](https://github.com/sponsors/seriaati): Most preferred because 0% fee.
 - [Ko-Fi](https://ko-fi.com/seriaati): 3% fee.
 - [BuyMeACoffee](https://buymeacoffee.com/seria): 8% fee.
