@@ -1,11 +1,13 @@
 [English](https://github.com/seriaati/seriaati/blob/main/README.md) | 中文
 
 # 支持我
-如果我的開源項目對你有所幫助，能收到你的捐款將讓我非常高興。你的支持不僅激勵了我對程式設計的熱情，還將幫助我繼續作為一名學生和開發者的旅程。  
-你可以通過以下服務進行捐款：
-- [Ko-Fi](https://ko-fi.com/seriaati)：最推薦，因為0% 手續費，支持 PayPal, VISA, mastercard。
-- [BuyMeACoffee](https://buymeacoffee.com/seria)：5% 手續費，支持信用卡。
-- [Patreon](https://www.patreon.com/seriaati)：10% 手續費。
+如果我的開源項目對你有所幫助，能收到你的捐款將讓我非常高興。你的支持不僅激勵了我對程式設計的熱情，還將幫助我繼續作為一名學生和開發者的旅程。
+
+你可以通過以下服務進行捐款，不同服務支持不同付款方式：
+- [GitHub Sponsors](https://github.com/sponsors/seriaati): 最推薦，0% 手續費。
+- [Ko-Fi](https://ko-fi.com/seriaati): 3% 手續費。
+- [BuyMeACoffee](https://buymeacoffee.com/seria): 8% 手續費。
+- [Patreon](https://www.patreon.com/seriaati): 10%+ 手續費。
 
 # 關於我
 👋 你好，我是 Seria，一名來自台灣的國際學生，目前在[早稻田大學](https://www.waseda.jp/top/en/)修讀基幹理工系。  
