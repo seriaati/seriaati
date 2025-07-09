@@ -5,10 +5,10 @@ If you've found any of my open-source projects helpful, I'd be delighted if you 
 Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.
 
 You can support me via the follwoing services, different services have different payment methods:
-- [GitHub Sponsors](https://github.com/sponsors/seriaati): Most preferred because 0% fee.
+- [GitHub Sponsors](https://github.com/sponsors/seriaati): Most preferred because 0% fee, GitHub account needed.
 - [Ko-Fi](https://ko-fi.com/seriaati): 3% fee.
 - [BuyMeACoffee](https://buymeacoffee.com/seria): 8% fee.
-- [Patreon](https://www.patreon.com/seriaati): 10%+ fee.
+- [Patreon](https://www.patreon.com/seriaati): 10%+ fee
 
 # About Me
 👋 Hi, I'm Seria, an international student from Taiwan, currently studying computer science in [Waseda University](https://www.waseda.jp/top/en/).  
