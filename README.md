@@ -30,13 +30,14 @@ You can find me in the following places:
 
 # My Projects
 
+📊 Uptime and maintenance status of my projects can be found on the [status site](https://status.seria.moe/).  
 🐍 The programming language I am best at is Python, and I use it to code things like:
 
 ## Discord Bots
   
 🚩 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): A feature rich, beautifully designed Discord bot for Hoyoverse gamers.
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): A Genshin Impact Discord bot, Hoyo Buddy is a rewrite of it.  
-🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A Discord bot that fixes social media embeds.  
+🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A feature-rich Discord bot for fixing social media embeds.  
 📅 [Lumina](https://github.com/seriaati/lumina): Your life organizer on Discord.  
 🖤 [Wuthery](https://github.com/Wuthery): A big project that I collab with other devs, it is a service for the game Wuthering Waves.  
 💙 [Layla](https://github.com/seriaati/layla): A small bot with anime image searching features derived from Shenhe.  
