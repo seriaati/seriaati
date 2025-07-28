@@ -53,6 +53,7 @@ You can find me in the following places:
 - asyncio
 - aiohttp
 - redis
+- Sentry
 
 ## API Wrappers
 
