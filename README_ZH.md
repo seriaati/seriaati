@@ -52,7 +52,8 @@
 - Pillow
 - asyncio
 - aiohttp
-- redis  
+- redis
+- Sentry
 
 ## API 封裝
 
