@@ -35,7 +35,7 @@
 
 ## Discord 機器人
   
-🚩 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy)：為米哈游玩家設計的功能豐富且美觀的 Discord 機器人。
+🚩 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy)：為米哈游玩家設計的功能豐富且美觀的 Discord 機器人。  
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot)：原神 Discord 機器人，Hoyo Buddy 是它的重寫版。  
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer)：修復社交媒體 Embed 的功能豐富的 Discord 機器人。  
 📅 [Lumina](https://github.com/seriaati/lumina)：你在 Discord 上的生活管理助手。  
@@ -64,7 +64,7 @@
 🔼 [enka.py](https://github.com/seriaati/enka-py)：[Enka Network](http://api.enka.network/)的異步 API 封裝  
 👺 [hakushin.py](https://github.com/seriaati/hakushin-py)：[hakush.in](https://hakush.in)的異步 API 封裝  
 🤺 [akasha.py](https://github.com/seriaati/akasha-py)：[Akasha System](https://akasha.cv)的異步 API 封裝  
-🎈 [genshin.py](https://github.com/thesadru/genshin.py)：HoYoLAB/米游社 API 的異步封裝，我是主要貢獻者。
+🎈 [genshin.py](https://github.com/thesadru/genshin.py)：HoYoLAB/米游社 API 的異步封裝，我是主要貢獻者。  
 🟢 [line.py](https://github.com/seriaati/line.py)：基於[line-bot-sdk](https://github.com/line/line-bot-sdk-python)的異步 LINE 訊息 API 封裝，用於編寫 LINE 機器人。  
 📈 [Stock Crawl](https://github.com/seriaati/stock_crawl)：用於獲取和爬取台灣不同股票資料的包。  
 
