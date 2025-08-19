@@ -35,7 +35,7 @@ You can find me in the following places:
 
 ## Discord Bots
   
-🚩 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): A feature rich, beautifully designed Discord bot for Hoyoverse gamers.
+🚩 [Hoyo Buddy](https://github.com/seriaati/hoyo-buddy): A feature rich, beautifully designed Discord bot for Hoyoverse gamers.  
 🦢 [Shenhe](https://github.com/seriaati/shenhe_bot): A Genshin Impact Discord bot, Hoyo Buddy is a rewrite of it.  
 🔧 [Embed Fixer](https://github.com/seriaati/embed-fixer): A feature-rich Discord bot for fixing social media embeds.  
 📅 [Lumina](https://github.com/seriaati/lumina): Your life organizer on Discord.  
