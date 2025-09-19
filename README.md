@@ -11,7 +11,7 @@ You can support me via the follwoing services, different services accept differe
 - [GitHub Sponsors](https://github.com/sponsors/seriaati): Most preferred because 0% fee, GitHub account needed.
 - [Ko-Fi](https://ko-fi.com/seriaati): 3% fee.
 - [BuyMeACoffee](https://buymeacoffee.com/seria): 8% fee.
-- [Patreon](https://www.patreon.com/seriaati): 10%+ fee
+- [Patreon](https://www.patreon.com/seriaati): 10%+ fee.
 
 # About Me
 
@@ -27,6 +27,35 @@ You can find me in the following places:
 - [Discord](https://discord.com/users/410036441129943050) (adding me as friend)
 - [Email](mailto:seria.ati@gmail.com)
 - [LINE](https://line.me/ti/p/O4Y5UUJSqK)
+
+# Recent Status
+
+## Currently Working On
+
+
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness. (1 day ago)
+- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (1 day ago)
+- [seriaati/image-host](https://github.com/seriaati/image-host) - Lightweight image hosting service built with FastAPI (3 days ago)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (3 days ago)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (3 days ago)
+
+## Recent Stars
+
+
+- [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk) (1 week ago)
+- [facebed/facebed](https://github.com/facebed/facebed) - facebook embed provider for messaging apps (4 weeks ago)
+- [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. (4 weeks ago)
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (1 month ago)
+- [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray (1 month ago)
+
+## Recent PRs
+
+
+- [Migrate to discord.py cv2](https://github.com/seriaati/hoyo-buddy/pull/421) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (5 days ago)
+- [Improve gacha log system](https://github.com/seriaati/hoyo-buddy/pull/416) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (2 weeks ago)
+- [v1.16.11 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/80) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (2 weeks ago)
+- [Merge 'preview' into main](https://github.com/seriaati/hoyo-buddy-wiki/pull/79) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (1 month ago)
+- [zh-Hans v1.16.10 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/78) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (1 month ago)
 
 # My Projects
 
