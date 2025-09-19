@@ -21,6 +21,13 @@ jobs:
           template: "README.md.tpl"
           writeTo: "README.md"
 
+      - uses: trinhminhtriet/readme-markgen-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "README_ZH.md.tpl"
+          writeTo: "README_ZH.md"
+
       - uses: stefanzweifel/git-auto-commit-action@v6
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
