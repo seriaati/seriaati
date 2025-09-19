@@ -30,7 +30,7 @@ You can find me in the following places:
 
 # Recent Status
 
-## Currently Working On
+## Recent Contributions
 
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} (`{{humanize .OccurredAt}}`)
