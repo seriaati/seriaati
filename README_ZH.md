@@ -51,11 +51,11 @@
 ## 近期 PR
 
 
+- [Use hakushin for enemy recommendations](https://github.com/seriaati/hoyo-buddy/pull/429) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
 - [Migrate to discord.py cv2](https://github.com/seriaati/hoyo-buddy/pull/421) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
 - [Improve gacha log system](https://github.com/seriaati/hoyo-buddy/pull/416) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [v1.16.11 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/80) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [Merge 'preview' into main](https://github.com/seriaati/hoyo-buddy-wiki/pull/79) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
-- [zh-Hans v1.16.10 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/78) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 
 # 我的專案
 
