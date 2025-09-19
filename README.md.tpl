@@ -33,19 +33,19 @@ You can find me in the following places:
 ## Currently Working On
 
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} (`{{humanize .OccurredAt}}`)
 {{- end}}
 
 ## Recent Stars
 
 {{range recentStars 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} (`{{humanize .StarredAt}}`)
 {{- end }}
 
 ## Recent PRs
 
 {{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) (`{{humanize .CreatedAt}}`)
 {{- end}}
 
 # My Projects
