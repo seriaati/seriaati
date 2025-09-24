@@ -33,10 +33,10 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) (`1 day ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
 - [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`1 day ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) (`1 day ago`)
 - [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`5 days ago`)
 
 ## Recent Stars
