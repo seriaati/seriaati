@@ -173,4 +173,4 @@
 
 ![訪問數](https://komarev.com/ghpvc/?username=seriaati)  
 ![Github 數據](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
-![GitHub 連勝](https://streak-stats.demolab.com/?user=seriaati&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&locale=zh_Hant&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
