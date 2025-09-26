@@ -42,11 +42,11 @@ You can find me in the following places:
 ## Recent Stars
 
 
+- [steve07s/Artale-Channel-Broadcast-System](https://github.com/steve07s/Artale-Channel-Broadcast-System) (`today`)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (`1 week ago`)
 - [sabuhish/fastapi-mail](https://github.com/sabuhish/fastapi-mail) - Fastapi mail system sending mails(individual, bulk) attachments(individual, bulk) (`2 weeks ago`)
 - [facebed/facebed](https://github.com/facebed/facebed) - facebook embed provider for messaging apps (`1 month ago`)
 - [automazeio/ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. (`1 month ago`)
-- [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it! (`1 month ago`)
 
 ## Recent PRs
 
