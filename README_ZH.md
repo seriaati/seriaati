@@ -181,7 +181,7 @@
 # 一些統計數據
 
 ![訪問數](https://komarev.com/ghpvc/?username=seriaati)
-![今日寫程式用時](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:today&label=今日編碼時長&color=blue)
-![過去30天寫程式用時](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:30_days&label=%E9%81%8E%E5%8E%BB30%E5%A4%A9%E7%B7%A8%E7%A2%BC%E6%99%82%E9%95%B7&color=blue)
-![Github 數據](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile&locale=zh-tw)
+![今日寫程式用時](https://wakapi.seria.moe/api/badge/seriaati/interval:today?label=今日寫程式用時)
+![過去30天寫程式用時](https://wakapi.seria.moe/api/badge/seriaati/seriaati/interval:30_days?label=過去30天寫程式用時)
+![Github 數據](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
 [![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&locale=zh_Hant&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
