@@ -182,6 +182,6 @@ Using [Pydantic](https://github.com/pydantic/pydantic).
 
 ![Visitor Counter](https://komarev.com/ghpvc/?username=seriaati)
 ![Today coding time](https://wakapi.seria.moe/api/badge/seriaati/interval:today?label=Today%20coding%20time)
-![Last 30d coding time](https://wakapi.seria.moe/api/badge/seriaati/seriaati/interval:30_days?label=Last%2030d%20coding%time)
+![Last 30d coding time](https://wakapi.seria.moe/api/badge/seriaati/seriaati/interval:30_days?label=Last%2030d%20coding%20time)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
 [![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
