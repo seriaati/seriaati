@@ -173,6 +173,7 @@ Using [Pydantic](https://github.com/pydantic/pydantic).
 
 ![Visitor Counter](https://komarev.com/ghpvc/?username=seriaati)
 ![Today coding time](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:today&label=Today coding time&color=blue)
-![Last 30d coding time](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:30_days&label=Last 30d coding time&color=blue)
+![Last 30d coding time](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:30_days&label=Last 30d coding time&color=blue)  
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
 [![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
