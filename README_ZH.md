@@ -180,6 +180,8 @@
 
 # 一些統計數據
 
-![訪問數](https://komarev.com/ghpvc/?username=seriaati)  
+![訪問數](https://komarev.com/ghpvc/?username=seriaati)
+![今日寫程式用時](https://wakapi.seria.moe/api/badge/seriaati/interval:today?label=今日寫程式用時)
+![過去30天寫程式用時](https://wakapi.seria.moe/api/badge/seriaati/seriaati/interval:30_days?label=過去30天寫程式用時)
 ![Github 數據](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
 [![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&locale=zh_Hant&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
