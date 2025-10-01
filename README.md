@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [v1.16.12 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/82) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
 - [Use hakushin for enemy recommendations](https://github.com/seriaati/hoyo-buddy/pull/429) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
 - [Migrate to discord.py cv2](https://github.com/seriaati/hoyo-buddy/pull/421) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [Improve gacha log system](https://github.com/seriaati/hoyo-buddy/pull/416) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 month ago`)
 - [v1.16.11 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/80) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
-- [Merge 'preview' into main](https://github.com/seriaati/hoyo-buddy-wiki/pull/79) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 
 # My Projects
 
@@ -180,6 +180,8 @@ Using [Pydantic](https://github.com/pydantic/pydantic).
 
 # Some Stats
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=seriaati)  
+![Visitor Counter](https://komarev.com/ghpvc/?username=seriaati)
+![Today coding time](https://wakapi.seria.moe/api/badge/seriaati/interval:today?label=Today%20coding%20time)
+![Last 30d coding time](https://wakapi.seria.moe/api/badge/seriaati/seriaati/interval:30_days?label=Last%2030d%20coding%time)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
 [![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
