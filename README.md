@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`1 day ago`)
-- [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`2 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`2 days ago`)
+- [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`3 days ago`)
 
 ## Recent Stars
 
@@ -51,10 +51,10 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [Add support for new Genshin calculator](https://github.com/seriaati/genshin.py/pull/295) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`1 day ago`)
-- [v1.16.12 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/82) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 days ago`)
+- [Add support for new Genshin calculator](https://github.com/seriaati/genshin.py/pull/295) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`2 days ago`)
+- [v1.16.12 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/82) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 days ago`)
 - [Use hakushin for enemy recommendations](https://github.com/seriaati/hoyo-buddy/pull/429) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
-- [Migrate to discord.py cv2](https://github.com/seriaati/hoyo-buddy/pull/421) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
+- [Migrate to discord.py cv2](https://github.com/seriaati/hoyo-buddy/pull/421) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
 - [Improve gacha log system](https://github.com/seriaati/hoyo-buddy/pull/416) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 month ago`)
 
 # My Projects
