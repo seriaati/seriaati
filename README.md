@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [Add light cone stats to /profile hsr cards for hoyolab characters](https://github.com/seriaati/hoyo-buddy/pull/438) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
 - [Add support for new Genshin calculator](https://github.com/seriaati/genshin.py/pull/295) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`3 days ago`)
 - [v1.16.12 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/82) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`5 days ago`)
 - [Use hakushin for enemy recommendations](https://github.com/seriaati/hoyo-buddy/pull/429) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [Migrate to discord.py cv2](https://github.com/seriaati/hoyo-buddy/pull/421) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
-- [Improve gacha log system](https://github.com/seriaati/hoyo-buddy/pull/416) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 month ago`)
 
 # My Projects
 
