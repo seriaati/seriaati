@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`3 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
+- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
 
 ## Recent Stars
 
@@ -51,10 +51,10 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [Add Anomaly Arbitration card](https://github.com/seriaati/hoyo-buddy/pull/439) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
-- [Add light cone stats to /profile hsr cards for hoyolab characters](https://github.com/seriaati/hoyo-buddy/pull/438) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
-- [Add support for new Genshin calculator](https://github.com/seriaati/genshin.py/pull/295) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`3 days ago`)
-- [v1.16.12 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/82) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`5 days ago`)
+- [Add Anomaly Arbitration card](https://github.com/seriaati/hoyo-buddy/pull/439) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 day ago`)
+- [Add light cone stats to /profile hsr cards for hoyolab characters](https://github.com/seriaati/hoyo-buddy/pull/438) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 day ago`)
+- [Add support for new Genshin calculator](https://github.com/seriaati/genshin.py/pull/295) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`4 days ago`)
+- [v1.16.12 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/82) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`6 days ago`)
 - [Use hakushin for enemy recommendations](https://github.com/seriaati/hoyo-buddy/pull/429) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 
 # My Projects
