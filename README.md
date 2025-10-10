@@ -42,11 +42,11 @@ You can find me in the following places:
 ## Recent Stars
 
 
+- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees (`today`)
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  (`today`)
+- [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency. (`today`)
+- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 (`today`)
 - [ButTaiwan/genyo-font](https://github.com/ButTaiwan/genyo-font) - Free font derived from Source Han Serif (`today`)
-- [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow) - Crowdsourcing better titles and thumbnails on YouTube (`2 days ago`)
-- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension) (`2 days ago`)
-- [steve07s/Artale-Channel-Broadcast-System](https://github.com/steve07s/Artale-Channel-Broadcast-System) (`2 weeks ago`)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (`3 weeks ago`)
 
 ## Recent PRs
 
