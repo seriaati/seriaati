@@ -51,11 +51,11 @@
 ## 近期 PR
 
 
+- [Setting v2](https://github.com/seriaati/hoyo-buddy/pull/445) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
 - [Update redeem description for TOT](https://github.com/seriaati/hoyo-buddy-wiki/pull/85) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
 - [Improve sentry setup and app initializations](https://github.com/seriaati/hoyo-buddy/pull/441) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 days ago`)
 - [Add Anomaly Arbitration card](https://github.com/seriaati/hoyo-buddy/pull/439) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
 - [Add light cone stats to /profile hsr cards for hoyolab characters](https://github.com/seriaati/hoyo-buddy/pull/438) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
-- [Add support for new Genshin calculator](https://github.com/seriaati/genshin.py/pull/295) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`1 week ago`)
 
 # 我的專案
 
