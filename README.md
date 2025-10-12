@@ -33,29 +33,29 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`3 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`1 day ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`4 days ago`)
 
 ## Recent Stars
 
 
-- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees (`1 day ago`)
-- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  (`1 day ago`)
-- [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency. (`1 day ago`)
-- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 (`1 day ago`)
-- [ButTaiwan/genyo-font](https://github.com/ButTaiwan/genyo-font) - Free font derived from Source Han Serif (`1 day ago`)
+- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees (`2 days ago`)
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  (`2 days ago`)
+- [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency. (`2 days ago`)
+- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 (`2 days ago`)
+- [ButTaiwan/genyo-font](https://github.com/ButTaiwan/genyo-font) - Free font derived from Source Han Serif (`2 days ago`)
 
 ## Recent PRs
 
 
-- [Setting v2](https://github.com/seriaati/hoyo-buddy/pull/445) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
-- [Update redeem description for TOT](https://github.com/seriaati/hoyo-buddy-wiki/pull/85) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
-- [Improve sentry setup and app initializations](https://github.com/seriaati/hoyo-buddy/pull/441) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 days ago`)
-- [Add Anomaly Arbitration card](https://github.com/seriaati/hoyo-buddy/pull/439) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
-- [Add light cone stats to /profile hsr cards for hoyolab characters](https://github.com/seriaati/hoyo-buddy/pull/438) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
+- [Setting v2](https://github.com/seriaati/hoyo-buddy/pull/445) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 day ago`)
+- [Update redeem description for TOT](https://github.com/seriaati/hoyo-buddy-wiki/pull/85) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
+- [Improve sentry setup and app initializations](https://github.com/seriaati/hoyo-buddy/pull/441) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
+- [Add Anomaly Arbitration card](https://github.com/seriaati/hoyo-buddy/pull/439) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`6 days ago`)
+- [Add light cone stats to /profile hsr cards for hoyolab characters](https://github.com/seriaati/hoyo-buddy/pull/438) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`6 days ago`)
 
 # My Projects
 
