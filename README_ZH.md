@@ -33,29 +33,29 @@
 ## 近期貢獻
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`today`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`today`)
-- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
+- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`today`)
 
 ## 近期 Stars
 
 
-- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees (`3 days ago`)
-- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  (`3 days ago`)
-- [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency. (`3 days ago`)
-- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 (`3 days ago`)
-- [ButTaiwan/genyo-font](https://github.com/ButTaiwan/genyo-font) - Free font derived from Source Han Serif (`3 days ago`)
+- [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees (`4 days ago`)
+- [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.  (`4 days ago`)
+- [adrcotfas/goodtime](https://github.com/adrcotfas/goodtime) - A productivity app that combines pomodoro timers and flow techniques to boost focus and efficiency. (`4 days ago`)
+- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告 (`4 days ago`)
+- [ButTaiwan/genyo-font](https://github.com/ButTaiwan/genyo-font) - Free font derived from Source Han Serif (`4 days ago`)
 
 ## 近期 PR
 
 
-- [test change](https://github.com/seriaati/hoyo-buddy-wiki/pull/91) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
-- [Update renovate config](https://github.com/seriaati/hoyo-buddy-wiki/pull/89) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
-- [Merge 'preview' into main](https://github.com/seriaati/hoyo-buddy-wiki/pull/86) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
-- [Setting v2](https://github.com/seriaati/hoyo-buddy/pull/445) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 days ago`)
-- [Update redeem description for TOT](https://github.com/seriaati/hoyo-buddy-wiki/pull/85) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 days ago`)
+- [test change](https://github.com/seriaati/hoyo-buddy-wiki/pull/91) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
+- [Update renovate config](https://github.com/seriaati/hoyo-buddy-wiki/pull/89) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
+- [Merge 'preview' into main](https://github.com/seriaati/hoyo-buddy-wiki/pull/86) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
+- [Setting v2](https://github.com/seriaati/hoyo-buddy/pull/445) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 days ago`)
+- [Update redeem description for TOT](https://github.com/seriaati/hoyo-buddy-wiki/pull/85) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 days ago`)
 
 # 我的專案
 
