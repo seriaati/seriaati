@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [Refactor card data code](https://github.com/seriaati/hoyo-buddy/pull/456) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
 - [Improve documentation](https://github.com/seriaati/genshin.py/pull/304) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`2 days ago`)
 - [test change](https://github.com/seriaati/hoyo-buddy-wiki/pull/91) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 days ago`)
 - [Update renovate config](https://github.com/seriaati/hoyo-buddy-wiki/pull/89) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 days ago`)
 - [Merge 'preview' into main](https://github.com/seriaati/hoyo-buddy-wiki/pull/86) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 days ago`)
-- [Setting v2](https://github.com/seriaati/hoyo-buddy/pull/445) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`6 days ago`)
 
 # My Projects
 
