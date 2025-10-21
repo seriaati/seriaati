@@ -33,26 +33,26 @@
 ## 近期貢獻
 
 
-- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`today`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`3 days ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
-- [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`4 days ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`4 days ago`)
+- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`1 day ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`4 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`4 days ago`)
+- [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`5 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`5 days ago`)
 
 ## 近期 Stars
 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`4 days ago`)
-- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`4 days ago`)
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (`4 days ago`)
-- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification. (`4 days ago`)
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ (`4 days ago`)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`5 days ago`)
+- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`5 days ago`)
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (`5 days ago`)
+- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification. (`5 days ago`)
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ (`5 days ago`)
 
 ## 近期 PR
 
 
-- [Refactor card data code](https://github.com/seriaati/hoyo-buddy/pull/456) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 days ago`)
-- [Improve documentation](https://github.com/seriaati/genshin.py/pull/304) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`5 days ago`)
+- [Refactor card data code](https://github.com/seriaati/hoyo-buddy/pull/456) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 days ago`)
+- [Improve documentation](https://github.com/seriaati/genshin.py/pull/304) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`6 days ago`)
 - [test change](https://github.com/seriaati/hoyo-buddy-wiki/pull/91) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [Update renovate config](https://github.com/seriaati/hoyo-buddy-wiki/pull/89) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [Merge 'preview' into main](https://github.com/seriaati/hoyo-buddy-wiki/pull/86) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
