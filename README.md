@@ -42,11 +42,11 @@ You can find me in the following places:
 ## Recent Stars
 
 
+- [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`today`)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`6 days ago`)
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`6 days ago`)
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (`6 days ago`)
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification. (`6 days ago`)
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️ (`6 days ago`)
 
 ## Recent PRs
 
