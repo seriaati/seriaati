@@ -34,28 +34,28 @@
 
 
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
-- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`today`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) - Notify via Discord webhook whenever a Hoyoverse game is updated, in maintenance, or has preload available. (`today`)
+- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`1 day ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
+- [seriaati/hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) - Notify via Discord webhook whenever a Hoyoverse game is updated, in maintenance, or has preload available. (`1 day ago`)
 
 ## 近期 Stars
 
 
-- [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`today`)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`6 days ago`)
-- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`6 days ago`)
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (`6 days ago`)
-- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification. (`6 days ago`)
+- [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`1 day ago`)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`1 week ago`)
+- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`1 week ago`)
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (`1 week ago`)
+- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification. (`1 week ago`)
 
 ## 近期 PR
 
 
-- [ci(Mergify): configuration update](https://github.com/seriaati/genshin.py/pull/307) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`1 day ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/enka-card-api/pull/102) on [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) (`1 day ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/ambr/pull/130) on [seriaati/ambr](https://github.com/seriaati/ambr) (`1 day ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/embed-fixer/pull/189) on [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) (`1 day ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/enka-py/pull/138) on [seriaati/enka-py](https://github.com/seriaati/enka-py) (`1 day ago`)
+- [ci(Mergify): configuration update](https://github.com/seriaati/genshin.py/pull/307) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`2 days ago`)
+- [ci(Mergify): configuration update](https://github.com/seriaati/enka-card-api/pull/102) on [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) (`2 days ago`)
+- [ci(Mergify): configuration update](https://github.com/seriaati/ambr/pull/130) on [seriaati/ambr](https://github.com/seriaati/ambr) (`2 days ago`)
+- [ci(Mergify): configuration update](https://github.com/seriaati/embed-fixer/pull/189) on [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) (`2 days ago`)
+- [ci(Mergify): configuration update](https://github.com/seriaati/enka-py/pull/138) on [seriaati/enka-py](https://github.com/seriaati/enka-py) (`2 days ago`)
 
 # 我的專案
 
