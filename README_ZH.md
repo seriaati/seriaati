@@ -51,11 +51,11 @@
 ## 近期 PR
 
 
+- [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/seriaati/linear-discord-webhook/pull/1) on [seriaati/linear-discord-webhook](https://github.com/seriaati/linear-discord-webhook) (`today`)
 - [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/screfy/linear-discord-webhook/pull/5) on [screfy/linear-discord-webhook](https://github.com/screfy/linear-discord-webhook) (`today`)
 - [ci(Mergify): configuration update](https://github.com/seriaati/genshin.py/pull/307) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`3 days ago`)
 - [ci(Mergify): configuration update](https://github.com/seriaati/enka-card-api/pull/102) on [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) (`3 days ago`)
 - [ci(Mergify): configuration update](https://github.com/seriaati/ambr/pull/130) on [seriaati/ambr](https://github.com/seriaati/ambr) (`3 days ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/embed-fixer/pull/189) on [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) (`3 days ago`)
 
 # 我的專案
 
