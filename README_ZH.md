@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
+- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
 - [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka showcase to Genshin Optimizer for damage calculation. (`4 days ago`)
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`5 days ago`)
-- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`5 days ago`)
 
 ## 近期 Stars
 
@@ -51,11 +51,11 @@
 ## 近期 PR
 
 
+- [Add early birthday notification feature](https://github.com/seriaati/lumina/pull/51) on [seriaati/lumina](https://github.com/seriaati/lumina) (`today`)
 - [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/seriaati/linear-discord-webhook/pull/1) on [seriaati/linear-discord-webhook](https://github.com/seriaati/linear-discord-webhook) (`4 days ago`)
 - [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/screfy/linear-discord-webhook/pull/5) on [screfy/linear-discord-webhook](https://github.com/screfy/linear-discord-webhook) (`4 days ago`)
 - [ci(Mergify): configuration update](https://github.com/seriaati/genshin.py/pull/307) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`1 week ago`)
 - [ci(Mergify): configuration update](https://github.com/seriaati/enka-card-api/pull/102) on [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) (`1 week ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/ambr/pull/130) on [seriaati/ambr](https://github.com/seriaati/ambr) (`1 week ago`)
 
 # 我的專案
 
