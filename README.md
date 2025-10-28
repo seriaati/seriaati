@@ -33,16 +33,16 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka showcase to Genshin Optimizer for damage calculation. (`3 days ago`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`4 days ago`)
-- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`4 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
+- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka showcase to Genshin Optimizer for damage calculation. (`4 days ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`5 days ago`)
+- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`5 days ago`)
 
 ## Recent Stars
 
 
-- [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`5 days ago`)
+- [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`6 days ago`)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`1 week ago`)
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`1 week ago`)
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (`1 week ago`)
@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/seriaati/linear-discord-webhook/pull/1) on [seriaati/linear-discord-webhook](https://github.com/seriaati/linear-discord-webhook) (`3 days ago`)
-- [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/screfy/linear-discord-webhook/pull/5) on [screfy/linear-discord-webhook](https://github.com/screfy/linear-discord-webhook) (`3 days ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/genshin.py/pull/307) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`6 days ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/enka-card-api/pull/102) on [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) (`6 days ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/ambr/pull/130) on [seriaati/ambr](https://github.com/seriaati/ambr) (`6 days ago`)
+- [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/seriaati/linear-discord-webhook/pull/1) on [seriaati/linear-discord-webhook](https://github.com/seriaati/linear-discord-webhook) (`4 days ago`)
+- [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/screfy/linear-discord-webhook/pull/5) on [screfy/linear-discord-webhook](https://github.com/screfy/linear-discord-webhook) (`4 days ago`)
+- [ci(Mergify): configuration update](https://github.com/seriaati/genshin.py/pull/307) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`1 week ago`)
+- [ci(Mergify): configuration update](https://github.com/seriaati/enka-card-api/pull/102) on [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) (`1 week ago`)
+- [ci(Mergify): configuration update](https://github.com/seriaati/ambr/pull/130) on [seriaati/ambr](https://github.com/seriaati/ambr) (`1 week ago`)
 
 # My Projects
 
