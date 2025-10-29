@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [Add empty CAPTCHA page FAQ](https://github.com/seriaati/hoyo-buddy-wiki/pull/95) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
 - [Add early birthday notification feature](https://github.com/seriaati/lumina/pull/51) on [seriaati/lumina](https://github.com/seriaati/lumina) (`1 day ago`)
 - [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/seriaati/linear-discord-webhook/pull/1) on [seriaati/linear-discord-webhook](https://github.com/seriaati/linear-discord-webhook) (`5 days ago`)
 - [Add new trusted IPs to LINEAR_TRUSTED_IPS](https://github.com/screfy/linear-discord-webhook/pull/5) on [screfy/linear-discord-webhook](https://github.com/screfy/linear-discord-webhook) (`5 days ago`)
 - [ci(Mergify): configuration update](https://github.com/seriaati/genshin.py/pull/307) on [seriaati/genshin.py](https://github.com/seriaati/genshin.py) (`1 week ago`)
-- [ci(Mergify): configuration update](https://github.com/seriaati/enka-card-api/pull/102) on [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) (`1 week ago`)
 
 # My Projects
 
