@@ -33,20 +33,20 @@
 ## 近期貢獻
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/fxptt](https://github.com/seriaati/fxptt) (`today`)
-- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`4 days ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`4 days ago`)
-- [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`4 days ago`)
+- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/fxptt](https://github.com/seriaati/fxptt) (`1 day ago`)
+- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`5 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`5 days ago`)
 
 ## 近期 Stars
 
 
 - [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`3 weeks ago`)
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`3 weeks ago`)
-- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`3 weeks ago`)
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (`3 weeks ago`)
-- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification. (`3 weeks ago`)
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`4 weeks ago`)
+- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`4 weeks ago`)
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (`4 weeks ago`)
+- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification. (`4 weeks ago`)
 
 ## 近期 PR
 
@@ -54,8 +54,8 @@
 - [V1.16.13](https://github.com/seriaati/hoyo-buddy-wiki/pull/97) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [Settings V2](https://github.com/seriaati/hoyo-buddy/pull/470) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
 - [Add support for MW banner stats](https://github.com/seriaati/hoyo-buddy/pull/469) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
-- [Add empty CAPTCHA page FAQ](https://github.com/seriaati/hoyo-buddy-wiki/pull/96) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
-- [Add support for MW banners](https://github.com/seriaati/hoyo-buddy/pull/467) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
+- [Add empty CAPTCHA page FAQ](https://github.com/seriaati/hoyo-buddy-wiki/pull/96) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
+- [Add support for MW banners](https://github.com/seriaati/hoyo-buddy/pull/467) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 
 # 我的專案
 
