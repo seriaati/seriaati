@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`today`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`today`)
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`1 day ago`)
 - [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`2 days ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
-- [seriaati/fxptt](https://github.com/seriaati/fxptt) (`3 days ago`)
-- [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`1 week ago`)
 
 ## Recent Stars
 
@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [Update site URL in Docusaurus configuration](https://github.com/seriaati/hoyo-buddy-wiki/pull/100) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
 - [V1.16.13](https://github.com/seriaati/hoyo-buddy-wiki/pull/97) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [Settings V2](https://github.com/seriaati/hoyo-buddy/pull/470) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [Add support for MW banner stats](https://github.com/seriaati/hoyo-buddy/pull/469) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [Add empty CAPTCHA page FAQ](https://github.com/seriaati/hoyo-buddy-wiki/pull/96) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
-- [Add support for MW banners](https://github.com/seriaati/hoyo-buddy/pull/467) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 
 # My Projects
 
