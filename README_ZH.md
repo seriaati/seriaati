@@ -33,9 +33,9 @@
 ## 近期貢獻
 
 
+- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
-- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`3 days ago`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`4 days ago`)
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`5 days ago`)
 
