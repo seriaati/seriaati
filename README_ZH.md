@@ -33,16 +33,16 @@
 ## 近期貢獻
 
 
-- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`4 days ago`)
-- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`5 days ago`)
+- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`5 days ago`)
+- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`6 days ago`)
 
 ## 近期 Stars
 
 
-- [LumiFae/enka.cards](https://github.com/LumiFae/enka.cards) (`4 days ago`)
+- [LumiFae/enka.cards](https://github.com/LumiFae/enka.cards) (`5 days ago`)
 - [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`4 weeks ago`)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`1 month ago`)
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`1 month ago`)
@@ -51,11 +51,11 @@
 ## 近期 PR
 
 
-- [Update site URL in Docusaurus configuration](https://github.com/seriaati/hoyo-buddy-wiki/pull/100) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 days ago`)
+- [Update site URL in Docusaurus configuration](https://github.com/seriaati/hoyo-buddy-wiki/pull/100) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`5 days ago`)
 - [V1.16.13](https://github.com/seriaati/hoyo-buddy-wiki/pull/97) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [Settings V2](https://github.com/seriaati/hoyo-buddy/pull/470) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [Add support for MW banner stats](https://github.com/seriaati/hoyo-buddy/pull/469) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
-- [Add empty CAPTCHA page FAQ](https://github.com/seriaati/hoyo-buddy-wiki/pull/96) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
+- [Add empty CAPTCHA page FAQ](https://github.com/seriaati/hoyo-buddy-wiki/pull/96) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 
 # 我的專案
 
