@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/genshin-card](https://github.com/seriaati/genshin-card) (`today`)
+- [seriaati/zest-countdown](https://github.com/seriaati/zest-countdown) (`today`)
 - [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`1 day ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`5 days ago`)
-- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`6 days ago`)
 
 ## Recent Stars
 
