@@ -42,11 +42,11 @@
 ## 近期 Stars
 
 
+- [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py (`today`)
 - [LumiFae/enka.cards](https://github.com/LumiFae/enka.cards) (`6 days ago`)
 - [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`1 month ago`)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`1 month ago`)
 - [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`1 month ago`)
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.  (`1 month ago`)
 
 ## 近期 PR
 
