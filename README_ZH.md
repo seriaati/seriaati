@@ -33,20 +33,20 @@
 ## 近期貢獻
 
 
-- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`today`)
 - [seriaati/zest-countdown](https://github.com/seriaati/zest-countdown) (`1 day ago`)
 
 ## 近期 Stars
 
 
+- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 全新Python游戏自动化框架(支持Windows和模拟器) (`today`)
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py (`today`)
 - [LumiFae/enka.cards](https://github.com/LumiFae/enka.cards) (`6 days ago`)
 - [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`1 month ago`)
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. (`1 month ago`)
-- [pickle-com/glass](https://github.com/pickle-com/glass) - Digital Mind Extension (`1 month ago`)
 
 ## 近期 PR
 
