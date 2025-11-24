@@ -34,9 +34,9 @@ You can find me in the following places:
 
 
 - [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`today`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
 - [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`1 day ago`)
 
 ## Recent Stars
