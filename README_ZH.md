@@ -33,10 +33,10 @@
 ## 近期貢獻
 
 
+- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`1 day ago`)
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`1 day ago`)
-- [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`2 days ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
 
 ## 近期 Stars
