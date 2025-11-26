@@ -33,18 +33,18 @@
 ## 近期貢獻
 
 
-- [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`today`)
-- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`today`)
-- [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`1 day ago`)
+- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`1 day ago`)
+- [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`2 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
 
 ## 近期 Stars
 
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (`4 days ago`)
-- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 全新Python游戏自动化框架(支持Windows和模拟器) (`4 days ago`)
-- [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py (`4 days ago`)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (`5 days ago`)
+- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 全新Python游戏自动化框架(支持Windows和模拟器) (`5 days ago`)
+- [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py (`5 days ago`)
 - [LumiFae/enka.cards](https://github.com/LumiFae/enka.cards) (`1 week ago`)
 - [kelvin6365/plane-discord-bot](https://github.com/kelvin6365/plane-discord-bot) (`1 month ago`)
 
