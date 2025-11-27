@@ -51,11 +51,11 @@
 ## 近期 PR
 
 
+- [fix(IDLIX): fix activity matching private IP addresses](https://github.com/PreMiD/Activities/pull/10175) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`today`)
 - [Update site URL in Docusaurus configuration](https://github.com/seriaati/hoyo-buddy-wiki/pull/100) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [V1.16.13](https://github.com/seriaati/hoyo-buddy-wiki/pull/97) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [Settings V2](https://github.com/seriaati/hoyo-buddy/pull/470) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
 - [Add support for MW banner stats](https://github.com/seriaati/hoyo-buddy/pull/469) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
-- [Add empty CAPTCHA page FAQ](https://github.com/seriaati/hoyo-buddy-wiki/pull/96) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 weeks ago`)
 
 # 我的專案
 
