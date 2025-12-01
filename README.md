@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`2 days ago`)
-- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`2 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
+- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy website (`3 days ago`)
+- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`3 days ago`)
 
 ## Recent Stars
 
@@ -51,9 +51,9 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/514) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 day ago`)
-- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/513) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 day ago`)
-- [fix(IDLIX): fix activity matching private IP addresses](https://github.com/PreMiD/Activities/pull/10175) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`3 days ago`)
+- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/514) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 days ago`)
+- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/513) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 days ago`)
+- [fix(IDLIX): fix activity matching private IP addresses](https://github.com/PreMiD/Activities/pull/10175) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`4 days ago`)
 - [Update site URL in Docusaurus configuration](https://github.com/seriaati/hoyo-buddy-wiki/pull/100) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [V1.16.13](https://github.com/seriaati/hoyo-buddy-wiki/pull/97) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 weeks ago`)
 
