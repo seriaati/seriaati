@@ -35,9 +35,9 @@
 
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
 - [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`today`)
+- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka showcase to Genshin Optimizer for damage calculation. (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`1 day ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`1 day ago`)
+- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`2 days ago`)
 
 ## 近期 Stars
 
@@ -51,10 +51,10 @@
 ## 近期 PR
 
 
-- [v1.16.14 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/103) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 days ago`)
-- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/514) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 days ago`)
-- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/513) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 days ago`)
-- [fix(IDLIX): fix activity matching private IP addresses](https://github.com/PreMiD/Activities/pull/10175) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`6 days ago`)
+- [v1.16.14 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/103) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 days ago`)
+- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/514) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
+- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/513) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
+- [fix(IDLIX): fix activity matching private IP addresses](https://github.com/PreMiD/Activities/pull/10175) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`1 week ago`)
 - [Update site URL in Docusaurus configuration](https://github.com/seriaati/hoyo-buddy-wiki/pull/100) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 
 # 我的專案
