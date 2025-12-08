@@ -33,16 +33,16 @@
 ## 近期貢獻
 
 
-- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Store. (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
-- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`3 days ago`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`3 days ago`)
-- [seriaati/tmuacg-bot](https://github.com/seriaati/tmuacg-bot) - TMUACG Discord 機器人 (`3 days ago`)
+- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Store. (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`4 days ago`)
+- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`4 days ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`4 days ago`)
+- [seriaati/tmuacg-bot](https://github.com/seriaati/tmuacg-bot) - TMUACG Discord 機器人 (`4 days ago`)
 
 ## 近期 Stars
 
 
-- [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app (`today`)
+- [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app (`1 day ago`)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (`2 weeks ago`)
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 全新Python游戏自动化框架(支持Windows和模拟器) (`2 weeks ago`)
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py (`2 weeks ago`)
@@ -51,7 +51,7 @@
 ## 近期 PR
 
 
-- [v1.16.14 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/103) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`6 days ago`)
+- [v1.16.14 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/103) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [Add docker](https://github.com/seriaati/hoyo-buddy/pull/514) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
 - [Add docker](https://github.com/seriaati/hoyo-buddy/pull/513) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
 - [fix(IDLIX): fix activity matching private IP addresses](https://github.com/PreMiD/Activities/pull/10175) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`1 week ago`)
