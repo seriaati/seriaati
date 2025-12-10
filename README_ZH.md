@@ -33,16 +33,16 @@
 ## 近期貢獻
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
-- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Store. (`2 days ago`)
-- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`5 days ago`)
-- [seriaati/tmuacg-bot](https://github.com/seriaati/tmuacg-bot) - TMUACG Discord 機器人 (`5 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`1 day ago`)
+- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Store. (`3 days ago`)
+- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`6 days ago`)
+- [seriaati/tmuacg-bot](https://github.com/seriaati/tmuacg-bot) - TMUACG Discord 機器人 (`6 days ago`)
 
 ## 近期 Stars
 
 
-- [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app (`2 days ago`)
+- [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app (`3 days ago`)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (`2 weeks ago`)
 - [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 全新Python游戏自动化框架(支持Windows和模拟器) (`2 weeks ago`)
 - [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py (`2 weeks ago`)
