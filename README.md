@@ -42,11 +42,11 @@ You can find me in the following places:
 ## Recent Stars
 
 
+- [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools. (`today`)
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (`today`)
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit (`today`)
 - [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app (`5 days ago`)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (`3 weeks ago`)
-- [ok-oldking/ok-script](https://github.com/ok-oldking/ok-script) - 全新Python游戏自动化框架(支持Windows和模拟器) (`3 weeks ago`)
-- [cloudwithax/pomice](https://github.com/cloudwithax/pomice) - The modern Lavalink wrapper designed for discord.py (`3 weeks ago`)
 
 ## Recent PRs
 
