@@ -35,8 +35,8 @@ You can find me in the following places:
 
 - [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) - ZZZ agent guides & SZGF definition + package (`3 days ago`)
 - [seria-studio/scratchcard-linebot-frontend](https://github.com/seria-studio/scratchcard-linebot-frontend) - 刮刮樂 LINE 機器人前端 (`3 days ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`5 days ago`)
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`5 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`5 days ago`)
 - [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Store. (`1 week ago`)
 
 ## Recent Stars
