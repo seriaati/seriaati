@@ -35,9 +35,9 @@ You can find me in the following places:
 
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) - ZZZ agent guides & SZGF definition + package (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seria-studio/scratchcard-linebot-frontend](https://github.com/seria-studio/scratchcard-linebot-frontend) - 刮刮樂 LINE 機器人前端 (`4 days ago`)
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`6 days ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`6 days ago`)
 
 ## Recent Stars
 
@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [Add ZZZ builds](https://github.com/seriaati/hoyo-buddy/pull/522) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
 - [v1.16.14 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/103) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [Add docker](https://github.com/seriaati/hoyo-buddy/pull/514) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [Add docker](https://github.com/seriaati/hoyo-buddy/pull/513) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [fix(IDLIX): fix activity matching private IP addresses](https://github.com/PreMiD/Activities/pull/10175) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`2 weeks ago`)
-- [Update site URL in Docusaurus configuration](https://github.com/seriaati/hoyo-buddy-wiki/pull/100) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 
 # My Projects
 
