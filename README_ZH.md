@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
+- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`today`)
 - [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) - ZZZ agent guides & SZGF definition + package (`1 day ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
 - [seria-studio/scratchcard-linebot-frontend](https://github.com/seria-studio/scratchcard-linebot-frontend) - 刮刮樂 LINE 機器人前端 (`5 days ago`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`1 week ago`)
 
 ## 近期 Stars
 
