@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`today`)
-- [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) - ZZZ agent guides & SZGF definition + package (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
+- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seria-studio/scratchcard-linebot-frontend](https://github.com/seria-studio/scratchcard-linebot-frontend) - 刮刮樂 LINE 機器人前端 (`5 days ago`)
+- [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) - ZZZ agent guides & SZGF definition + package (`1 day ago`)
 
 ## 近期 Stars
 
@@ -51,11 +51,11 @@
 ## 近期 PR
 
 
+- [Fix video handling](https://github.com/milanmdev/fixthreads/pull/225) on [milanmdev/fixthreads](https://github.com/milanmdev/fixthreads) (`today`)
 - [Add ZZZ builds](https://github.com/seriaati/hoyo-buddy/pull/522) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 day ago`)
 - [v1.16.14 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/103) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [Add docker](https://github.com/seriaati/hoyo-buddy/pull/514) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [Add docker](https://github.com/seriaati/hoyo-buddy/pull/513) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
-- [fix(IDLIX): fix activity matching private IP addresses](https://github.com/PreMiD/Activities/pull/10175) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`2 weeks ago`)
 
 # 我的專案
 
