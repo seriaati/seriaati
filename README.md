@@ -34,10 +34,10 @@ You can find me in the following places:
 
 
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
+- [seriaati/fxptt](https://github.com/seriaati/fxptt) (`today`)
 - [seriaati/carta](https://github.com/seriaati/carta) - Discord card game powered by LLM (`today`)
 - [seriaati/carta-frontend](https://github.com/seriaati/carta-frontend) - Carta's frontend (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/lumina](https://github.com/seriaati/lumina) - Your life organizer on Discord. (`2 days ago`)
 
 ## Recent Stars
 
