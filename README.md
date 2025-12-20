@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/fxptt](https://github.com/seriaati/fxptt) (`1 day ago`)
-- [seriaati/carta-frontend](https://github.com/seriaati/carta-frontend) - Carta's frontend (`1 day ago`)
+- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
+- [seriaati/fxptt](https://github.com/seriaati/fxptt) (`2 days ago`)
+- [seriaati/carta-frontend](https://github.com/seriaati/carta-frontend) - Carta's frontend (`2 days ago`)
 
 ## Recent Stars
 
@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [Fix video handling](https://github.com/milanmdev/fixthreads/pull/225) on [milanmdev/fixthreads](https://github.com/milanmdev/fixthreads) (`3 days ago`)
-- [Add ZZZ builds](https://github.com/seriaati/hoyo-buddy/pull/522) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 days ago`)
+- [Fix video handling](https://github.com/milanmdev/fixthreads/pull/225) on [milanmdev/fixthreads](https://github.com/milanmdev/fixthreads) (`4 days ago`)
+- [Add ZZZ builds](https://github.com/seriaati/hoyo-buddy/pull/522) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
 - [v1.16.14 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/103) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
-- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/514) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
-- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/513) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
+- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/514) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
+- [Add docker](https://github.com/seriaati/hoyo-buddy/pull/513) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
 
 # My Projects
 
