@@ -35,9 +35,9 @@
 
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) (`2 days ago`)
-- [seriaati/carta](https://github.com/seriaati/carta) - Discord card game powered by LLM (`3 days ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
-- [seriaati/carta-frontend](https://github.com/seriaati/carta-frontend) - Carta's frontend (`3 days ago`)
+- [seriaati/carta](https://github.com/seriaati/carta) - Discord card game powered by LLM (`3 days ago`)
+- [seriaati/fxptt](https://github.com/seriaati/fxptt) (`3 days ago`)
 
 ## 近期 Stars
 
