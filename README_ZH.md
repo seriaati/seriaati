@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
-- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) (`5 days ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`6 days ago`)
-- [seriaati/carta](https://github.com/seriaati/carta) - Discord card game powered by LLM (`6 days ago`)
-- [seriaati/fxptt](https://github.com/seriaati/fxptt) (`6 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`4 days ago`)
+- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) (`6 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 week ago`)
+- [seriaati/carta](https://github.com/seriaati/carta) - Discord card game powered by LLM (`1 week ago`)
+- [seriaati/fxptt](https://github.com/seriaati/fxptt) (`1 week ago`)
 
 ## 近期 Stars
 
