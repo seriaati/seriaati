@@ -45,7 +45,7 @@
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools. (`3 weeks ago`)
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (`3 weeks ago`)
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit (`3 weeks ago`)
-- [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app (`3 weeks ago`)
+- [curiousgeorgios/linear-gratis](https://github.com/curiousgeorgios/linear-gratis) - A 100% free forever platform to extend the customer facing capabilities of linear.app (`4 weeks ago`)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (`1 month ago`)
 
 ## 近期 PR
