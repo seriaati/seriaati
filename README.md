@@ -71,7 +71,8 @@ You can find me in the following places:
 🖤 [Wuthery](https://github.com/Wuthery): A big project that I collab with other devs, it is a service for the game Wuthering Waves.  
 💙 [Layla](https://github.com/seriaati/layla): A small bot with anime image searching features derived from Shenhe.  
 🛝 [Sugari](https://github.com/Sugari-Bot): A multi-purpose Discord bot that I contributed a small part of.  
-🐻 [Guoba Network](https://github.com/seriaati/guoba-network): Image sharing network implemented with Discord bot, made for a friend.
+🐻 [Guoba Network](https://github.com/seriaati/guoba-network): Image sharing network implemented with Discord bot, made for a friend.  
+🃏 [Carta](https://github.com/seriaati/carta): Discord card game powered by LLM.  
 
 ### Technologies Used
 
@@ -132,11 +133,15 @@ Using [Pydantic](https://github.com/pydantic/pydantic).
 
 🔧 [fxtwitch](https://github.com/seriaati/fxtwitch): Fixes Twitch clip embeds on Discord.  
 🔧 [fxiwara](https://github.com/seriaati/fxiwara): Fixes Iwara embeds on Discord.  
-🔧 [fxfacebook](https://github.com/seriaati/fxfacebook): Fixes Facebook reel embeds on Discord (unstable).
+🔧 [fxfacebook](https://github.com/seriaati/fxfacebook): Fixes Facebook reel embeds on Discord (unstable).  
+🔧 [fxBilibili](https://github.com/seriaati/fxbilibili): Fixes BiliBili video embeds on Discord.  
+🔧 [fxptt](https://github.com/seriaati/fxptt): Fixes PTT embeds on Discord.  
 
 ### Technologies Used
 
 - fastapi
+- beautifulsoup4
+- httpx
 
 ## Web Scraping
   
@@ -150,6 +155,10 @@ Using [Pydantic](https://github.com/pydantic/pydantic).
 
 - beautifulsoup4
 - Playwright
+
+## Standards
+
+- [zzz-guides](https://github.com/seriaati/zzz-guides): ZZZ character guides, contains SZGF standards (Standardized Zenless Zone Zero Guide Format).  
 
 ## Honorable Mentions
 
