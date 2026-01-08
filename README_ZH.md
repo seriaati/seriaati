@@ -71,7 +71,8 @@
 🖤 [Wuthery](https://github.com/Wuthery)：與其他開發者合作的一個大型項目，這是一個為遊戲《鳴潮》設計的服務。  
 💙 [Layla](https://github.com/seriaati/layla)：一個衍生自 Shenhe 的小型機器人，具有動漫圖片搜索功能。  
 🛝 [Sugari](https://github.com/Sugari-Bot)：一個多功能的 Discord 機器人，我貢獻了一小部分。  
-🐻 [Guoba Network](https://github.com/seriaati/guoba-network)：為朋友製作的基於 Discord 機器人實現的圖片分享網路。
+🐻 [Guoba Network](https://github.com/seriaati/guoba-network)：為朋友製作的基於 Discord 機器人實現的圖片分享網路。  
+🃏 [Carta](https://github.com/seriaati/carta): 基於大語言模型的卡牌遊戲。  
 
 ### 使用的技術
 
@@ -128,15 +129,19 @@
 - fastapi
 - SQLAlchemy  
 
-## Embed 修復器
+## 連結預覽修復器
 
-🔧 [fxtwitch](https://github.com/seriaati/fxtwitch)：修復 Discord 上的 Twitch 切片 embed。  
-🔧 [fxiwara](https://github.com/seriaati/fxiwara)：修復 Discord 上的 Iwara embed。  
-🔧 [fxfacebook](https://github.com/seriaati/fxfacebook)：修復 Discord 上的 Facebook 短影片 embed（不穩定）。
+🔧 [fxtwitch](https://github.com/seriaati/fxtwitch)：修復 Discord 上的 Twitch 切片連結預覽。  
+🔧 [fxiwara](https://github.com/seriaati/fxiwara)：修復 Discord 上的 Iwara 連結預覽。  
+🔧 [fxfacebook](https://github.com/seriaati/fxfacebook)：修復 Discord 上的 Facebook 短影片連結預覽（不穩定）。  
+🔧 [fxBilibili](https://github.com/seriaati/fxbilibili): 修復 Discord 上的 BiliBili 影片連結預覽。  
+🔧 [fxptt](https://github.com/seriaati/fxptt): 修復 Discord 上的 PTT 連結預覽。  
 
 ### 使用的技術
 
 - fastapi
+- beautifulsoup4
+- httpx
 
 ## 網頁爬蟲
   
@@ -150,6 +155,10 @@
 
 - beautifulsoup4
 - Playwright
+
+## 共創/標準
+
+- [zzz-guides](https://github.com/seriaati/zzz-guides): 絕區零角色攻略，內含 SZGF 規範（標準化絕區零攻略格式）。  
 
 ## 值得一提
 
