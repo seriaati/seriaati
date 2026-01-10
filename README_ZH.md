@@ -33,8 +33,8 @@
 ## 近期貢獻
 
 
+- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka Network showcase to Genshin/Zenless Optimizer. (`today`)
 - [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`2 days ago`)
-- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka Network showcase to Genshin/Zenless Optimizer. (`2 days ago`)
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`2 days ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`4 days ago`)
