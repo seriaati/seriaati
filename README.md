@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`1 day ago`)
-- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka Network showcase to Genshin/Zenless Optimizer. (`1 day ago`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
+- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`2 days ago`)
+- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka Network showcase to Genshin/Zenless Optimizer. (`2 days ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`2 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`4 days ago`)
 
 ## Recent Stars
 
@@ -51,7 +51,7 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [v1.16.15 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/111) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
+- [v1.16.15 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/111) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 days ago`)
 - [Fix video handling](https://github.com/milanmdev/fixthreads/pull/225) on [milanmdev/fixthreads](https://github.com/milanmdev/fixthreads) (`3 weeks ago`)
 - [Add ZZZ builds](https://github.com/seriaati/hoyo-buddy/pull/522) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
 - [v1.16.14 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/103) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
