@@ -33,9 +33,9 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) - ZZZ agent guides & SZGF definition + package (`today`)
 - [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka Network showcase to Genshin/Zenless Optimizer. (`today`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - A Wiki Page for Hoyo Buddy (`1 day ago`)
-- [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) - ZZZ agent guides & SZGF definition + package (`1 day ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
 - [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`4 days ago`)
 
