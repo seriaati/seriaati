@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
+- [seriaati/hb-anniv](https://github.com/seriaati/hb-anniv) - Hoyo Buddy anniversary website (`today`)
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required. (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) - ZZZ agent guides & SZGF definition + package (`today`)
-- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka Network showcase to Genshin/Zenless Optimizer. (`today`)
 
 ## 近期 Stars
 
@@ -51,11 +51,11 @@
 ## 近期 PR
 
 
-- [Add Miyabi guide](https://github.com/seriaati/zzz-guides/pull/7) on [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) (`today`)
-- [Fix youtube get recommendations](https://github.com/cloudwithax/pomice/pull/73) on [cloudwithax/pomice](https://github.com/cloudwithax/pomice) (`today`)
-- [Update TypeVar definition for covariant typing in Ref class](https://github.com/flet-dev/flet/pull/5994) on [flet-dev/flet](https://github.com/flet-dev/flet) (`today`)
-- [v1.16.15 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/111) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 days ago`)
-- [Fix video handling](https://github.com/milanmdev/fixthreads/pull/225) on [milanmdev/fixthreads](https://github.com/milanmdev/fixthreads) (`3 weeks ago`)
+- [Add Miyabi guide](https://github.com/seriaati/zzz-guides/pull/7) on [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) (`1 day ago`)
+- [Fix youtube get recommendations](https://github.com/cloudwithax/pomice/pull/73) on [cloudwithax/pomice](https://github.com/cloudwithax/pomice) (`1 day ago`)
+- [Update TypeVar definition for covariant typing in Ref class](https://github.com/flet-dev/flet/pull/5994) on [flet-dev/flet](https://github.com/flet-dev/flet) (`1 day ago`)
+- [v1.16.15 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/111) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`5 days ago`)
+- [Fix video handling](https://github.com/milanmdev/fixthreads/pull/225) on [milanmdev/fixthreads](https://github.com/milanmdev/fixthreads) (`4 weeks ago`)
 
 # 我的專案
 
