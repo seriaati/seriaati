@@ -33,29 +33,29 @@
 ## 近期貢獻
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required. (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`2 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required. (`2 days ago`)
 
 ## 近期 Stars
 
 
-- [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`today`)
-- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (`today`)
-- [TheVolecitor/BeatBoss](https://github.com/TheVolecitor/BeatBoss) - Music Player based on DAB api (`today`)
-- [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API. (`today`)
+- [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`1 day ago`)
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (`1 day ago`)
+- [TheVolecitor/BeatBoss](https://github.com/TheVolecitor/BeatBoss) - Music Player based on DAB api (`1 day ago`)
+- [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API. (`1 day ago`)
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools. (`1 month ago`)
 
 ## 近期 PR
 
 
-- [Add Miyabi guide](https://github.com/seriaati/zzz-guides/pull/7) on [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) (`2 days ago`)
-- [Fix youtube get recommendations](https://github.com/cloudwithax/pomice/pull/73) on [cloudwithax/pomice](https://github.com/cloudwithax/pomice) (`2 days ago`)
-- [Update TypeVar definition for covariant typing in Ref class](https://github.com/flet-dev/flet/pull/5994) on [flet-dev/flet](https://github.com/flet-dev/flet) (`2 days ago`)
-- [v1.16.15 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/111) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`6 days ago`)
-- [Fix video handling](https://github.com/milanmdev/fixthreads/pull/225) on [milanmdev/fixthreads](https://github.com/milanmdev/fixthreads) (`4 weeks ago`)
+- [Add Miyabi guide](https://github.com/seriaati/zzz-guides/pull/7) on [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) (`3 days ago`)
+- [Fix youtube get recommendations](https://github.com/cloudwithax/pomice/pull/73) on [cloudwithax/pomice](https://github.com/cloudwithax/pomice) (`3 days ago`)
+- [Update TypeVar definition for covariant typing in Ref class](https://github.com/flet-dev/flet/pull/5994) on [flet-dev/flet](https://github.com/flet-dev/flet) (`3 days ago`)
+- [v1.16.15 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/111) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
+- [Fix video handling](https://github.com/milanmdev/fixthreads/pull/225) on [milanmdev/fixthreads](https://github.com/milanmdev/fixthreads) (`1 month ago`)
 
 # 我的專案
 
