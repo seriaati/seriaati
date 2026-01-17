@@ -33,10 +33,10 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`today`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
+- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`today`)
 - [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`today`)
-- [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) - Zenless Zone Zero character guides & SZGF definition + package (`1 day ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
+- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
 
 ## Recent Stars
@@ -51,7 +51,7 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [Add Miyabi guide](https://github.com/seriaati/zzz-guides/pull/7) on [seriaati/zzz-guides](https://github.com/seriaati/zzz-guides) (`5 days ago`)
+- [Add Miyabi guide](https://github.com/seriaati/szgf/pull/7) on [seriaati/szgf](https://github.com/seriaati/szgf) (`5 days ago`)
 - [Fix youtube get recommendations](https://github.com/cloudwithax/pomice/pull/73) on [cloudwithax/pomice](https://github.com/cloudwithax/pomice) (`5 days ago`)
 - [Update TypeVar definition for covariant typing in Ref class](https://github.com/flet-dev/flet/pull/5994) on [flet-dev/flet](https://github.com/flet-dev/flet) (`5 days ago`)
 - [v1.16.15 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/111) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
