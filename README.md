@@ -34,9 +34,9 @@ You can find me in the following places:
 
 
 - [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`today`)
+- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`1 day ago`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
 - [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`1 day ago`)
-- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`1 day ago`)
 - [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`1 day ago`)
 
 ## Recent Stars
