@@ -33,29 +33,29 @@
 ## 近期貢獻
 
 
-- [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`today`)
-- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`1 day ago`)
-- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`1 day ago`)
+- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
+- [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`1 day ago`)
+- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`2 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
+- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`2 days ago`)
 
 ## 近期 Stars
 
 
-- [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`4 days ago`)
-- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (`4 days ago`)
-- [TheVolecitor/BeatBoss](https://github.com/TheVolecitor/BeatBoss) - Music Player based on DAB api (`4 days ago`)
-- [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API. (`4 days ago`)
+- [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`5 days ago`)
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (`5 days ago`)
+- [TheVolecitor/BeatBoss](https://github.com/TheVolecitor/BeatBoss) - Music Player based on DAB api (`5 days ago`)
+- [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API. (`5 days ago`)
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - Context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools. (`1 month ago`)
 
 ## 近期 PR
 
 
-- [Add Miyabi guide](https://github.com/seriaati/szgf/pull/7) on [seriaati/szgf](https://github.com/seriaati/szgf) (`6 days ago`)
-- [Fix youtube get recommendations](https://github.com/cloudwithax/pomice/pull/73) on [cloudwithax/pomice](https://github.com/cloudwithax/pomice) (`6 days ago`)
-- [Update TypeVar definition for covariant typing in Ref class](https://github.com/flet-dev/flet/pull/5994) on [flet-dev/flet](https://github.com/flet-dev/flet) (`6 days ago`)
+- [feat: Add easier self-hosting](https://github.com/seriaati/hoyo-codes/pull/113) on [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) (`today`)
+- [Add Miyabi guide](https://github.com/seriaati/szgf/pull/7) on [seriaati/szgf](https://github.com/seriaati/szgf) (`1 week ago`)
+- [Fix youtube get recommendations](https://github.com/cloudwithax/pomice/pull/73) on [cloudwithax/pomice](https://github.com/cloudwithax/pomice) (`1 week ago`)
+- [Update TypeVar definition for covariant typing in Ref class](https://github.com/flet-dev/flet/pull/5994) on [flet-dev/flet](https://github.com/flet-dev/flet) (`1 week ago`)
 - [v1.16.15 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/111) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
-- [Fix video handling](https://github.com/milanmdev/fixthreads/pull/225) on [milanmdev/fixthreads](https://github.com/milanmdev/fixthreads) (`1 month ago`)
 
 # 我的專案
 
