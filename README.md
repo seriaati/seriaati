@@ -33,9 +33,9 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`today`)
-- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`today`)
 - [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
+- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`today`)
+- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
 
