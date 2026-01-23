@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
-- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`today`)
-- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
+- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`1 day ago`)
+- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`1 day ago`)
+- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
 
 ## Recent Stars
 
@@ -51,8 +51,8 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [Add guides page](https://github.com/seriaati/szgf-website/pull/1) on [seriaati/szgf-website](https://github.com/seriaati/szgf-website) (`today`)
-- [feat: Add easier self-hosting](https://github.com/seriaati/hoyo-codes/pull/113) on [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) (`3 days ago`)
+- [Add guides page](https://github.com/seriaati/szgf-website/pull/1) on [seriaati/szgf-website](https://github.com/seriaati/szgf-website) (`1 day ago`)
+- [feat: Add easier self-hosting](https://github.com/seriaati/hoyo-codes/pull/113) on [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) (`4 days ago`)
 - [Add Miyabi guide](https://github.com/seriaati/szgf/pull/7) on [seriaati/szgf](https://github.com/seriaati/szgf) (`1 week ago`)
 - [Fix youtube get recommendations](https://github.com/cloudwithax/pomice/pull/73) on [cloudwithax/pomice](https://github.com/cloudwithax/pomice) (`1 week ago`)
 - [Update TypeVar definition for covariant typing in Ref class](https://github.com/flet-dev/flet/pull/5994) on [flet-dev/flet](https://github.com/flet-dev/flet) (`1 week ago`)
