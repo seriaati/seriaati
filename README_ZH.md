@@ -33,10 +33,10 @@
 ## 近期貢獻
 
 
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`4 days ago`)
+- [seriaati/mobile01-scrape](https://github.com/seriaati/mobile01-scrape) - mobile01 特定文章爬取 (`today`)
 - [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`4 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`4 days ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`6 days ago`)
-- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`1 week ago`)
 - [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`1 week ago`)
 
 ## 近期 Stars
