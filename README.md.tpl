@@ -77,8 +77,6 @@ You can find me in the following places:
 - Sentry
 
 ## API Wrappers
-
-Using [Pydantic](https://github.com/pydantic/pydantic).  
   
 🔥 [ambr.py](https://github.com/seriaati/ambr): Async API wrapper for [Project Amber](https://gi.yatta.moe/)  
 🌸 [yatta.py](https://github.com/seriaati/yatta): Async API wrapper for [Project Yatta](https://sr.yatta.moe/)  
@@ -151,6 +149,12 @@ Using [Pydantic](https://github.com/pydantic/pydantic).
 
 - [zzz-guides](https://github.com/seriaati/zzz-guides): ZZZ character guides, contains SZGF standards (Standardized Zenless Zone Zero Guide Format).  
 
+## CI (Continuous Integration)
+
+- [update-ver-num](https://github.com/seriaati/update-ver-num/): Bump the version number of a uv project.
+- [create-release](https://github.com/seriaati/create-release): Create a new release for a Python project, includes GitHub release + publish to pypi for library projects.
+- [renovate-config](https://github.com/seriaati/renovate-config): My renovate config.
+
 ## Honorable Mentions
 
 🌙 [Hoyolab Resin Counter](https://github.com/seriaati/hoyolab-resin-counter): My first project on GitHub with Python, this is where everything started.  
@@ -184,5 +188,5 @@ Using [Pydantic](https://github.com/pydantic/pydantic).
 ![Today coding time](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:today&label=Today%20coding%20time&color=blue)
 ![Last 30d coding time](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:30_days&label=Last%2030d%20coding%20time&color=blue)  
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile)
+![Github Stats](./profile/stats.svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
