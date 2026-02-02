@@ -23,10 +23,9 @@
 
 你可以在下列地方找到我:  
 
-- [我的 Discord 伺服器](https://discord.com/invite/ryfamUykRw)
+- [Discord 伺服器](https://discord.com/invite/ryfamUykRw)
 - [Discord](https://discord.com/users/410036441129943050) (透過加好友的形式)
 - [Email](mailto:hi@seria.moe)
-- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
 
 # 目錄
 
