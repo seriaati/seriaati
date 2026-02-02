@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
+- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) - Some HSR assets that Hoyo Buddy needs (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
+- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/mobile01-scrape](https://github.com/seriaati/mobile01-scrape) - mobile01 特定文章爬取 (`4 days ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 week ago`)
 
 ## Recent Stars
 
@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [Update README with Hoyo Buddy site URL](https://github.com/seriaati/hoyo-buddy-wiki/pull/118) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
 - [v1.16.16 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/116) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
 - [Add guides page](https://github.com/seriaati/szgf-website/pull/1) on [seriaati/szgf-website](https://github.com/seriaati/szgf-website) (`1 week ago`)
 - [feat: Add easier self-hosting](https://github.com/seriaati/hoyo-codes/pull/113) on [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) (`2 weeks ago`)
 - [Add Miyabi guide](https://github.com/seriaati/szgf/pull/7) on [seriaati/szgf](https://github.com/seriaati/szgf) (`3 weeks ago`)
-- [Fix youtube get recommendations](https://github.com/cloudwithax/pomice/pull/73) on [cloudwithax/pomice](https://github.com/cloudwithax/pomice) (`3 weeks ago`)
 
 # My Projects
 
