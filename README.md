@@ -49,11 +49,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/hb-anniv](https://github.com/seriaati/hb-anniv) - Hoyo Buddy anniversary website (`today`)
+- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`today`)
+- [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy official website (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) - Some HSR assets that Hoyo Buddy needs (`today`)
-- [seriaati/ZenlessAssetScrape](https://github.com/seriaati/ZenlessAssetScrape) - Some game data for Zenless Zone Zero (`today`)
 
 ## Recent Stars
 
