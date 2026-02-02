@@ -23,10 +23,9 @@ You can support me via the following services, different services accept differe
 
 You can find me in the following places:  
 
-- [My Discord server](https://discord.com/invite/ryfamUykRw)
+- [Discord server](https://discord.com/invite/ryfamUykRw)
 - [Discord](https://discord.com/users/410036441129943050) (adding me as friend)
 - [Email](mailto:hi@seria.moe)
-- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
 
 # Table of Contents
 
