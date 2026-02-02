@@ -86,8 +86,6 @@
 - Sentry
 
 ## API 封裝
-
-使用 [Pydantic](https://github.com/pydantic/pydantic)。  
   
 🔥 [ambr.py](https://github.com/seriaati/ambr)：[Project Amber](https://gi.yatta.moe/)的異步 API 封裝  
 🌸 [yatta.py](https://github.com/seriaati/yatta)：[Project Yatta](https://sr.yatta.moe/)的異步 API 封裝  
@@ -158,7 +156,13 @@
 
 ## 共創/標準
 
-- [zzz-guides](https://github.com/seriaati/zzz-guides): 絕區零角色攻略，內含 SZGF 規範（標準化絕區零攻略格式）。  
+- [zzz-guides](https://github.com/seriaati/zzz-guides): 絕區零角色攻略，內含 SZGF（標準化絕區零攻略格式）規範。  
+
+## CI (持續整合)
+
+- [update-ver-num](https://github.com/seriaati/update-ver-num/): 提升一個 uv 項目的版本號。
+- [create-release](https://github.com/seriaati/create-release): 為一個 Python 項目創建一個新版本，包含 GitHub 上的新 Release 及發布到 pypi（如果是 library 項目的話）。
+- [renovate-config](https://github.com/seriaati/renovate-config): 我的 Renovate 設定。
 
 ## 值得一提
 
@@ -193,5 +197,5 @@
 ![今日編碼時長](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:today&label=今日編碼時長&color=blue)
 ![過去30日編碼時長](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:30_days&label=過去30日編碼時長&color=blue)  
 
-![Github 數據](https://github-readme-stats.vercel.app/api?username=seriaati&show_icons=true&theme=dark&rank_icon=percentile&locale=zh-tw)
+![Github 數據](./profile/stats.svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&locale=zh_Hant&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
