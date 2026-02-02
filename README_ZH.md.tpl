@@ -189,4 +189,4 @@
 ![過去30日編碼時長](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:30_days&label=過去30日編碼時長&color=blue)  
 
 ![Github 數據](./profile/stats.svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&locale=zh_Hant&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+![GitHub Streak](https://gh-streaks.seria.moe?user=seriaati&theme=dark&short_numbers=true&date_format=%5BY.%5Dn.j)
