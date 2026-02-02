@@ -189,4 +189,4 @@ You can find me in the following places:
 ![Last 30d coding time](https://img.shields.io/endpoint?url=https://wakapi.seria.moe/api/compat/shields/v1/seriaati/interval:30_days&label=Last%2030d%20coding%20time&color=blue)  
 
 ![Github Stats](./profile/stats.svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=seriaati&theme=dark&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+![GitHub Streak](https://gh-streaks.seria.moe?user=seriaati&theme=dark&short_numbers=true&date_format=%5BY.%5Dn.j)
