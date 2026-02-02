@@ -19,6 +19,24 @@
 ❤️ 我同時也是一位充滿熱情的開發者，熱愛使用 Python 開發開源且高品質的軟體。  
 🌍 我會說中文和英文。
 
+## 目錄
+
+- [聯絡我](#聯絡我)
+- [近況](#近況)
+- [我的專案](#我的專案)
+  - [Discord 機器人](#discord-機器人)
+  - [API 封裝](#api-封裝)
+  - [網頁應用](#網頁應用)
+  - [Python API](#python-api)
+  - [連結預覽修復器](#連結預覽修復器)
+  - [網頁爬蟲](#網頁爬蟲)
+  - [共創/標準](#共創標準)
+  - [CI (持續整合)](#ci-持續整合)
+  - [值得一提](#值得一提)
+  - [LINE 機器人](#line-機器人)
+  - [與股票相關的項目](#與股票相關的項目)
+- [一些統計數據](#一些統計數據)
+
 ## 聯絡我
 
 你可以在下列地方找到我:  
@@ -33,11 +51,11 @@
 ## 近期貢獻
 
 
-- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) - Some HSR assets that Hoyo Buddy needs (`today`)
+- [seriaati/hb-anniv](https://github.com/seriaati/hb-anniv) - Hoyo Buddy anniversary website (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) - Some HSR assets that Hoyo Buddy needs (`today`)
+- [seriaati/ZenlessAssetScrape](https://github.com/seriaati/ZenlessAssetScrape) - Some game data for Zenless Zone Zero (`today`)
 
 ## 近期 Stars
 
@@ -84,6 +102,7 @@
 - aiohttp
 - redis
 - Sentry
+- Docker
 
 ## API 封裝
   
@@ -163,6 +182,10 @@
 - [update-ver-num](https://github.com/seriaati/update-ver-num/): 提升一個 uv 項目的版本號。
 - [create-release](https://github.com/seriaati/create-release): 為一個 Python 項目創建一個新版本，包含 GitHub 上的新 Release 及發布到 pypi（如果是 library 項目的話）。
 - [renovate-config](https://github.com/seriaati/renovate-config): 我的 Renovate 設定。
+
+### 使用的技術
+
+- GitHub Actions
 
 ## 值得一提
 

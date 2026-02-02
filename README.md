@@ -19,6 +19,24 @@ You can support me via the following services, different services accept differe
 ❤️ I'm also a passionate developer who loves to make open source and high quality software with Python.  
 🌍 I speak Chinese and English.  
 
+## Table of Contents
+
+- [Contact Information](#contact-information)
+- [Recent Status](#recent-status)
+- [My Projects](#my-projects)
+  - [Discord Bots](#discord-bots)
+  - [API Wrappers](#api-wrappers)
+  - [Web Apps](#web-apps)
+  - [Python APIs](#python-apis)
+  - [Embed Fixers](#embed-fixers)
+  - [Web Scraping](#web-scraping)
+  - [Standards](#standards)
+  - [CI (Continuous Integration)](#ci-continuous-integration)
+  - [Honorable Mentions](#honorable-mentions)
+  - [LINE Bots](#line-bots)
+  - [Stuff Related to Stocks](#stuff-related-to-stocks)
+- [Some Stats](#some-stats)
+
 ## Contact Information
 
 You can find me in the following places:  
@@ -33,11 +51,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) - Some HSR assets that Hoyo Buddy needs (`today`)
+- [seriaati/hb-anniv](https://github.com/seriaati/hb-anniv) - Hoyo Buddy anniversary website (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) - Some HSR assets that Hoyo Buddy needs (`today`)
+- [seriaati/ZenlessAssetScrape](https://github.com/seriaati/ZenlessAssetScrape) - Some game data for Zenless Zone Zero (`today`)
 
 ## Recent Stars
 
@@ -84,6 +102,7 @@ You can find me in the following places:
 - aiohttp
 - redis
 - Sentry
+- Docker
 
 ## API Wrappers
   
@@ -163,6 +182,10 @@ You can find me in the following places:
 - [update-ver-num](https://github.com/seriaati/update-ver-num/): Bump the version number of a uv project.
 - [create-release](https://github.com/seriaati/create-release): Create a new release for a Python project, includes GitHub release + publish to pypi for library projects.
 - [renovate-config](https://github.com/seriaati/renovate-config): My renovate config.
+
+### Technologies Used
+
+- GitHub Actions
 
 ## Honorable Mentions
 
