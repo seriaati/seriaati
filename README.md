@@ -19,9 +19,17 @@ You can support me via the following services, different services accept differe
 ❤️ I'm also a passionate developer who loves to make open source and high quality software with Python.  
 🌍 I speak Chinese and English.  
 
-## Table of Contents
+## Contact Information
 
-- [Contact Information](#contact-information)
+You can find me in the following places:  
+
+- [My Discord server](https://discord.com/invite/ryfamUykRw)
+- [Discord](https://discord.com/users/410036441129943050) (adding me as friend)
+- [Email](mailto:hi@seria.moe)
+- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
+
+# Table of Contents
+
 - [Recent Status](#recent-status)
 - [My Projects](#my-projects)
   - [Discord Bots](#discord-bots)
@@ -36,15 +44,6 @@ You can support me via the following services, different services accept differe
   - [LINE Bots](#line-bots)
   - [Stuff Related to Stocks](#stuff-related-to-stocks)
 - [Some Stats](#some-stats)
-
-## Contact Information
-
-You can find me in the following places:  
-
-- [My Discord server](https://discord.com/invite/ryfamUykRw)
-- [Discord](https://discord.com/users/410036441129943050) (adding me as friend)
-- [Email](mailto:hi@seria.moe)
-- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
 
 # Recent Status
 
