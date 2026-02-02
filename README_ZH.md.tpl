@@ -2,7 +2,7 @@
 
 # 支持我
 
-如果我的開源項目對你有所幫助，能收到你的捐款將讓我非常高興。
+如果我的開源項目對你有所幫助，能收到你的捐款將讓我十分高興（並感謝）。
 
 你的支持不僅激勵了我對程式設計的熱情，還將幫助我繼續作為一名學生和開發者的旅程。
 
@@ -19,9 +19,17 @@
 ❤️ 我同時也是一位充滿熱情的開發者，熱愛使用 Python 開發開源且高品質的軟體。  
 🌍 我會說中文和英文。
 
-## 目錄
+## 聯絡我
 
-- [聯絡我](#聯絡我)
+你可以在下列地方找到我:  
+
+- [我的 Discord 伺服器](https://discord.com/invite/ryfamUykRw)
+- [Discord](https://discord.com/users/410036441129943050) (透過加好友的形式)
+- [Email](mailto:hi@seria.moe)
+- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
+
+# 目錄
+
 - [近況](#近況)
 - [我的專案](#我的專案)
   - [Discord 機器人](#discord-機器人)
@@ -36,15 +44,6 @@
   - [LINE 機器人](#line-機器人)
   - [與股票相關的項目](#與股票相關的項目)
 - [一些統計數據](#一些統計數據)
-
-## 聯絡我
-
-你可以在下列地方找到我:  
-
-- [我的 Discord 伺服器](https://discord.com/invite/ryfamUykRw)
-- [Discord](https://discord.com/users/410036441129943050) (透過加好友的形式)
-- [Email](mailto:hi@seria.moe)
-- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
 
 # 近況
 
