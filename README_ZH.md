@@ -49,11 +49,11 @@
 ## 近期貢獻
 
 
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
 - [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`1 day ago`)
 - [seriaati/translatee](https://github.com/seriaati/translatee) - Simple translation Discord bot (`4 days ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 week ago`)
 - [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`1 week ago`)
-- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`1 week ago`)
 
 ## 近期 Stars
 
