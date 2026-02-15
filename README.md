@@ -49,11 +49,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
+- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`1 day ago`)
+- [seriaati/translatee](https://github.com/seriaati/translatee) - Simple translation Discord bot (`4 days ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 week ago`)
-- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`1 week ago`)
-- [seriaati/ZenlessAssetScrape](https://github.com/seriaati/ZenlessAssetScrape) - Some game data for Zenless Zone Zero (`1 week ago`)
-- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`1 week ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 week ago`)
+- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`1 week ago`)
 
 ## Recent Stars
 
