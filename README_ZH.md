@@ -49,9 +49,9 @@
 ## 近期貢獻
 
 
-- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`today`)
-- [seriaati/translatee](https://github.com/seriaati/translatee) - Simple translation Discord bot (`3 days ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`6 days ago`)
+- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`1 day ago`)
+- [seriaati/translatee](https://github.com/seriaati/translatee) - Simple translation Discord bot (`4 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 week ago`)
 - [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`1 week ago`)
 - [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`1 week ago`)
 
@@ -69,7 +69,7 @@
 
 - [Add search functionality to Projects page](https://github.com/muety/wakapi/pull/908) on [muety/wakapi](https://github.com/muety/wakapi) (`1 week ago`)
 - [Update README with Hoyo Buddy site URL](https://github.com/seriaati/hoyo-buddy-wiki/pull/118) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
-- [v1.16.16 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/116) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
+- [v1.16.16 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/116) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [Add guides page](https://github.com/seriaati/szgf-website/pull/1) on [seriaati/szgf-website](https://github.com/seriaati/szgf-website) (`3 weeks ago`)
 - [feat: Add easier self-hosting](https://github.com/seriaati/hoyo-codes/pull/113) on [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) (`3 weeks ago`)
 
