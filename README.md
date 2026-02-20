@@ -53,7 +53,7 @@ You can find me in the following places:
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
+- [pizza-studio/EnkaDBGenerator](https://github.com/pizza-studio/EnkaDBGenerator) - This repository is designed to be an alternative method to compile the same JSON files offered in Enka-API-docs repo, utilizing ExcelConfigData from Dimbreath's repos. (`2 days ago`)
 
 ## Recent Stars
 
