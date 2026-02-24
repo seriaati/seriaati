@@ -49,11 +49,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/ruff-config](https://github.com/seriaati/ruff-config) - Seria's ruff config (`today`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
 - [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`today`)
 - [seriaati/ZZZAssets](https://github.com/seriaati/ZZZAssets) - Some Zenless Zone Zero assets that Hoyo Buddy needs (`today`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`4 days ago`)
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
+- [seriaati/ruff-config](https://github.com/seriaati/ruff-config) - Seria's ruff config (`today`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`4 days ago`)
 
 ## Recent Stars
 
