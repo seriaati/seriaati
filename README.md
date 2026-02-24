@@ -49,11 +49,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`today`)
 - [seriaati/ZZZAssets](https://github.com/seriaati/ZZZAssets) - Some Zenless Zone Zero assets that Hoyo Buddy needs (`today`)
 - [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
 - [seriaati/ruff-config](https://github.com/seriaati/ruff-config) - Seria's ruff config (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`4 days ago`)
 
 ## Recent Stars
 
@@ -67,11 +67,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [Rest in peace hakushin](https://github.com/seriaati/hoyo-buddy/pull/552) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
 - [Add ElationDamageAddedRatio and ElationDamageAddedRatioBase to extra locs](https://github.com/pizza-studio/EnkaDBGenerator/pull/63) on [pizza-studio/EnkaDBGenerator](https://github.com/pizza-studio/EnkaDBGenerator) (`1 week ago`)
 - [Add search functionality to Projects page](https://github.com/muety/wakapi/pull/908) on [muety/wakapi](https://github.com/muety/wakapi) (`2 weeks ago`)
 - [Update README with Hoyo Buddy site URL](https://github.com/seriaati/hoyo-buddy-wiki/pull/118) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [v1.16.16 changelogs](https://github.com/seriaati/hoyo-buddy-wiki/pull/116) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
-- [Add guides page](https://github.com/seriaati/szgf-website/pull/1) on [seriaati/szgf-website](https://github.com/seriaati/szgf-website) (`1 month ago`)
 
 # My Projects
 
