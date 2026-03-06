@@ -49,10 +49,10 @@
 ## 近期貢獻
 
 
-- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
 - [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`today`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
 
 ## 近期 Stars
