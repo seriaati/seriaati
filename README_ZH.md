@@ -58,11 +58,11 @@
 ## 近期 Stars
 
 
+- [resumx/resumx](https://github.com/resumx/resumx) - Markdown-first resume builder for engineers. (`today`)
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! (`1 month ago`)
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`1 month ago`)
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (`1 month ago`)
 - [TheVolecitor/BeatBoss](https://github.com/TheVolecitor/BeatBoss) - Music Player based on DAB api (`1 month ago`)
-- [iGerman00/koutube](https://github.com/iGerman00/koutube) - A serverless web service that allows you to watch YouTube videos directly on Discord without opening a browser. Can also generate embeds for your Markdown! Includes API. (`1 month ago`)
 
 ## 近期 PR
 
