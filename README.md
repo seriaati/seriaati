@@ -49,11 +49,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`today`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
-- [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`today`)
-- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`today`)
-- [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`today`)
+- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`1 day ago`)
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`1 day ago`)
+- [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`1 day ago`)
+- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`1 day ago`)
+- [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`1 day ago`)
 
 ## Recent Stars
 
