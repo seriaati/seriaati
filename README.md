@@ -49,8 +49,8 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
 - [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`3 days ago`)
 - [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`3 days ago`)
