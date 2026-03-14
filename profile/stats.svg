@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">seria's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1028, Total Commits  (last year) : 2955, Total PRs: 718, Total Issues: 434, Contributed to (last year): 39</desc>
+        <desc id="descId">Total Stars Earned: 1028, Total Commits  (last year) : 2958, Total PRs: 718, Total Issues: 436, Contributed to (last year): 39</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 6.1515703738169645;
+        stroke-dashoffset: 6.151467692205184;
       }
     }
   
@@ -210,7 +210,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >434</text>
+      >436</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
