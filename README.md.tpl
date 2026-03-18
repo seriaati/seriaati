@@ -23,26 +23,9 @@ You can support me via the following services, different services accept differe
 
 You can find me in the following places:  
 
-- [Discord server](https://discord.com/invite/ryfamUykRw)
-- [Discord](https://discord.com/users/410036441129943050) (adding me as friend)
+- [Discord](https://discord.com/users/410036441129943050)
 - [Email](mailto:hi@seria.moe)
-
-# Table of Contents
-
-- [Recent Status](#recent-status)
-- [My Projects](#my-projects)
-  - [Discord Bots](#discord-bots)
-  - [API Wrappers](#api-wrappers)
-  - [Web Apps](#web-apps)
-  - [Python APIs](#python-apis)
-  - [Embed Fixers](#embed-fixers)
-  - [Web Scraping](#web-scraping)
-  - [Standards](#standards)
-  - [CI (Continuous Integration)](#ci-continuous-integration)
-  - [Honorable Mentions](#honorable-mentions)
-  - [LINE Bots](#line-bots)
-  - [Stuff Related to Stocks](#stuff-related-to-stocks)
-- [Some Stats](#some-stats)
+- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
 
 # Recent Status
 
@@ -162,19 +145,19 @@ You can find me in the following places:
 - beautifulsoup4
 - Playwright
 
-## Standards
-
-- [zzz-guides](https://github.com/seriaati/zzz-guides): ZZZ character guides, contains SZGF standards (Standardized Zenless Zone Zero Guide Format).  
-
-## CI (Continuous Integration)
+## CI
 
 - [update-ver-num](https://github.com/seriaati/update-ver-num/): Bump the version number of a uv project.
 - [create-release](https://github.com/seriaati/create-release): Create a new release for a Python project, includes GitHub release + publish to pypi for library projects.
-- [renovate-config](https://github.com/seriaati/renovate-config): My renovate config.
 
 ### Technologies Used
 
 - GitHub Actions
+
+## Others
+
+- [zzz-guides](https://github.com/seriaati/zzz-guides): ZZZ character guides and the SZGF standard.  
+- [waseda-credit-calculator](https://github.com/seriaati/waseda-credit-calculator): A command-line tool for calcculating credits at Waseda University.
 
 ## Honorable Mentions
 
