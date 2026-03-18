@@ -23,42 +23,25 @@ You can support me via the following services, different services accept differe
 
 You can find me in the following places:  
 
-- [Discord server](https://discord.com/invite/ryfamUykRw)
-- [Discord](https://discord.com/users/410036441129943050) (adding me as friend)
+- [Discord](https://discord.com/users/410036441129943050)
 - [Email](mailto:hi@seria.moe)
-
-# Table of Contents
-
-- [Recent Status](#recent-status)
-- [My Projects](#my-projects)
-  - [Discord Bots](#discord-bots)
-  - [API Wrappers](#api-wrappers)
-  - [Web Apps](#web-apps)
-  - [Python APIs](#python-apis)
-  - [Embed Fixers](#embed-fixers)
-  - [Web Scraping](#web-scraping)
-  - [Standards](#standards)
-  - [CI (Continuous Integration)](#ci-continuous-integration)
-  - [Honorable Mentions](#honorable-mentions)
-  - [LINE Bots](#line-bots)
-  - [Stuff Related to Stocks](#stuff-related-to-stocks)
-- [Some Stats](#some-stats)
+- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
 
 # Recent Status
 
 ## Recent Contributions
 
 
-- [seriaati/waseda-credit-calculator](https://github.com/seriaati/waseda-credit-calculator) - A command-line tool for calculating things about credits at Waseda University. (`today`)
-- [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`2 days ago`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`2 days ago`)
+- [seriaati/waseda-credit-calculator](https://github.com/seriaati/waseda-credit-calculator) - A command-line tool for calculating credits at Waseda University. (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
+- [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`2 days ago`)
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`3 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
 
 ## Recent Stars
 
 
-- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting. (`6 days ago`)
+- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting. (`1 week ago`)
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! (`1 month ago`)
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`2 months ago`)
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (`2 months ago`)
@@ -171,19 +154,19 @@ You can find me in the following places:
 - beautifulsoup4
 - Playwright
 
-## Standards
-
-- [zzz-guides](https://github.com/seriaati/zzz-guides): ZZZ character guides, contains SZGF standards (Standardized Zenless Zone Zero Guide Format).  
-
-## CI (Continuous Integration)
+## CI
 
 - [update-ver-num](https://github.com/seriaati/update-ver-num/): Bump the version number of a uv project.
 - [create-release](https://github.com/seriaati/create-release): Create a new release for a Python project, includes GitHub release + publish to pypi for library projects.
-- [renovate-config](https://github.com/seriaati/renovate-config): My renovate config.
 
 ### Technologies Used
 
 - GitHub Actions
+
+## Others
+
+- [zzz-guides](https://github.com/seriaati/zzz-guides): ZZZ character guides and the SZGF standard.  
+- [waseda-credit-calculator](https://github.com/seriaati/waseda-credit-calculator): A command-line tool for calcculating credits at Waseda University.
 
 ## Honorable Mentions
 
