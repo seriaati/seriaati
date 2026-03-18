@@ -23,26 +23,9 @@
 
 你可以在下列地方找到我:  
 
-- [Discord 伺服器](https://discord.com/invite/ryfamUykRw)
-- [Discord](https://discord.com/users/410036441129943050) (透過加好友的形式)
+- [Discord](https://discord.com/users/410036441129943050)
 - [Email](mailto:hi@seria.moe)
-
-# 目錄
-
-- [近況](#近況)
-- [我的專案](#我的專案)
-  - [Discord 機器人](#discord-機器人)
-  - [API 封裝](#api-封裝)
-  - [網頁應用](#網頁應用)
-  - [Python API](#python-api)
-  - [連結預覽修復器](#連結預覽修復器)
-  - [網頁爬蟲](#網頁爬蟲)
-  - [共創/標準](#共創標準)
-  - [CI (持續整合)](#ci-持續整合)
-  - [值得一提](#值得一提)
-  - [LINE 機器人](#line-機器人)
-  - [與股票相關的項目](#與股票相關的項目)
-- [一些統計數據](#一些統計數據)
+- [LINE](https://line.me/ti/p/O4Y5UUJSqK)
 
 # 近況
 
@@ -171,11 +154,7 @@
 - beautifulsoup4
 - Playwright
 
-## 共創/標準
-
-- [zzz-guides](https://github.com/seriaati/zzz-guides): 絕區零角色攻略，內含 SZGF（標準化絕區零攻略格式）規範。  
-
-## CI (持續整合)
+## CI
 
 - [update-ver-num](https://github.com/seriaati/update-ver-num/): 提升一個 uv 項目的版本號。
 - [create-release](https://github.com/seriaati/create-release): 為一個 Python 項目創建一個新版本，包含 GitHub 上的新 Release 及發布到 pypi（如果是 library 項目的話）。
@@ -184,6 +163,11 @@
 ### 使用的技術
 
 - GitHub Actions
+
+## 其他
+
+- [zzz-guides](https://github.com/seriaati/zzz-guides): 絕區零角色攻略，內含 SZGF（標準化絕區零攻略格式）規範。  
+- [waseda-credit-calculator](https://github.com/seriaati/waseda-credit-calculator): 用於計算早稻田大學學分的命令列工具。
 
 ## 值得一提
 
