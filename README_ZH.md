@@ -32,10 +32,10 @@
 ## 近期貢獻
 
 
-- [seriaati/waseda-credit-calculator](https://github.com/seriaati/waseda-credit-calculator) - A command-line tool for calculating credits at Waseda University. (`1 day ago`)
+- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/waseda-credit-calculator](https://github.com/seriaati/waseda-credit-calculator) - A command-line tool for calculating credits at Waseda University. (`1 day ago`)
 - [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`3 days ago`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`4 days ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`4 days ago`)
 
 ## 近期 Stars
