@@ -32,11 +32,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/hb-anniv](https://github.com/seriaati/hb-anniv) - Hoyo Buddy anniversary website (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
+- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`today`)
+- [seriaati/hb-anniv](https://github.com/seriaati/hb-anniv) - Hoyo Buddy anniversary website (`today`)
 - [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`today`)
 - [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`today`)
-- [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
 
 ## Recent Stars
 
