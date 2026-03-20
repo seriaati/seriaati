@@ -32,11 +32,11 @@
 ## 近期貢獻
 
 
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`today`)
+- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`today`)
 - [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`today`)
-- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) (`today`)
 - [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`1 day ago`)
-- [seriaati/waseda-credit-calculator](https://github.com/seriaati/waseda-credit-calculator) - A command-line tool for calculating credits at Waseda University. (`2 days ago`)
 
 ## 近期 Stars
 
