@@ -32,11 +32,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/szgf-website](https://github.com/seriaati/szgf-website) - Official website for the SZGF standard (`today`)
-- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`today`)
-- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`today`)
 - [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
+- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`today`)
+- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`today`)
+- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`today`)
+- [seriaati/discord-bot-template](https://github.com/seriaati/discord-bot-template) (`today`)
 
 ## Recent Stars
 
