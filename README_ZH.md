@@ -33,10 +33,10 @@
 
 
 - [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`today`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`today`)
-- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`today`)
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/szgf-generator](https://github.com/seriaati/szgf-generator) - Easily generate SZGF-compliant guides by filling forms (`1 day ago`)
+- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`1 day ago`)
 
 ## 近期 Stars
 
@@ -50,7 +50,7 @@
 ## 近期 PR
 
 
-- [v1.16.17 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/125) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
+- [v1.16.17 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/125) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [Rest in peace hakushin](https://github.com/seriaati/hoyo-buddy/pull/552) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
 - [Add ElationDamageAddedRatio and ElationDamageAddedRatioBase to extra locs](https://github.com/pizza-studio/EnkaDBGenerator/pull/63) on [pizza-studio/EnkaDBGenerator](https://github.com/pizza-studio/EnkaDBGenerator) (`1 month ago`)
 - [Add search functionality to Projects page](https://github.com/muety/wakapi/pull/908) on [muety/wakapi](https://github.com/muety/wakapi) (`1 month ago`)
