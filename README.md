@@ -32,11 +32,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`1 day ago`)
-- [seriaati/fxiwara](https://github.com/seriaati/fxiwara) - Fix Iwara Discord embeds. (`1 day ago`)
+- [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`today`)
 - [seriaati/fxptt](https://github.com/seriaati/fxptt) - 修復 PTT 的連結預覽 (`1 day ago`)
+- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`1 day ago`)
+- [seriaati/fxiwara](https://github.com/seriaati/fxiwara) - Fix Iwara Discord embeds. (`1 day ago`)
+- [seriaati/fxfacebook](https://github.com/seriaati/fxfacebook) - Unreliable way to fix Facebook reel embeds on Discord (`1 day ago`)
 
 ## Recent Stars
 
