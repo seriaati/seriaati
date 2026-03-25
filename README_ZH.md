@@ -34,8 +34,8 @@
 
 - [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/HSRAssets](https://github.com/seriaati/HSRAssets) - Some HSR assets that Hoyo Buddy needs (`today`)
 - [seriaati/fxtwitch](https://github.com/seriaati/fxtwitch) - Fix Twitch clip embeds on Discord. (`1 day ago`)
-- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`1 day ago`)
 - [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`1 day ago`)
 
 ## 近期 Stars
