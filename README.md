@@ -32,7 +32,7 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/hb-app](https://github.com/seriaati/hb-app) - Hoyo Buddy's web app. (`1 day ago`)
+- [seriaati/hb-app](https://github.com/seriaati/hb-app) - Hoyo Buddy's web app. (`today`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
