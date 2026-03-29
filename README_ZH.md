@@ -32,17 +32,17 @@
 ## 近期貢獻
 
 
-- [seriaati/hb-app](https://github.com/seriaati/hb-app) - Hoyo Buddy's web app. (`today`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`2 days ago`)
+- [seriaati/hb-app](https://github.com/seriaati/hb-app) - Hoyo Buddy's web app. (`1 day ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`3 days ago`)
 
 ## 近期 Stars
 
 
 - [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting. (`2 weeks ago`)
-- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! (`1 month ago`)
+- [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! (`2 months ago`)
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`2 months ago`)
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord: (`2 months ago`)
 - [TheVolecitor/BeatBoss](https://github.com/TheVolecitor/BeatBoss) - Music Player based on DAB api (`2 months ago`)
@@ -50,7 +50,7 @@
 ## 近期 PR
 
 
-- [v1.16.17 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/125) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
+- [v1.16.17 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/125) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 weeks ago`)
 - [Rest in peace hakushin](https://github.com/seriaati/hoyo-buddy/pull/552) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 month ago`)
 - [Add ElationDamageAddedRatio and ElationDamageAddedRatioBase to extra locs](https://github.com/pizza-studio/EnkaDBGenerator/pull/63) on [pizza-studio/EnkaDBGenerator](https://github.com/pizza-studio/EnkaDBGenerator) (`1 month ago`)
 - [Add search functionality to Projects page](https://github.com/muety/wakapi/pull/908) on [muety/wakapi](https://github.com/muety/wakapi) (`1 month ago`)
