@@ -62,7 +62,7 @@
 💙 [Layla](https://github.com/seriaati/layla)：一個衍生自 Shenhe 的小型機器人，具有動漫圖片搜索功能。  
 🛝 [Sugari](https://github.com/Sugari-Bot)：一個多功能的 Discord 機器人，我貢獻了一小部分。  
 🐻 [Guoba Network](https://github.com/seriaati/guoba-network)：為朋友製作的基於 Discord 機器人實現的圖片分享網路。  
-🃏 [Carta](https://github.com/seriaati/carta): 基於大語言模型的卡牌遊戲。  
+🌀 [Roler](https://github.com/seriaati/roler): 易用且好看的身份組管理　Discord 機器人。  
 
 ### 使用的技術
 
