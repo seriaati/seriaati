@@ -71,7 +71,7 @@ You can find me in the following places:
 💙 [Layla](https://github.com/seriaati/layla): A small bot with anime image searching features derived from Shenhe.  
 🛝 [Sugari](https://github.com/Sugari-Bot): A multi-purpose Discord bot that I contributed a small part of.  
 🐻 [Guoba Network](https://github.com/seriaati/guoba-network): Image sharing network implemented with Discord bot, made for a friend.  
-🃏 [Carta](https://github.com/seriaati/carta): Discord card game powered by LLM.  
+🌀 [Roler](https://github.com/seriaati/roler): Discord bot for easy and descriptive role management.
 
 ### Technologies Used
 
