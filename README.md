@@ -32,11 +32,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/ruff-config](https://github.com/seriaati/ruff-config) - Seria's ruff config (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
 - [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`1 day ago`)
 - [seriaati/hb-app](https://github.com/seriaati/hb-app) - Hoyo Buddy's web app. (`3 days ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`4 days ago`)
 
 ## Recent Stars
 
