@@ -33,17 +33,17 @@
 
 
 - [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`today`)
-- [seriaati/ruff-config](https://github.com/seriaati/ruff-config) - Seria's ruff config (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`1 day ago`)
+- [seriaati/ruff-config](https://github.com/seriaati/ruff-config) - Seria's ruff config (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`2 days ago`)
 
 ## 近期 Stars
 
 
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`today`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`1 day ago`)
-- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting. (`2 weeks ago`)
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`1 day ago`)
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`2 days ago`)
+- [resumx/resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting. (`3 weeks ago`)
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! (`2 months ago`)
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`2 months ago`)
 
