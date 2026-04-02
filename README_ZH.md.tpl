@@ -8,6 +8,7 @@
 
 你可以通過以下服務進行捐款，不同服務支持不同付款方式：
 
+- [委託](https://freelance.seria.moe/): 我可以幫你打造 Discord 機器人、網頁應用及各種軟體！
 - [GitHub Sponsors](https://github.com/sponsors/seriaati): 最推薦，0% 手續費，需要 GitHub 帳戶。
 - [Ko-Fi](https://ko-fi.com/seriaati): 3% 手續費。
 - [BuyMeACoffee](https://buymeacoffee.com/seria): 8% 手續費。
