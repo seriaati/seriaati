@@ -6,8 +6,9 @@ If you've found any of my open-source projects helpful, I'd be delighted if you 
 
 Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.
 
-You can support me via the following services, different services accept different payment methods:
+You can support me via the following methods, different services accept different payment methods:
 
+- [Commission](https://freelance.seria.moe/en): I can build software for you!
 - [GitHub Sponsors](https://github.com/sponsors/seriaati): Most preferred because 0% fee, GitHub account needed.
 - [Ko-Fi](https://ko-fi.com/seriaati): 3% fee.
 - [BuyMeACoffee](https://buymeacoffee.com/seria): 8% fee.
