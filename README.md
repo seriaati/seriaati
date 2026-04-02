@@ -8,7 +8,7 @@ Your support not only fuels my passion for coding but also helps sustain my jour
 
 You can support me via the following methods, different services accept different payment methods:
 
-- [Commission](https://freelance.seria.moe/en): I can build software for you!
+- [Commission](https://freelance.seria.moe/en): I can help you build Discord bots, web apps, and any kind of software!
 - [GitHub Sponsors](https://github.com/sponsors/seriaati): Most preferred because 0% fee, GitHub account needed.
 - [Ko-Fi](https://ko-fi.com/seriaati): 3% fee.
 - [BuyMeACoffee](https://buymeacoffee.com/seria): 8% fee.
