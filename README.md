@@ -34,8 +34,8 @@ You can find me in the following places:
 
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) (`today`)
-- [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`1 day ago`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
+- [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`1 day ago`)
 - [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`1 day ago`)
 
 ## Recent Stars
