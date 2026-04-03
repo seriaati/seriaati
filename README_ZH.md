@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`today`)
+- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`today`)
 - [seriaati/quantum-online-analyzer](https://github.com/seriaati/quantum-online-analyzer) - Discord bot to analyze stock excel files from quantumonline.com (`today`)
+- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`today`)
 - [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`2 days ago`)
 
 ## 近期 Stars
 
