@@ -44,7 +44,7 @@
 
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`4 days ago`)
 - [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`5 days ago`)
-- [resumx/resumx](https://github.com/resumx/resumx) - The resume stack for Claude Code. (`3 weeks ago`)
+- [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code. (`3 weeks ago`)
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! (`2 months ago`)
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`2 months ago`)
 
