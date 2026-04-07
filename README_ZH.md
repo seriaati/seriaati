@@ -33,16 +33,16 @@
 ## 近期貢獻
 
 
-- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`1 day ago`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`1 day ago`)
-- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`1 day ago`)
-- [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`3 days ago`)
-- [seriaati/quantum-online-analyzer](https://github.com/seriaati/quantum-online-analyzer) - Discord bot to analyze stock excel files from quantumonline.com (`3 days ago`)
+- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`2 days ago`)
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`2 days ago`)
+- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`2 days ago`)
+- [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`4 days ago`)
+- [seriaati/quantum-online-analyzer](https://github.com/seriaati/quantum-online-analyzer) - Discord bot to analyze stock excel files from quantumonline.com (`4 days ago`)
 
 ## 近期 Stars
 
 
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`6 days ago`)
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`1 week ago`)
 - [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`1 week ago`)
 - [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code. (`3 weeks ago`)
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! (`2 months ago`)
@@ -51,7 +51,7 @@
 ## 近期 PR
 
 
-- [v1.16.18 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/133) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`5 days ago`)
+- [v1.16.18 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/133) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`6 days ago`)
 - [v1.16.17 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/125) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 - [Rest in peace hakushin](https://github.com/seriaati/hoyo-buddy/pull/552) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 month ago`)
 - [Add ElationDamageAddedRatio and ElationDamageAddedRatioBase to extra locs](https://github.com/pizza-studio/EnkaDBGenerator/pull/63) on [pizza-studio/EnkaDBGenerator](https://github.com/pizza-studio/EnkaDBGenerator) (`1 month ago`)
