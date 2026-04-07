@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
+- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`today`)
 - [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`2 days ago`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`2 days ago`)
 - [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`2 days ago`)
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`2 days ago`)
 - [seriaati/line.py](https://github.com/seriaati/line.py) - 非阻塞式 LINE Messaging API 封裝 (`4 days ago`)
-- [seriaati/quantum-online-analyzer](https://github.com/seriaati/quantum-online-analyzer) - Discord bot to analyze stock excel files from quantumonline.com (`4 days ago`)
 
 ## 近期 Stars
 
