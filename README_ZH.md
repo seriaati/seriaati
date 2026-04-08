@@ -34,10 +34,10 @@
 
 
 - [seriaati/hb-app](https://github.com/seriaati/hb-app) - Hoyo Buddy's web app. (`today`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`1 day ago`)
-- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`1 day ago`)
 - [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`1 day ago`)
+- [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`1 day ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
+- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`1 day ago`)
 
 ## 近期 Stars
 
