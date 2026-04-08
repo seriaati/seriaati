@@ -34,28 +34,28 @@ You can find me in the following places:
 
 
 - [seriaati/hb-app](https://github.com/seriaati/hb-app) - Hoyo Buddy's web app. (`today`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
-- [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`today`)
-- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`today`)
-- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`today`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
+- [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`1 day ago`)
+- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`1 day ago`)
+- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`1 day ago`)
 
 ## Recent Stars
 
 
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`1 week ago`)
 - [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`1 week ago`)
-- [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code. (`3 weeks ago`)
+- [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code. (`4 weeks ago`)
 - [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) - Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! (`2 months ago`)
 - [mattogodoy/nametag](https://github.com/mattogodoy/nametag) - A simple, yet effective Personal Relationship Manager (`2 months ago`)
 
 ## Recent PRs
 
 
-- [v1.16.18 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/133) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`6 days ago`)
+- [v1.16.18 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/133) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [v1.16.17 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/125) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 - [Rest in peace hakushin](https://github.com/seriaati/hoyo-buddy/pull/552) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 month ago`)
 - [Add ElationDamageAddedRatio and ElationDamageAddedRatioBase to extra locs](https://github.com/pizza-studio/EnkaDBGenerator/pull/63) on [pizza-studio/EnkaDBGenerator](https://github.com/pizza-studio/EnkaDBGenerator) (`1 month ago`)
-- [Add search functionality to Projects page](https://github.com/muety/wakapi/pull/908) on [muety/wakapi](https://github.com/muety/wakapi) (`1 month ago`)
+- [Add search functionality to Projects page](https://github.com/muety/wakapi/pull/908) on [muety/wakapi](https://github.com/muety/wakapi) (`2 months ago`)
 
 # My Projects
 
