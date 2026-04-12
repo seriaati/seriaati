@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`today`)
-- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`today`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
+- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`today`)
 - [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for easy and descriptive role management (`today`)
+- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`today`)
 - [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`today`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
 
 ## Recent Stars
 
