@@ -34,9 +34,9 @@ You can find me in the following places:
 
 
 - [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`today`)
-- [seriaati/roler-site](https://github.com/seriaati/roler-site) (`today`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`today`)
-- [seriaati/seria-api](https://github.com/seriaati/seria-api) - API for Seria's projects to connect to. (`today`)
+- [seriaati/update-ver-num](https://github.com/seriaati/update-ver-num) - CI to update project version number in pyproject.toml (`today`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
 
 ## Recent Stars
@@ -59,8 +59,8 @@ You can find me in the following places:
 
 # My Projects
 
-📋 [Curated list of projects](https://project.seria.moe)  
-📊 [Uptime and maintenance status](https://status.seria.moe)
+- 📋 [Curated list of projects](https://project.seria.moe)
+- 📊 [Uptime and maintenance status](https://status.seria.moe)
 
 # Some Stats
 
