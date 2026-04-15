@@ -50,7 +50,7 @@ You can find me in the following places:
 
 # My Projects
 
-- 📋 [Curated list of projects](https://project.seria.moe)
+- 📋 [Curated list of projects](https://projects.seria.moe)
 - 📊 [Uptime and maintenance status](https://status.seria.moe)
 
 # Some Stats
