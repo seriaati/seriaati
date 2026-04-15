@@ -50,8 +50,8 @@
 
 # 我的專案
 
-📋 [精心整理過的專案列表](https://projects.seria.moe)  
-📊 [運行狀態與維護資訊](https://status.seria.moe/))
+- 📋 [精心整理過的專案列表](https://projects.seria.moe)
+- 📊 [運行狀態與維護資訊](https://status.seria.moe)
 
 # 一些統計數據
 
