@@ -34,16 +34,16 @@
 
 
 - [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`today`)
-- [seriaati/update-ver-num](https://github.com/seriaati/update-ver-num) - CI to update project version number in pyproject.toml (`today`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`1 day ago`)
+- [seriaati/seria-api](https://github.com/seriaati/seria-api) - API for Seria's projects to connect to. (`1 day ago`)
+- [seriaati/roler-site](https://github.com/seriaati/roler-site) (`1 day ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`1 day ago`)
 
 ## 近期 Stars
 
 
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (`2 days ago`)
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio. (`6 days ago`)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (`3 days ago`)
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio. (`1 week ago`)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`2 weeks ago`)
 - [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`2 weeks ago`)
 - [resumx/resumx](https://github.com/resumx/resumx) - Resume renderer for Claude Code. (`1 month ago`)
