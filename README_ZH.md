@@ -33,10 +33,10 @@
 ## 近期貢獻
 
 
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`today`)
 - [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`today`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`1 day ago`)
 - [seriaati/seria-api](https://github.com/seriaati/seria-api) - API for Seria's projects to connect to. (`1 day ago`)
-- [seriaati/roler-site](https://github.com/seriaati/roler-site) (`1 day ago`)
+- [seriaati/update-ver-num](https://github.com/seriaati/update-ver-num) - CI to update project version number in pyproject.toml (`1 day ago`)
 - [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`1 day ago`)
 
 ## 近期 Stars
