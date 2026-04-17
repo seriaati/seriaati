@@ -34,10 +34,10 @@
 
 
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`today`)
-- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`today`)
+- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`today`)
 - [seriaati/hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) - Notify via Discord webhook whenever a Hoyoverse game is updated, in maintenance, or has preload available. (`today`)
-- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`1 day ago`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`2 days ago`)
+- [seriaati/zeni](https://github.com/seriaati/zeni) - (WIP) AI personal expense tracker. (`today`)
+- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`today`)
 
 ## 近期 Stars
 
