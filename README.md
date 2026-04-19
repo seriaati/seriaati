@@ -33,8 +33,8 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction (`1 day ago`)
 - [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`2 days ago`)
 - [seriaati/hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) - Notify via Discord webhook whenever a Hoyoverse game is updated, in maintenance, or has preload available. (`2 days ago`)
 - [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`2 days ago`)
