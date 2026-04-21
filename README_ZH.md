@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
 - [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction (`2 days ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
 - [seriaati/hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) - Notify via Discord webhook whenever a Hoyoverse game is updated, in maintenance, or has preload available. (`4 days ago`)
-- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`4 days ago`)
 
 ## 近期 Stars
 
