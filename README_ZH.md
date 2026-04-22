@@ -33,16 +33,16 @@
 ## 近期貢獻
 
 
+- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`today`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
-- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction (`2 days ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
-- [seriaati/hoyo-update-notifier](https://github.com/seriaati/hoyo-update-notifier) - Notify via Discord webhook whenever a Hoyoverse game is updated, in maintenance, or has preload available. (`4 days ago`)
+- [seriaati/create-release](https://github.com/seriaati/create-release) - CI to create release (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`2 days ago`)
 
 ## 近期 Stars
 
 
-- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction (`3 days ago`)
+- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction (`4 days ago`)
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (`1 week ago`)
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio. (`1 week ago`)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`3 weeks ago`)
@@ -51,8 +51,8 @@
 ## 近期 PR
 
 
-- [feat: Add new API for web app](https://github.com/seriaati/hoyo-buddy/pull/590) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
-- [v1.16.18 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/133) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
+- [feat: Add new API for web app](https://github.com/seriaati/hoyo-buddy/pull/590) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
+- [v1.16.18 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/133) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [v1.16.17 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/125) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 - [Rest in peace hakushin](https://github.com/seriaati/hoyo-buddy/pull/552) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 month ago`)
 - [Add ElationDamageAddedRatio and ElationDamageAddedRatioBase to extra locs](https://github.com/pizza-studio/EnkaDBGenerator/pull/63) on [pizza-studio/EnkaDBGenerator](https://github.com/pizza-studio/EnkaDBGenerator) (`2 months ago`)
