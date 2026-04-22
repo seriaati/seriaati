@@ -36,13 +36,13 @@
 - [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`today`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
 - [seriaati/create-release](https://github.com/seriaati/create-release) - CI to create release (`today`)
-- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction (`today`)
+- [seriaati/zeni](https://github.com/seriaati/zeni) - Open source AI personal finance tracker (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 
 ## 近期 Stars
 
 
-- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction (`4 days ago`)
+- [seriaati/zeni](https://github.com/seriaati/zeni) - Open source AI personal finance tracker (`4 days ago`)
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (`1 week ago`)
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio. (`1 week ago`)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`3 weeks ago`)
