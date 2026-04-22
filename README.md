@@ -36,8 +36,8 @@ You can find me in the following places:
 - [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`today`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
 - [seriaati/create-release](https://github.com/seriaati/create-release) - CI to create release (`today`)
+- [seriaati/zeni](https://github.com/seriaati/zeni) - Money tracked without the friction (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`2 days ago`)
 
 ## Recent Stars
 
