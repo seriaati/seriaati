@@ -34,15 +34,15 @@ You can find me in the following places:
 
 
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`today`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open source AI personal finance tracker (`today`)
-- [seriaati/create-release](https://github.com/seriaati/create-release) - CI to create release (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`1 day ago`)
+- [seriaati/create-release](https://github.com/seriaati/create-release) - CI to create release (`2 days ago`)
 
 ## Recent Stars
 
 
-- [seriaati/keni](https://github.com/seriaati/keni) - Open source AI personal finance tracker (`5 days ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open source AI personal finance tracker (`6 days ago`)
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (`1 week ago`)
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio. (`2 weeks ago`)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`3 weeks ago`)
