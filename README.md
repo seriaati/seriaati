@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [v1.16.19 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/146) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
 - [feat: Add new API for web app](https://github.com/seriaati/hoyo-buddy/pull/590) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
 - [v1.16.18 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/133) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 - [v1.16.17 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/125) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 months ago`)
 - [Rest in peace hakushin](https://github.com/seriaati/hoyo-buddy/pull/552) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 months ago`)
-- [Add ElationDamageAddedRatio and ElationDamageAddedRatioBase to extra locs](https://github.com/pizza-studio/EnkaDBGenerator/pull/63) on [pizza-studio/EnkaDBGenerator](https://github.com/pizza-studio/EnkaDBGenerator) (`2 months ago`)
 
 # My Projects
 
