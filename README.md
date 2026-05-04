@@ -34,10 +34,10 @@ You can find me in the following places:
 
 
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
+- [seriaati/sap-wiki](https://github.com/seriaati/sap-wiki) - Super Auto Pets wiki based on data directly extracted from the game files (`today`)
 - [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`today`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
 - [seriaati/discord-bot-template](https://github.com/seriaati/discord-bot-template) - Seria's Discord bot template (`2 days ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`4 days ago`)
 
 ## Recent Stars
 
