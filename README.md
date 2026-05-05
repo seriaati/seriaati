@@ -33,8 +33,8 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/sap-wiki](https://github.com/seriaati/sap-wiki) - Super Auto Pets wiki based on data directly extracted from the game files (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/sap-wiki](https://github.com/seriaati/sap-wiki) - Super Auto Pets wiki based on data directly extracted from the game files (`today`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
 - [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`1 day ago`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`2 days ago`)
