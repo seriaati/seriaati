@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/fxBilibili](https://github.com/seriaati/fxBilibili) - Fix Bilibili link embeds on Discord (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`1 day ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
-- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`1 day ago`)
-- [seriaati/sap-wiki](https://github.com/seriaati/sap-wiki) - Super Auto Pets wiki based on data directly extracted from the game files (`2 days ago`)
 
 ## Recent Stars
 
