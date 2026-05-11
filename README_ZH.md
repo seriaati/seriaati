@@ -33,18 +33,18 @@
 ## 近期貢獻
 
 
-- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`today`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
-- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
-- [seriaati/fxBilibili](https://github.com/seriaati/fxBilibili) - Fix Bilibili link embeds on Discord (`3 days ago`)
+- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`1 day ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
+- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
+- [seriaati/fxBilibili](https://github.com/seriaati/fxBilibili) - Fix Bilibili link embeds on Discord (`4 days ago`)
 
 ## 近期 Stars
 
 
-- [Lainmode/InstagramEmbed-vxinstagram](https://github.com/Lainmode/InstagramEmbed-vxinstagram) (`4 days ago`)
+- [Lainmode/InstagramEmbed-vxinstagram](https://github.com/Lainmode/InstagramEmbed-vxinstagram) (`5 days ago`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`3 weeks ago`)
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (`3 weeks ago`)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (`4 weeks ago`)
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux (`1 month ago`)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`1 month ago`)
 
