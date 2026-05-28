@@ -34,8 +34,8 @@
 
 
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
-- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
+- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`4 days ago`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 week ago`)
 - [seriaati/hoyo-codes](https://github.com/seriaati/hoyo-codes) - API to get gift codes for Hoyoverse games (`2 weeks ago`)
 
@@ -51,7 +51,7 @@
 ## 近期 PR
 
 
-- [fix: fix route matching for bulk transaction operations in API](https://github.com/seriaati/keni/pull/6) on [seriaati/keni](https://github.com/seriaati/keni) (`5 days ago`)
+- [fix: fix route matching for bulk transaction operations in API](https://github.com/seriaati/keni/pull/6) on [seriaati/keni](https://github.com/seriaati/keni) (`6 days ago`)
 - [feat: v1.16.19 Changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/146) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [feat: Add new API for web app](https://github.com/seriaati/hoyo-buddy/pull/590) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 month ago`)
 - [v1.16.18 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/133) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
