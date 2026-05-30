@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`1 day ago`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/dan-master](https://github.com/seriaati/dan-master) (`1 day ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
+- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`1 day ago`)
+- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`1 day ago`)
 
 ## 近期 Stars
 
