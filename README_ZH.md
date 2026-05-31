@@ -37,7 +37,7 @@
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
-- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`2 days ago`)
+- [seriaati/dan-master](https://github.com/seriaati/dan-master) (`2 days ago`)
 
 ## 近期 Stars
 
