@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/lumina](https://github.com/seriaati/lumina) - Discord bot with birthday reminder, reminders, and todo list. (`today`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/yugioh-lianli](https://github.com/seriaati/yugioh-lianli) - 遊戲王連慄炮計算機 (`1 day ago`)
-- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/yugioh-lianli](https://github.com/seriaati/yugioh-lianli) - 遊戲王連慄炮計算機 (`today`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
+- [seriaati/lumina](https://github.com/seriaati/lumina) - Discord bot with birthday reminder, reminders, and todo list. (`1 day ago`)
+- [seriaati/dotfiles](https://github.com/seriaati/dotfiles) - Seria's dotfiles (`2 days ago`)
 
 ## Recent Stars
 
@@ -51,10 +51,10 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [feat(auto-tasks): add character accompany check-in](https://github.com/seriaati/hoyo-buddy/pull/624) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`6 days ago`)
-- [fix(reminders): show reminder text in mobile notifications](https://github.com/seriaati/hoyo-buddy/pull/623) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`6 days ago`)
-- [refactor(schedule): source sponsor IDs from seria API](https://github.com/seriaati/hoyo-buddy/pull/622) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`6 days ago`)
-- [feat(profile): add Enka style cards for HSR and ZZZ](https://github.com/seriaati/hoyo-buddy/pull/621) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`6 days ago`)
+- [feat(auto-tasks): add character accompany check-in](https://github.com/seriaati/hoyo-buddy/pull/624) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
+- [fix(reminders): show reminder text in mobile notifications](https://github.com/seriaati/hoyo-buddy/pull/623) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
+- [refactor(schedule): source sponsor IDs from seria API](https://github.com/seriaati/hoyo-buddy/pull/622) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
+- [feat(profile): add Enka style cards for HSR and ZZZ](https://github.com/seriaati/hoyo-buddy/pull/621) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
 - [v1.16.20 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/157) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 
 # My Projects
