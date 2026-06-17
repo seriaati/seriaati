@@ -33,17 +33,17 @@
 ## 近期貢獻
 
 
-- [seriaati/discord-bot-template](https://github.com/seriaati/discord-bot-template) - Seria's Discord bot template (`today`)
-- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`today`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`today`)
-- [seriaati/yugioh-lianli](https://github.com/seriaati/yugioh-lianli) - 遊戲王連慄炮計算機 (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/discord-bot-template](https://github.com/seriaati/discord-bot-template) - Seria's Discord bot template (`1 day ago`)
+- [seriaati/no-scams](https://github.com/seriaati/no-scams) - Discord bot to combat scam messages (`1 day ago`)
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`1 day ago`)
+- [seriaati/yugioh-lianli](https://github.com/seriaati/yugioh-lianli) - 遊戲王連慄炮計算機 (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
 
 ## 近期 Stars
 
 
 - [Lainmode/InstagramEmbed-vxinstagram](https://github.com/Lainmode/InstagramEmbed-vxinstagram) (`1 month ago`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 month ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`2 months ago`)
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (`2 months ago`)
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux (`2 months ago`)
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (`2 months ago`)
@@ -55,7 +55,7 @@
 - [fix(reminders): show reminder text in mobile notifications](https://github.com/seriaati/hoyo-buddy/pull/623) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
 - [refactor(schedule): source sponsor IDs from seria API](https://github.com/seriaati/hoyo-buddy/pull/622) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
 - [feat(profile): add Enka style cards for HSR and ZZZ](https://github.com/seriaati/hoyo-buddy/pull/621) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
-- [v1.16.20 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/157) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
+- [v1.16.20 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/157) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 
 # 我的專案
 
