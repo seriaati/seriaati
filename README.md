@@ -35,8 +35,8 @@ You can find me in the following places:
 
 - [seriaati/opna-bot](https://github.com/seriaati/opna-bot) (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`4 days ago`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`4 days ago`)
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`4 days ago`)
 - [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`6 days ago`)
 
 ## Recent Stars
@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [feat(pixiv): convert ugoira to mp4 instead of gif](https://github.com/seriaati/embed-fixer/pull/301) on [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) (`today`)
 - [feat(auto-tasks): add character accompany check-in](https://github.com/seriaati/hoyo-buddy/pull/624) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [fix(reminders): show reminder text in mobile notifications](https://github.com/seriaati/hoyo-buddy/pull/623) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [refactor(schedule): source sponsor IDs from seria API](https://github.com/seriaati/hoyo-buddy/pull/622) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [feat(profile): add Enka style cards for HSR and ZZZ](https://github.com/seriaati/hoyo-buddy/pull/621) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
-- [v1.16.20 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/157) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 
 # My Projects
 
