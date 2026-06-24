@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`3 days ago`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`3 days ago`)
-- [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`5 days ago`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`5 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`4 days ago`)
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`4 days ago`)
+- [seriaati/renovate-config](https://github.com/seriaati/renovate-config) - Seria's renovate config (`6 days ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`6 days ago`)
 
 ## 近期 Stars
 
@@ -55,7 +55,7 @@
 - [fix(reminders): show reminder text in mobile notifications](https://github.com/seriaati/hoyo-buddy/pull/623) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [refactor(schedule): source sponsor IDs from seria API](https://github.com/seriaati/hoyo-buddy/pull/622) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
 - [feat(profile): add Enka style cards for HSR and ZZZ](https://github.com/seriaati/hoyo-buddy/pull/621) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 weeks ago`)
-- [v1.16.20 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/157) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
+- [v1.16.20 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/157) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 
 # 我的專案
 
