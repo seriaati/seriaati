@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/agentic-discord-ai-waifu](https://github.com/seriaati/agentic-discord-ai-waifu) (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
-- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka Network showcase to Genshin/Zenless Optimizer. (`3 days ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
+- [seriaati/agentic-discord-ai-waifu](https://github.com/seriaati/agentic-discord-ai-waifu) (`2 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`3 days ago`)
+- [seriaati/enka-to-go](https://github.com/seriaati/enka-to-go) - Export your Enka Network showcase to Genshin/Zenless Optimizer. (`4 days ago`)
 
 ## Recent Stars
 
@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [V1.16.21 + Astro Starlight migration](https://github.com/seriaati/hoyo-buddy-wiki/pull/162) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`5 days ago`)
-- [Migrate from Docusaurus to Astro Starlight](https://github.com/seriaati/hoyo-buddy-wiki/pull/161) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`5 days ago`)
+- [V1.16.21 + Astro Starlight migration](https://github.com/seriaati/hoyo-buddy-wiki/pull/162) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`6 days ago`)
+- [Migrate from Docusaurus to Astro Starlight](https://github.com/seriaati/hoyo-buddy-wiki/pull/161) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`6 days ago`)
 - [feat(pixiv): convert ugoira to mp4 instead of gif](https://github.com/seriaati/embed-fixer/pull/301) on [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) (`1 week ago`)
-- [feat(auto-tasks): add character accompany check-in](https://github.com/seriaati/hoyo-buddy/pull/624) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
-- [fix(reminders): show reminder text in mobile notifications](https://github.com/seriaati/hoyo-buddy/pull/623) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
+- [feat(auto-tasks): add character accompany check-in](https://github.com/seriaati/hoyo-buddy/pull/624) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 weeks ago`)
+- [fix(reminders): show reminder text in mobile notifications](https://github.com/seriaati/hoyo-buddy/pull/623) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 weeks ago`)
 
 # My Projects
 
