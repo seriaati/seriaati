@@ -33,7 +33,7 @@
 ## 近期貢獻
 
 
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`2 days ago`)
 - [seriaati/agentic-discord-ai-waifu](https://github.com/seriaati/agentic-discord-ai-waifu) (`3 days ago`)
