@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/steam-acc-switcher](https://github.com/seriaati/steam-acc-switcher) - A small CLI for switching between your saved Steam accounts on Linux (`today`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`today`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`2 days ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`2 days ago`)
 
 ## 近期 Stars
 
@@ -51,7 +51,7 @@
 ## 近期 PR
 
 
-- [Improve link preview embeds](https://github.com/seriaati/hoyo-buddy-wiki/pull/164) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
+- [Improve link preview embeds](https://github.com/seriaati/hoyo-buddy-wiki/pull/164) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
 - [Update Geetest server URL](https://github.com/seriaati/hoyo-buddy-wiki/pull/163) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [V1.16.21 + Astro Starlight migration](https://github.com/seriaati/hoyo-buddy-wiki/pull/162) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [Migrate from Docusaurus to Astro Starlight](https://github.com/seriaati/hoyo-buddy-wiki/pull/161) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
