@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/steam-acc-switcher](https://github.com/seriaati/steam-acc-switcher) - A small CLI for switching between your saved Steam accounts on Linux (`today`)
-- [seriaati/box-pdf-downloader](https://github.com/seriaati/box-pdf-downloader) - Download protected PDF files from box.com (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`2 days ago`)
-- [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`3 days ago`)
+- [seriaati/steam-acc-switcher](https://github.com/seriaati/steam-acc-switcher) - A small CLI for switching between your saved Steam accounts on Linux (`1 day ago`)
+- [seriaati/box-pdf-downloader](https://github.com/seriaati/box-pdf-downloader) - Download protected PDF files from box.com (`2 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`3 days ago`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`3 days ago`)
+- [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`4 days ago`)
 
 ## Recent Stars
 
@@ -51,11 +51,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [Improve link preview embeds](https://github.com/seriaati/hoyo-buddy-wiki/pull/164) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 days ago`)
+- [Improve link preview embeds](https://github.com/seriaati/hoyo-buddy-wiki/pull/164) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 days ago`)
 - [Update Geetest server URL](https://github.com/seriaati/hoyo-buddy-wiki/pull/163) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
-- [V1.16.21 + Astro Starlight migration](https://github.com/seriaati/hoyo-buddy-wiki/pull/162) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
-- [Migrate from Docusaurus to Astro Starlight](https://github.com/seriaati/hoyo-buddy-wiki/pull/161) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
-- [feat(pixiv): convert ugoira to mp4 instead of gif](https://github.com/seriaati/embed-fixer/pull/301) on [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) (`3 weeks ago`)
+- [V1.16.21 + Astro Starlight migration](https://github.com/seriaati/hoyo-buddy-wiki/pull/162) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
+- [Migrate from Docusaurus to Astro Starlight](https://github.com/seriaati/hoyo-buddy-wiki/pull/161) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
+- [feat(pixiv): convert ugoira to mp4 instead of gif](https://github.com/seriaati/embed-fixer/pull/301) on [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) (`4 weeks ago`)
 
 # My Projects
 
