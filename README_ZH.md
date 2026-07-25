@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/steam-acc-switcher](https://github.com/seriaati/steam-acc-switcher) - A small CLI for switching between your saved Steam accounts on Linux (`4 days ago`)
 - [seriaati/box-pdf-downloader](https://github.com/seriaati/box-pdf-downloader) - Download protected PDF files from box.com (`5 days ago`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`6 days ago`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 week ago`)
 
 ## 近期 Stars
 
