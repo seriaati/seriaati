@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/hb-anniv](https://github.com/seriaati/hb-anniv) - Hoyo Buddy anniversary website (`today`)
-- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`today`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/hb-anniv](https://github.com/seriaati/hb-anniv) - Hoyo Buddy anniversary website (`1 day ago`)
+- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`1 day ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`1 day ago`)
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
 
 ## Recent Stars
 
@@ -51,7 +51,7 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [feat(notif): rework DM notification timing and visibility](https://github.com/seriaati/hoyo-buddy/pull/636) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 days ago`)
+- [feat(notif): rework DM notification timing and visibility](https://github.com/seriaati/hoyo-buddy/pull/636) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`5 days ago`)
 - [Improve link preview embeds](https://github.com/seriaati/hoyo-buddy-wiki/pull/164) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [Update Geetest server URL](https://github.com/seriaati/hoyo-buddy-wiki/pull/163) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [V1.16.21 + Astro Starlight migration](https://github.com/seriaati/hoyo-buddy-wiki/pull/162) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
