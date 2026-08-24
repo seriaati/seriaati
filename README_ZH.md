@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`2 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
+- [seriaati/szgf](https://github.com/seriaati/szgf) - Zenless Zone Zero character guides & SZGF definition + package (`2 days ago`)
 
 ## 近期 Stars
 
@@ -52,8 +52,8 @@
 
 
 - [ci: add Claude Code auto code review](https://github.com/seriaati/hoyo-buddy/pull/642) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 week ago`)
-- [Try to fix share URL redirect pathing](https://github.com/seriaati/fixthreads/pull/2) on [seriaati/fixthreads](https://github.com/seriaati/fixthreads) (`2 weeks ago`)
-- [feat(notif): rework DM notification timing and visibility](https://github.com/seriaati/hoyo-buddy/pull/636) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
+- [Try to fix share URL redirect pathing](https://github.com/seriaati/fixthreads/pull/2) on [seriaati/fixthreads](https://github.com/seriaati/fixthreads) (`3 weeks ago`)
+- [feat(notif): rework DM notification timing and visibility](https://github.com/seriaati/hoyo-buddy/pull/636) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`4 weeks ago`)
 - [Improve link preview embeds](https://github.com/seriaati/hoyo-buddy-wiki/pull/164) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 - [Update Geetest server URL](https://github.com/seriaati/hoyo-buddy-wiki/pull/163) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 
