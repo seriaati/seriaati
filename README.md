@@ -33,16 +33,16 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
 - [seriaati/lumina](https://github.com/seriaati/lumina) - Discord bot with birthday reminder, reminders, and todo list. (`1 day ago`)
-- [seriaati/fxtwitch](https://github.com/seriaati/fxtwitch) - Fix Twitch clip embeds on Discord. (`1 day ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/fxtwitch](https://github.com/seriaati/fxtwitch) - Fix Twitch clip embeds on Discord. (`1 day ago`)
 - [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`1 day ago`)
-- [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`1 day ago`)
 
 ## Recent Stars
 
 
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD (`2 weeks ago`)
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own. (`2 weeks ago`)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (`2 weeks ago`)
 - [Lainmode/InstagramEmbed-vxinstagram](https://github.com/Lainmode/InstagramEmbed-vxinstagram) (`3 months ago`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`4 months ago`)
