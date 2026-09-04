@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
 - [seriaati/fxtwitch](https://github.com/seriaati/fxtwitch) - Fix Twitch clip embeds on Discord. (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
 - [seriaati/fxBilibili](https://github.com/seriaati/fxBilibili) - Fix Bilibili link embeds on Discord (`1 day ago`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`2 days ago`)
 
 ## Recent Stars
 
