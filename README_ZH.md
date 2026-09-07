@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`2 days ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
-- [seriaati/fxtwitch](https://github.com/seriaati/fxtwitch) - Fix Twitch clip embeds on Discord. (`3 days ago`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`today`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
+- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`3 days ago`)
+- [seriaati/fxBilibili](https://github.com/seriaati/fxBilibili) - Fix Bilibili link embeds on Discord (`4 days ago`)
 
 ## 近期 Stars
 
@@ -51,11 +51,11 @@
 ## 近期 PR
 
 
+- [docs(changelog): add v1.16.23 release notes](https://github.com/seriaati/hoyo-buddy-wiki/pull/169) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
 - [ci: add Claude Code auto code review](https://github.com/seriaati/hoyo-buddy/pull/642) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
 - [Try to fix share URL redirect pathing](https://github.com/seriaati/fixthreads/pull/2) on [seriaati/fixthreads](https://github.com/seriaati/fixthreads) (`1 month ago`)
 - [feat(notif): rework DM notification timing and visibility](https://github.com/seriaati/hoyo-buddy/pull/636) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`1 month ago`)
 - [Improve link preview embeds](https://github.com/seriaati/hoyo-buddy-wiki/pull/164) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
-- [Update Geetest server URL](https://github.com/seriaati/hoyo-buddy-wiki/pull/163) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 months ago`)
 
 # 我的專案
 
