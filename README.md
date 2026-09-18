@@ -42,11 +42,11 @@ You can find me in the following places:
 ## Recent Stars
 
 
-- [meowrch/BlueVein](https://github.com/meowrch/BlueVein) - Cross-platform tool to automatically synchronize Bluetooth pairing keys between Linux and Windows on dual-boot systems.  (`2 days ago`)
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own. (`1 month ago`)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (`1 month ago`)
 - [Lainmode/InstagramEmbed-vxinstagram](https://github.com/Lainmode/InstagramEmbed-vxinstagram) (`4 months ago`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`5 months ago`)
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. (`5 months ago`)
 
 ## Recent PRs
 
