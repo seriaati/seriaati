@@ -33,16 +33,16 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`1 day ago`)
-- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`4 days ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`5 days ago`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`6 days ago`)
+- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`2 days ago`)
+- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`2 days ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`5 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`6 days ago`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`1 week ago`)
 
 ## Recent Stars
 
 
-- [meowrch/BlueVein](https://github.com/meowrch/BlueVein) - Cross-platform tool to automatically synchronize Bluetooth pairing keys between Linux and Windows on dual-boot systems.  (`1 day ago`)
+- [meowrch/BlueVein](https://github.com/meowrch/BlueVein) - Cross-platform tool to automatically synchronize Bluetooth pairing keys between Linux and Windows on dual-boot systems.  (`2 days ago`)
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own. (`1 month ago`)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (`1 month ago`)
 - [Lainmode/InstagramEmbed-vxinstagram](https://github.com/Lainmode/InstagramEmbed-vxinstagram) (`4 months ago`)
