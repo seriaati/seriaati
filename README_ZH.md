@@ -33,20 +33,20 @@
 ## 近期貢獻
 
 
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
+- [seriaati/fxtwitch](https://github.com/seriaati/fxtwitch) - Fix Twitch clip embeds on Discord. (`today`)
+- [seriaati/fxBilibili](https://github.com/seriaati/fxBilibili) - Fix Bilibili link embeds on Discord (`today`)
 - [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`today`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`2 days ago`)
-- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`3 days ago`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`3 days ago`)
-- [seriaati/kamihime-auto](https://github.com/seriaati/kamihime-auto) - 神姬Project 自動化 Kamihime Project game automation bot (`3 days ago`)
 
 ## 近期 Stars
 
 
+- [OliBomby/Mapperatorinator](https://github.com/OliBomby/Mapperatorinator) - An AI framework for generating and modding osu! beatmaps for all gamemodes from spectrogram inputs. (`today`)
 - [seriaati/kamihime-auto](https://github.com/seriaati/kamihime-auto) - 神姬Project 自動化 Kamihime Project game automation bot (`3 days ago`)
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own. (`1 month ago`)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (`1 month ago`)
 - [Lainmode/InstagramEmbed-vxinstagram](https://github.com/Lainmode/InstagramEmbed-vxinstagram) (`4 months ago`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`5 months ago`)
 
 ## 近期 PR
 
