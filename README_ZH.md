@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/fxreddit](https://github.com/seriaati/fxreddit) - Provides improved reddit embeds for services such as Discord. (`today`)
 - [seriaati/fixthreads](https://github.com/seriaati/fixthreads) - Fixes Meta's Threads metadata for sites like Discord, Telegram, etc. (`today`)
+- [seriaati/fxreddit](https://github.com/seriaati/fxreddit) - Provides improved reddit embeds for services such as Discord. (`today`)
 - [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`today`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`1 day ago`)
 - [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
 
 ## 近期 Stars
 
