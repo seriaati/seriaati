@@ -36,8 +36,8 @@ You can find me in the following places:
 - [seriaati/Akagi](https://github.com/seriaati/Akagi) - 支持雀魂、天鳳、麻雀一番街、天月麻將，能夠使用自定義的AI模型實時分析對局並給出建議，內建Mortal AI作為示例。 Supports Majsoul, Tenhou, Riichi City, Amatsuki, with the ability to use custom AI models to analyze games in real time and provide suggestions. Comes with Mortal AI as a built-in example. (`today`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
 - [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`today`)
-- [seriaati/fxreddit](https://github.com/seriaati/fxreddit) - Provides improved reddit embeds for services such as Discord. (`3 days ago`)
 
 ## Recent Stars
 
