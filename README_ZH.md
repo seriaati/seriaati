@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/roler-site](https://github.com/seriaati/roler-site) (`today`)
 - [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy official website (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/Akagi](https://github.com/seriaati/Akagi) - 支持雀魂、天鳳、麻雀一番街、天月麻將，能夠使用自定義的AI模型實時分析對局並給出建議，內建Mortal AI作為示例。 Supports Majsoul, Tenhou, Riichi City, Amatsuki, with the ability to use custom AI models to analyze games in real time and provide suggestions. Comes with Mortal AI as a built-in example. (`1 day ago`)
+- [seriaati/Akagi](https://github.com/seriaati/Akagi) - 支持雀魂、天鳳、麻雀一番街、天月麻將，能夠使用自定義的AI模型實時分析對局並給出建議，內建Mortal AI作為示例。 Supports Majsoul, Tenhou, Riichi City, Amatsuki, with the ability to use custom AI models to analyze games in real time and provide suggestions. Comes with Mortal AI as a built-in example. (`today`)
 
 ## 近期 Stars
 
