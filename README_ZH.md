@@ -33,11 +33,11 @@
 ## 近期貢獻
 
 
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
 - [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy official website (`2 days ago`)
 - [seriaati/enka-card-api](https://github.com/seriaati/enka-card-api) - API for generating EnkaCard, ENCard, StarRailCard, and enka-card. (`2 days ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`2 days ago`)
 
 ## 近期 Stars
 
