@@ -33,9 +33,9 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
 - [seriaati/fxreddit](https://github.com/seriaati/fxreddit) - Provides improved reddit embeds for services such as Discord. (`today`)
 - [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`1 day ago`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`2 days ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
 - [seriaati/hb-site](https://github.com/seriaati/hb-site) - Hoyo Buddy official website (`3 days ago`)
 
