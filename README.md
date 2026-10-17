@@ -34,10 +34,10 @@ You can find me in the following places:
 
 
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
 - [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Library. (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/fxreddit](https://github.com/seriaati/fxreddit) - Provides improved reddit embeds for services such as Discord. (`1 day ago`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`2 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/fxreddit](https://github.com/seriaati/fxreddit) - Provides improved reddit embeds for services such as Discord. (`2 days ago`)
 
 ## Recent Stars
 
@@ -51,7 +51,7 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [feat(ofiii): add activity](https://github.com/PreMiD/Activities/pull/11279) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`1 week ago`)
+- [feat(ofiii): add activity](https://github.com/PreMiD/Activities/pull/11279) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`2 weeks ago`)
 - [v1.16.24 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/170) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [docs(changelog): add v1.16.23 release notes](https://github.com/seriaati/hoyo-buddy-wiki/pull/169) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 - [ci: add Claude Code auto code review](https://github.com/seriaati/hoyo-buddy/pull/642) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 months ago`)
