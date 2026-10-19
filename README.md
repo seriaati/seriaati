@@ -33,11 +33,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
-- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`today`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Library. (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
+- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`1 day ago`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`2 days ago`)
+- [PreMiD/Activities](https://github.com/PreMiD/Activities) - 🛒 Storage for Activities located at our Activity Library. (`2 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`3 days ago`)
 
 ## Recent Stars
 
@@ -45,7 +45,7 @@ You can find me in the following places:
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player. (`1 week ago`)
 - [seriaati/box-com-downloader](https://github.com/seriaati/box-com-downloader) - Download protected files from box.com (`2 weeks ago`)
 - [OliBomby/Mapperatorinator](https://github.com/OliBomby/Mapperatorinator) - An AI framework for generating and modding osu! beatmaps for all gamemodes from spectrogram inputs. (`2 weeks ago`)
-- [seriaati/kamihime-auto](https://github.com/seriaati/kamihime-auto) - 神姬Project 自動化 Kamihime Project game automation bot (`2 weeks ago`)
+- [seriaati/kamihime-auto](https://github.com/seriaati/kamihime-auto) - 神姬Project 自動化 Kamihime Project game automation bot (`3 weeks ago`)
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely. (`2 months ago`)
 
 ## Recent PRs
