@@ -2,17 +2,8 @@ English | [中文](https://github.com/seriaati/seriaati/blob/main/README_ZH.md)
 
 # Support My Work
 
-If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation.
-
-Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.
-
-You can support me via the following methods, different services accept different payment methods:
-
-- [Commission](https://freelance.seria.moe/en): I can help you build Discord bots, web apps, and any kind of software!
-- [GitHub Sponsors](https://github.com/sponsors/seriaati): Most preferred because 0% fee, GitHub account needed.
-- [Ko-Fi](https://ko-fi.com/seriaati): 3% fee.
-- [BuyMeACoffee](https://buymeacoffee.com/seria): 8% fee.
-- [Patreon](https://www.patreon.com/seriaati): 10%+ fee.
+If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation.  
+You can get perks across all of my projects by sponsoring, [more info here](https://sponsor.seria.moe).
 
 # About Me
 
@@ -33,11 +24,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`today`)
-- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`today`)
+- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`today`)
 - [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`today`)
+- [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`today`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
 
 ## Recent Stars
 
