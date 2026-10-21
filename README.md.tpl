@@ -2,17 +2,8 @@ English | [中文](https://github.com/seriaati/seriaati/blob/main/README_ZH.md)
 
 # Support My Work
 
-If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation.
-
-Your support not only fuels my passion for coding but also helps sustain my journey as a student and developer.
-
-You can support me via the following methods, different services accept different payment methods:
-
-- [Commission](https://freelance.seria.moe/en): I can help you build Discord bots, web apps, and any kind of software!
-- [GitHub Sponsors](https://github.com/sponsors/seriaati): Most preferred because 0% fee, GitHub account needed.
-- [Ko-Fi](https://ko-fi.com/seriaati): 3% fee.
-- [BuyMeACoffee](https://buymeacoffee.com/seria): 8% fee.
-- [Patreon](https://www.patreon.com/seriaati): 10%+ fee.
+If you've found any of my open-source projects helpful, I'd be delighted if you considered expressing your gratitude by making a donation.  
+You can get perks across all of my projects by sponsoring, [more info here](https://sponsor.seria.moe).
 
 # About Me
 
