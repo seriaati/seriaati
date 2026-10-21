@@ -27,11 +27,11 @@
 ## 近期貢獻
 
 
+- [seriaati/hakushin-py](https://github.com/seriaati/hakushin-py) - Async API wrapper for hakush.in written in Python (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/ambr](https://github.com/seriaati/ambr) - Async API wrapper for Project Amber (gi.yatta.moe) written in Python (`today`)
+- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`today`)
 - [seriaati/yatta](https://github.com/seriaati/yatta) - Async API wrapper for Project Yatta (sr.yatta.moe) written in Python (`today`)
-- [seriaati/akasha-py](https://github.com/seriaati/akasha-py) - Async API wrapper for akasha.cv written in Python (`today`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
 
 ## 近期 Stars
 
@@ -45,11 +45,11 @@
 ## 近期 PR
 
 
+- [chore(majsoul): update unlock catalog to 4.0.51](https://github.com/seriaati/Akagi/pull/1) on [seriaati/Akagi](https://github.com/seriaati/Akagi) (`today`)
 - [feat(ofiii): add activity](https://github.com/PreMiD/Activities/pull/11279) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`2 weeks ago`)
 - [v1.16.24 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/170) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [docs(changelog): add v1.16.23 release notes](https://github.com/seriaati/hoyo-buddy-wiki/pull/169) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 - [ci: add Claude Code auto code review](https://github.com/seriaati/hoyo-buddy/pull/642) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`2 months ago`)
-- [Try to fix share URL redirect pathing](https://github.com/seriaati/fixthreads/pull/2) on [seriaati/fixthreads](https://github.com/seriaati/fixthreads) (`2 months ago`)
 
 # 我的專案
 
