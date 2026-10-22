@@ -28,10 +28,10 @@
 
 
 - [seriaati/roler-site](https://github.com/seriaati/roler-site) (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 - [seriaati/image-host](https://github.com/seriaati/image-host) - Lightweight image hosting service built with FastAPI (`today`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`1 day ago`)
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/seria-freelance-site](https://github.com/seriaati/seria-freelance-site) - Seria's freelance site (`1 day ago`)
 
 ## 近期 Stars
 
