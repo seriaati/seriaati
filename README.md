@@ -36,11 +36,11 @@ You can find me in the following places:
 ## Recent Stars
 
 
+- [Senkin219/GI-Character-Spine](https://github.com/Senkin219/GI-Character-Spine) - Spine models of Genshin Impact characters made by miHoYo/HoYoverse (`today`)
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (`3 days ago`)
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player. (`2 weeks ago`)
 - [seriaati/box-com-downloader](https://github.com/seriaati/box-com-downloader) - Download protected files from box.com (`2 weeks ago`)
 - [OliBomby/Mapperatorinator](https://github.com/OliBomby/Mapperatorinator) - An AI framework for generating and modding osu! beatmaps for all gamemodes from spectrogram inputs. (`3 weeks ago`)
-- [seriaati/kamihime-auto](https://github.com/seriaati/kamihime-auto) - 神姬Project 自動化 Kamihime Project game automation bot (`3 weeks ago`)
 
 ## Recent PRs
 
