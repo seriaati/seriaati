@@ -28,10 +28,10 @@ You can find me in the following places:
 
 
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/roler-site](https://github.com/seriaati/roler-site) (`1 day ago`)
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`today`)
 - [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`1 day ago`)
-- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`1 day ago`)
 - [seriaati/image-host](https://github.com/seriaati/image-host) - Lightweight image hosting service built with FastAPI (`1 day ago`)
+- [seriaati/roler-site](https://github.com/seriaati/roler-site) (`1 day ago`)
 
 ## Recent Stars
 
