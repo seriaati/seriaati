@@ -27,11 +27,11 @@
 ## 近期貢獻
 
 
-- [seria-studio/reddit-mod-bridge](https://github.com/seria-studio/reddit-mod-bridge) - Review your subreddit's modqueue from Discord (`1 day ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`1 day ago`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`3 days ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
+- [seriaati/fxBilibili](https://github.com/seriaati/fxBilibili) - Fix Bilibili link embeds on Discord (`today`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`today`)
+- [seriaati/fxreddit](https://github.com/seriaati/fxreddit) - Provides improved reddit embeds for services such as Discord. (`today`)
 
 ## 近期 Stars
 
@@ -45,11 +45,11 @@
 ## 近期 PR
 
 
+- [docs: add sponsor perks and update Features page](https://github.com/seriaati/hoyo-buddy-wiki/pull/174) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
+- [fix(docs): fix 404s from relative page links](https://github.com/seriaati/hoyo-buddy-wiki/pull/173) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
+- [fix(docs): fix 404 links on the homepage](https://github.com/seriaati/hoyo-buddy-wiki/pull/172) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
 - [docs(changelog): add v1.17.0 release notes](https://github.com/seriaati/hoyo-buddy-wiki/pull/171) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
 - [chore(majsoul): update unlock catalog to 4.0.51](https://github.com/seriaati/Akagi/pull/1) on [seriaati/Akagi](https://github.com/seriaati/Akagi) (`4 days ago`)
-- [feat(ofiii): add activity](https://github.com/PreMiD/Activities/pull/11279) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`3 weeks ago`)
-- [v1.16.24 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/170) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
-- [docs(changelog): add v1.16.23 release notes](https://github.com/seriaati/hoyo-buddy-wiki/pull/169) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
 
 # 我的專案
 
