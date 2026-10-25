@@ -27,17 +27,17 @@
 ## 近期貢獻
 
 
-- [seria-studio/reddit-mod-bridge](https://github.com/seria-studio/reddit-mod-bridge) - Review your subreddit's modqueue from Discord (`today`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`today`)
-- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`2 days ago`)
+- [seria-studio/reddit-mod-bridge](https://github.com/seria-studio/reddit-mod-bridge) - Review your subreddit's modqueue from Discord (`1 day ago`)
+- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/roler](https://github.com/seriaati/roler) - Discord bot for creating advanced and descriptive role panels easily (`1 day ago`)
+- [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`3 days ago`)
 
 ## 近期 Stars
 
 
-- [Senkin219/GI-Character-Spine](https://github.com/Senkin219/GI-Character-Spine) - Spine models of Genshin Impact characters made by miHoYo/HoYoverse (`2 days ago`)
-- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (`5 days ago`)
+- [Senkin219/GI-Character-Spine](https://github.com/Senkin219/GI-Character-Spine) - Spine models of Genshin Impact characters made by miHoYo/HoYoverse (`3 days ago`)
+- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (`6 days ago`)
 - [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player. (`2 weeks ago`)
 - [seriaati/box-com-downloader](https://github.com/seriaati/box-com-downloader) - Download protected files from box.com (`3 weeks ago`)
 - [OliBomby/Mapperatorinator](https://github.com/OliBomby/Mapperatorinator) - An AI framework for generating and modding osu! beatmaps for all gamemodes from spectrogram inputs. (`3 weeks ago`)
@@ -45,8 +45,8 @@
 ## 近期 PR
 
 
-- [docs(changelog): add v1.17.0 release notes](https://github.com/seriaati/hoyo-buddy-wiki/pull/171) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`today`)
-- [chore(majsoul): update unlock catalog to 4.0.51](https://github.com/seriaati/Akagi/pull/1) on [seriaati/Akagi](https://github.com/seriaati/Akagi) (`3 days ago`)
+- [docs(changelog): add v1.17.0 release notes](https://github.com/seriaati/hoyo-buddy-wiki/pull/171) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
+- [chore(majsoul): update unlock catalog to 4.0.51](https://github.com/seriaati/Akagi/pull/1) on [seriaati/Akagi](https://github.com/seriaati/Akagi) (`4 days ago`)
 - [feat(ofiii): add activity](https://github.com/PreMiD/Activities/pull/11279) on [PreMiD/Activities](https://github.com/PreMiD/Activities) (`3 weeks ago`)
 - [v1.16.24 changelog](https://github.com/seriaati/hoyo-buddy-wiki/pull/170) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [docs(changelog): add v1.16.23 release notes](https://github.com/seriaati/hoyo-buddy-wiki/pull/169) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 month ago`)
