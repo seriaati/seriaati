@@ -27,11 +27,11 @@
 ## 近期貢獻
 
 
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
 - [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work (`today`)
 - [seriaati/hb-data](https://github.com/seriaati/hb-data) - Package for getting data that Hoyo Buddy needs (`today`)
 - [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
 
 ## 近期 Stars
 
