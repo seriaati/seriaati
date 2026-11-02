@@ -27,11 +27,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/Akagi](https://github.com/seriaati/Akagi) - 支持雀魂、天鳳、麻雀一番街、天月麻將，能夠使用自定義的AI模型實時分析對局並給出建議，內建Mortal AI作為示例。 Supports Majsoul, Tenhou, Riichi City, Amatsuki, with the ability to use custom AI models to analyze games in real time and provide suggestions. Comes with Mortal AI as a built-in example. (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
+- [seriaati/enka-py-assets](https://github.com/seriaati/enka-py-assets) - A repo that generates and stores the assets for enka.py (`today`)
+- [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work (`today`)
+- [seriaati/enka-py](https://github.com/seriaati/enka-py) - Async API wrapper for Enka Network written in Python. Supports GI, HSR, and ZZZ (`today`)
 - [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`1 day ago`)
-- [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work (`5 days ago`)
 
 ## Recent Stars
 
@@ -45,11 +45,11 @@ You can find me in the following places:
 ## Recent PRs
 
 
+- [feat(profile): add substat breakdown strip to build cards](https://github.com/seriaati/hoyo-buddy/pull/667) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
+- [feat(logging): structure logs and group Sentry log events by call site](https://github.com/seriaati/hoyo-buddy/pull/666) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`today`)
 - [docs: rename changelog page to release notes](https://github.com/seriaati/hoyo-buddy-wiki/pull/176) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 day ago`)
 - [fix(redirects): redirect mixed-case and zh-Hant/zh-Hans docs URLs](https://github.com/seriaati/hoyo-buddy-wiki/pull/175) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`6 days ago`)
 - [docs: add sponsor perks and update Features page](https://github.com/seriaati/hoyo-buddy-wiki/pull/174) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
-- [fix(docs): fix 404s from relative page links](https://github.com/seriaati/hoyo-buddy-wiki/pull/173) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
-- [fix(docs): fix 404 links on the homepage](https://github.com/seriaati/hoyo-buddy-wiki/pull/172) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 
 # My Projects
 
