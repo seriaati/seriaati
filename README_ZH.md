@@ -36,11 +36,11 @@
 ## 近期 Stars
 
 
+- [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`today`)
 - [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero (`2 weeks ago`)
 - [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work (`3 weeks ago`)
 - [Senkin219/GI-Character-Spine](https://github.com/Senkin219/GI-Character-Spine) - Spine models of Genshin Impact characters made by miHoYo/HoYoverse (`3 weeks ago`)
 - [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (`4 weeks ago`)
-- [talwat/lowfi](https://github.com/talwat/lowfi) - An extremely simple lofi player. (`1 month ago`)
 
 ## 近期 PR
 
