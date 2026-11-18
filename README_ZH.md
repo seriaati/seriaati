@@ -29,18 +29,18 @@
 
 - [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`today`)
 - [seriaati/foodplanner](https://github.com/seriaati/foodplanner) - Client-side Forge 1.20.1 mod that lists foods you can cook from nearby containers, sorted by Spice of Life diversity gain (`today`)
-- [seriaati/hb-app](https://github.com/seriaati/hb-app) - Hoyo Buddy's web app. (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
-- [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero (`3 days ago`)
+- [seriaati/seria-projects](https://github.com/seriaati/seria-projects) - Seria's project showcase website (`today`)
+- [seriaati/cte2-talent-loader](https://github.com/seriaati/cte2-talent-loader) - Load a cte2-db build into your Craft to Exile 2 character (`today`)
+- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`today`)
 
 ## 近期 Stars
 
 
+- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`today`)
 - [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`2 days ago`)
 - [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero (`2 weeks ago`)
 - [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work (`3 weeks ago`)
 - [Senkin219/GI-Character-Spine](https://github.com/Senkin219/GI-Character-Spine) - Spine models of Genshin Impact characters made by miHoYo/HoYoverse (`3 weeks ago`)
-- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. (`1 month ago`)
 
 ## 近期 PR
 
