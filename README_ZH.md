@@ -28,16 +28,16 @@
 
 
 - [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
-- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`today`)
-- [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`1 day ago`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`1 day ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
+- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`1 day ago`)
+- [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`2 days ago`)
 
 ## 近期 Stars
 
 
-- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`1 day ago`)
-- [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`3 days ago`)
+- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`2 days ago`)
+- [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`4 days ago`)
 - [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero (`2 weeks ago`)
 - [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work (`3 weeks ago`)
 - [Senkin219/GI-Character-Spine](https://github.com/Senkin219/GI-Character-Spine) - Spine models of Genshin Impact characters made by miHoYo/HoYoverse (`4 weeks ago`)
