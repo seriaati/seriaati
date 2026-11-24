@@ -27,11 +27,11 @@
 ## 近期貢獻
 
 
-- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`1 day ago`)
-- [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic. (`1 day ago`)
-- [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) - Hoyo Buddy documentation (`3 days ago`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`3 days ago`)
-- [seriaati/seria-api](https://github.com/seriaati/seria-api) - API for Seria's projects to connect to. (`3 days ago`)
+- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`today`)
+- [seriaati/cte2-talent-loader](https://github.com/seriaati/cte2-talent-loader) - Load a cte2-db build into your Craft to Exile 2 character (`today`)
+- [seriaati/seria-bot](https://github.com/seriaati/seria-bot) - Discord bot for Seria's Discord server (`today`)
+- [seriaati/seria-api](https://github.com/seriaati/seria-api) - API for Seria's projects to connect to. (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 
 ## 近期 Stars
 
