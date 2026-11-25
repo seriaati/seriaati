@@ -27,28 +27,28 @@
 ## 近期貢獻
 
 
-- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`today`)
-- [seriaati/cte2-talent-loader](https://github.com/seriaati/cte2-talent-loader) - Load a cte2-db build into your Craft to Exile 2 character (`today`)
 - [seriaati/seria-bot](https://github.com/seriaati/seria-bot) - Discord bot for Seria's Discord server (`today`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
+- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`today`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
 - [seriaati/seria-api](https://github.com/seriaati/seria-api) - API for Seria's projects to connect to. (`today`)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 
 ## 近期 Stars
 
 
-- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`6 days ago`)
+- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`1 week ago`)
 - [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`1 week ago`)
 - [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero (`3 weeks ago`)
-- [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work (`4 weeks ago`)
+- [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work (`1 month ago`)
 - [Senkin219/GI-Character-Spine](https://github.com/Senkin219/GI-Character-Spine) - Spine models of Genshin Impact characters made by miHoYo/HoYoverse (`1 month ago`)
 
 ## 近期 PR
 
 
-- [docs(release-notes): add v1.19.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/180) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 days ago`)
+- [docs(release-notes): add v1.19.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/180) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 days ago`)
 - [docs(release-notes): add v1.18.0 static animated card fix](https://github.com/seriaati/hoyo-buddy-wiki/pull/179) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
 - [docs(release-notes): add v1.18.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/178) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
-- [docs(release-notes): add Discord notification sentence](https://github.com/seriaati/hoyo-buddy-wiki/pull/177) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
+- [docs(release-notes): add Discord notification sentence](https://github.com/seriaati/hoyo-buddy-wiki/pull/177) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [feat(profile): add substat breakdown strip to build cards](https://github.com/seriaati/hoyo-buddy/pull/667) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
 
 # 我的專案
