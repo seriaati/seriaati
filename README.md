@@ -27,11 +27,11 @@ You can find me in the following places:
 ## Recent Contributions
 
 
-- [seriaati/seria-bot](https://github.com/seriaati/seria-bot) - Discord bot for Seria's Discord server (`today`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`today`)
 - [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`today`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/seria-api](https://github.com/seriaati/seria-api) - API for Seria's projects to connect to. (`today`)
+- [seriaati/seria-bot](https://github.com/seriaati/seria-bot) - Discord bot for Seria's Discord server (`1 day ago`)
+- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`1 day ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`1 day ago`)
+- [seriaati/seria-api](https://github.com/seriaati/seria-api) - API for Seria's projects to connect to. (`1 day ago`)
 
 ## Recent Stars
 
@@ -45,9 +45,9 @@ You can find me in the following places:
 ## Recent PRs
 
 
-- [docs(release-notes): add v1.19.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/180) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`4 days ago`)
-- [docs(release-notes): add v1.18.0 static animated card fix](https://github.com/seriaati/hoyo-buddy-wiki/pull/179) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
-- [docs(release-notes): add v1.18.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/178) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`2 weeks ago`)
+- [docs(release-notes): add v1.19.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/180) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`5 days ago`)
+- [docs(release-notes): add v1.18.0 static animated card fix](https://github.com/seriaati/hoyo-buddy-wiki/pull/179) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
+- [docs(release-notes): add v1.18.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/178) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [docs(release-notes): add Discord notification sentence](https://github.com/seriaati/hoyo-buddy-wiki/pull/177) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [feat(profile): add substat breakdown strip to build cards](https://github.com/seriaati/hoyo-buddy/pull/667) on [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) (`3 weeks ago`)
 
