@@ -27,20 +27,20 @@ You can find me in the following places:
 ## Recent Contributions
 
 
+- [seriaati/fxBilibili](https://github.com/seriaati/fxBilibili) - Fix Bilibili link embeds on Discord (`today`)
 - [seriaati/touhou-chess-analyzer](https://github.com/seriaati/touhou-chess-analyzer) - Card-aware move analyzer for Touhou Chess (`today`)
-- [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`1 day ago`)
-- [seriaati/seria-bot](https://github.com/seriaati/seria-bot) - Discord bot for Seria's Discord server (`2 days ago`)
-- [seriaati/keni](https://github.com/seriaati/keni) - Open-source AI personal finance tracker (`2 days ago`)
-- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`2 days ago`)
+- [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
+- [seriaati/undoom](https://github.com/seriaati/undoom) - Stop the doom, keep the scroll (`today`)
+- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`today`)
 
 ## Recent Stars
 
 
+- [seriaati/undoom](https://github.com/seriaati/undoom) - Stop the doom, keep the scroll (`today`)
 - [seriaati/touhou-chess-analyzer](https://github.com/seriaati/touhou-chess-analyzer) - Card-aware move analyzer for Touhou Chess (`today`)
 - [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`1 week ago`)
 - [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`1 week ago`)
 - [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero (`3 weeks ago`)
-- [seriaati/mochi](https://github.com/seriaati/mochi) - A small personal dashboard for managing freelance work (`1 month ago`)
 
 ## Recent PRs
 
