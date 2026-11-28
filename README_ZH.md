@@ -27,25 +27,25 @@
 ## 近期貢獻
 
 
-- [seriaati/fxBilibili](https://github.com/seriaati/fxBilibili) - Fix Bilibili link embeds on Discord (`today`)
+- [seriaati/fxrednote](https://github.com/seriaati/fxrednote) - Fixes rednote (小红书 / xiaohongshu) link previews on Discord (`today`)
 - [seriaati/touhou-chess-analyzer](https://github.com/seriaati/touhou-chess-analyzer) - Card-aware move analyzer for Touhou Chess (`today`)
+- [seriaati/roler-site](https://github.com/seriaati/roler-site) (`today`)
 - [seriaati/embed-fixer](https://github.com/seriaati/embed-fixer) - Feature-rich Discord bot for fixing social media embeds (`today`)
-- [seriaati/undoom](https://github.com/seriaati/undoom) - Stop the doom, keep the scroll (`today`)
-- [seriaati/embed-fixer-site](https://github.com/seriaati/embed-fixer-site) - Official website for Embed Fixer. (`today`)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (`today`)
 
 ## 近期 Stars
 
 
-- [seriaati/undoom](https://github.com/seriaati/undoom) - Stop the doom, keep the scroll (`today`)
-- [seriaati/touhou-chess-analyzer](https://github.com/seriaati/touhou-chess-analyzer) - Card-aware move analyzer for Touhou Chess (`today`)
+- [seriaati/fxrednote](https://github.com/seriaati/fxrednote) - Fixes rednote (小红书 / xiaohongshu) link previews on Discord (`today`)
+- [seriaati/undoom](https://github.com/seriaati/undoom) - Stop the doom, keep the scroll (`1 day ago`)
+- [seriaati/touhou-chess-analyzer](https://github.com/seriaati/touhou-chess-analyzer) - Card-aware move analyzer for Touhou Chess (`1 day ago`)
 - [seriaati/hadal](https://github.com/seriaati/hadal) - Web game where rarer answers take you deeper into the sea (`1 week ago`)
 - [seriaati/cte2-db](https://github.com/seriaati/cte2-db) - Fan-made database site for the Minecraft modpack Craft to Exile 2 (`1 week ago`)
-- [seriaati/kanso](https://github.com/seriaati/kanso) - A calm, open-source email client for reaching inbox zero (`3 weeks ago`)
 
 ## 近期 PR
 
 
-- [docs(release-notes): add v1.19.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/180) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`6 days ago`)
+- [docs(release-notes): add v1.19.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/180) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`1 week ago`)
 - [docs(release-notes): add v1.18.0 static animated card fix](https://github.com/seriaati/hoyo-buddy-wiki/pull/179) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [docs(release-notes): add v1.18.0](https://github.com/seriaati/hoyo-buddy-wiki/pull/178) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
 - [docs(release-notes): add Discord notification sentence](https://github.com/seriaati/hoyo-buddy-wiki/pull/177) on [seriaati/hoyo-buddy-wiki](https://github.com/seriaati/hoyo-buddy-wiki) (`3 weeks ago`)
